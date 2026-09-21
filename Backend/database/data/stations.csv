@@ -1,0 +1,4737 @@
+station_code,station_name,railway_zone
+AADR,Amb  Andaura,NR
+AAG,Angar,CR
+AAL,Amlai,SECR
+AAM,Angadippuram,SR
+AAR,Adesar,WR
+AAS,Asranada,NWR
+AAY,Aralvaymoli,SR
+AB,Ambur,SR
+ABD,Ambli Road,WR
+ABI,Ambaturai,SR
+ABKA,Ambika Kalna,ER
+ABKP,Ambikapur,SECR
+ABLE,Ambale,CR
+ABO,Asthal Bohar,NR
+ABP,Akbarpur,NR
+ABR,Abu Road,NWR
+ABRV,Ambari Richhavi,WR
+ABS,Abohar,NR
+ABSA,Ambassa,NFR
+ABU,Ambattur,SR
+ACG,Achegaon,CR
+ACH,Achalganj,NR
+ACL,Ancheli,WR
+ACLE,Azimganj City,ER
+ACN,Adhichchanur,SR
+ACPR,Archipathar,NFR
+ACRN,Achirne,KRCL
+AD,Adoni,SCR
+ADB,Adilabad,SCR
+ADH,Andheri,WR
+ADHL,Adihalli,SWR
+ADI,Ahmedabad,WR
+ADL,Andul,SER
+ADPT,Andipatti,SR
+ADR,Mandi Adampur,NWR
+ADRA,Adra,SER
+ADST,Adi Saptagram,ER
+ADT,Aduturai,SR
+ADTL,Adhartal,WCR
+ADTP,Adityapur,SER
+ADVI,Adavali,KRCL
+ADX,Adapur,ECR
+AED,Aulenda,NCR
+AEH,Anant Paith,NCR
+AEK,Anekal Road,SWR
+AEL,Ateli,NWR
+AF,Agra Fort,NCR
+AFK,Angamali,SR
+AFR,Asafpur,NR
+AGAS,Agas,WR
+AGB,Ambagaon,ECOR
+AGC,Agra Cantt,NCR
+AGI,Amguri,NFR
+AGMN,Agomoni,NFR
+AGN,Amgaon,SECR
+AGR,Amargarh,WR
+AGTL,Agartala,NFR
+AGV,Angua,SER
+AGZ,Amagura,ECOR
+AH,Achhnera,NCR
+AHA,Abhaipur,ER
+AHH,Ahmadgarh,NR
+AHN,Ahiran,ER
+AI,Adipur,WR
+AIA,Ajaraka,NWR
+AII,Ajmer,NWR
+AIT,Ait,NCR
+AJE,Anjar,WR
+AJI,Anjhi Shahabad,NR
+AJJ,Arakkonam,SR
+AJK,Ajakollu,SCR
+AJNI,Ajni,CR
+AJP,Ajjampur,SWR
+AJR,Ajaibpur,NCR
+AK,Akola,CR
+AKD,Akodia,WR
+AKE,Akanapet,SCR
+AKJ,Akbarganj,NR
+AKN,Akbarnagar,ER
+AKOR,Akalkot Road,CR
+AKP,Anakapalle,SCR
+AKRD,Akurdi,CR
+AKT,Akaltara,SECR
+AKV,Ankleshwar,WR
+AKVD,Akividu,SCR
+ALAT,Avuladatla,SWR
+ALB,Alia Bada,WR
+ALER,Aler,SCR
+ALGP,Algapur,NFR
+ALJN,Aligarh,NCR
+ALLP,Alappuzha,SR
+ALM,Alamanda,ECOR
+ALMR,Alampur,WR
+ALPR,Alampur Road,SCR
+ALS,Amlori Sarsar,NE
+ALU,Ariyalur,SR
+ALUR,Alur Halt,SWR
+ALW,Alwal,SCR
+AMB,Ambodala,ECOR
+AMBR,Ambika Rohina,SCR
+AMC,Amritapura,SWR
+AME,Amethi,NR
+AMG,Alamnagar,NR
+AMGA,Amjonga,NFR
+AMH,Azamgarh,NE
+AMI,Amravati,CR
+AML,Amalsad,WR
+AMLA,Amla,CR
+AMLI,Amli,WCR
+AMLP,Amalpur,WR
+AMM,Adirampatinam,SR
+AMNE,Amalner Bhandyache,CR
+AMO,Amolwa,ECR
+AMP,Ahamadpur,ER
+AMPA,Ambalappuzha,SR
+AMPL,Ammapalli Halt,ER
+AMPR,Amarpura Rathan,NWR
+AMQ,Ammuguda,SCR
+AMRO,Amroha,NR
+AMSA,Ammasandra,SWR
+AN,Amalner,WR
+ANA,Aslana,WCR
+ANAS,Anas,WR
+ANB,Ammanabrolu,SCR
+ANCR,Anchuri,SER
+AND,Andampaliam,SR
+ANDI,Adarsh Nagar Delhi,NR
+ANDN,Anand Nagar,NE
+ANE,Anantarajupet,SCR
+ANF,Anandapuram,SWR
+ANG,Ahmadnagar,CR
+ANGL,Angul,ECOR
+ANGR,Angadgeri Halt,SWR
+ANI,Ajanti,WR
+ANK,Ankai,SCR
+ANKL,Ankola,KRCL
+ANMD,Arang Mahanadi,ECOR
+ANND,Anand,WR
+ANO,Anjani,KRCL
+ANPR,Anpara,ECR
+ANR,Anara,SER
+ANSB,Anandpur Sahib,NR
+ANT,Anantnag,NR
+ANV,Annavaram,SCR
+ANVR,Anand Vihar,NR
+ANVT,Anand Vihar Terminal,NR
+ANW,Anawal,WR
+ANY,Arumuganeri,SR
+AO,Aonla,NR
+APA,Amarpura,NWR
+APDJ,Alipur Duar,NFR
+APK,Aruppukkottai,SR
+APL,Appikatla,SCR
+APMR,Appaipalli,SCR
+APN,Ayodhyapattanam,SR
+APR,Anuppur,SECR
+APT,Anaparti,SCR
+APTA,Apta,CR
+AQG,Ashapura Gomat,NWR
+ARA,Ara,ECR
+ARCL,Arunachal,NFR
+ARD,Amarda Road,SER
+ARGP,Aralaguppe,SWR
+ARI,Antri,NCR
+ARJ,Aunrihar,NE
+ARK,Araku,ECOR
+ARKV,Araku Valley,ECOR
+ARL,Araul Makanpur,NE
+ARNA,Arniya,NWR
+ARPL,Arepalli Halt,SCR
+ARPR,Alirajpur,WR
+ARQ,Arariya Court,NFR
+ARU,Arasalu,SWR
+ARV,Arni Road,SR
+AS,Arjansar,NWR
+ASAF,Asifabad Road,SCR
+ASCE,Athsarai,NCR
+ASD,Ambasamudram,SR
+ASE,Asaudah,NR
+ASH,Aishbagh,NE
+ASK,Arsikere,SWR
+ASKN,Ashok Nagar,WCR
+ASL,Aslaoda,WR
+ASN,Asansol,ER
+ASR,Amritsar,NR
+AST,Asaoti,NR
+ASV,Asarva,WR
+AT,Asnoti,KRCL
+ATC,Arts College,SCR
+ATE,Atarra,NCR
+ATH,Antah,WCR
+ATL,Athmal Gola,ECR
+ATNR,Awatarnagar,ECR
+ATP,Anantapur,SCR
+ATPA,Awantipura,NR
+ATQ,Arantangi,SR
+ATR,Attar,WR
+ATRU,Atru,WCR
+ATS,Attabira,ECOR
+ATU,Attur,SR
+ATUL,Atul,WR
+ATX,Alinagar Tola,ECR
+AUB,Aluabari Road,NFR
+AUBR,Anugraha N Road,ECR
+AUI,Aurahi,ECR
+AUN,Aurang Nagar,NWR
+AUNG,Aung,NCR
+AUS,Anupshahr,NWR
+AVD,Avadi,SR
+AVK,Aravankadu,SR
+AVN,Anavardikhanpettai,SR
+AVRD,Aravali Road,KRCL
+AVS,Auvaneswsarem,SR
+AWB,Aurangabad,SCR
+AWR,Alwar,NWR
+AWY,Aluva,SR
+AXA,Amarsar,WR
+AY,Ayodhya Dham,NR
+AYC,Ayodhya Cantt,NR
+AYD,Ayandur,SR
+AYU,Abhayapuri Asam,NFR
+AYV,Aryankavu,SR
+AYVN,Aryankavu New Block,SR
+AZ,Azimganj,ER
+AZA,Azara,NFR
+AZR,Azamnagar Road,NFR
+BAB,Babina,NCR
+BABH,Bahalba Halt,ER
+BABR,Balanagar,SCR
+BAF,Bap,NWR
+BAGD,Bagwada,WR
+BAGJ,Barharagani,NE
+BAGL,Bara Gopal,ECR
+BAH,Bhabhar,WR
+BAHI,Balenahalli,SWR
+BAHL,Banihal,NR
+BAHP,Band Hamirpur,NR
+BAI,Bassi,NWR
+BAJ,Bhalej,WR
+BAK,Bhankari,NWR
+BAKA,Banka,ER
+BAKT,Barhara Kothi,ECR
+BAL,Budalur,SR
+BALU,Balugan,ECOR
+BAM,Brahmapur,ECOR
+BAMA,Birambad,NCR
+BAMR,Bamur,ECOR
+BAND,Banaswadi,SWR
+BANE,Basni,NWR
+BANO,Bano,SER
+BAO,Banmor,NCR
+BAP,Belapur,CR
+BAPR,Ballupur,NE
+BAQ,Ganj Basoda,WCR
+BAR,Bar,NWR
+BARH,Barh,ECR
+BARL,Baral,NR
+BAT,Batala,NR
+BAU,Burhanpur,CR
+BAW,Chik Banavar,SWR
+BAWD,Bhadwad,WR
+BAY,Ballari,SWR
+BAZ,Baran,WCR
+BBA,Babrala,NR
+BBAI,Bhadbhunja,WR
+BBD,Bablad,CR
+BBGN,Barua Bamungaon,NFR
+BBHT,Barabar Halt,ECR
+BBK,Barabanki,NR
+BBM,Barabhum,SER
+BBN,Barbil,SER
+BBS,Bhubaneswar,ECOR
+BBSN,Bhubaneswar New,ECOR
+BBTR,Barbatpur,CR
+BBU,Bhabua Road,ECR
+BC,Bareilly City,NE
+BCA,Bachwara,ECR
+BCB,Bhowra Bh,SER
+BCH,Berchha,WR
+BCHL,Bacheli,ECOR
+BCK,Balichak,SER
+BCN,Bachhrawan,NR
+BCOB,Bhachau Bg,WR
+BCP,Bichpuri,NCR
+BCQ,Barachak,ER
+BCRD,Barchhi Road,CR
+BCU,Bhuchchu,NR
+BCY,Varanasi City,NE
+BD,Badnera,CR
+BDBA,Badabandha,ECOR
+BDBP,Basudebpur,ER
+BDC,Bandel,ER
+BDCR,Bhadrachalam Rd,SCR
+BDDR,Badodar,WR
+BDE,Bodeli,WR
+BDGM,Badgam,NR
+BDGU,Budagumpa,SWR
+BDH,Bhedia,ER
+BDI,Bhadli,CR
+BDJ,Vadakara,SR
+BDL,Vindhyachal,NCR
+BDLN,Bordolani,NFR
+BDM,Badami,SWR
+BDMJ,Bhodwal Majri,NR
+BDNK,Bodinayakkanur,SR
+BDNP,Bidanpur,NCR
+BDO,Bahalda Road,SER
+BDPG,Bada Padagaon,ECOR
+BDPK,Burhapanka,ECOR
+BDSW,Budhsinghwala,NWR
+BDTS,Bandra Terminus,WR
+BDU,Badnapur,SCR
+BDVL,Budvel,SCR
+BDVR,Boddavara,ECOR
+BDVT,Bhadravati,SWR
+BDW,Bandanwara,NWR
+BDWD,Bodwad,CR
+BDWL,Biradhwal,NWR
+BDWS,Badarwas,WCR
+BDXT,Basai Dhankot,NR
+BDXX,Badearapur,ECOR
+BDYR,Bidyadabri,NFR
+BDZ,Badkulla,ER
+BE,Bareilly(nr),NR
+BEA,Bihiya,ECR
+BEAS,Beas,NR
+BEB,Beldanga,ER
+BEDM,Bedham,NCR
+BEH,Bagdihi,SER
+BEHJ,Behaj,NCR
+BEHR,Beohari,WCR
+BEHS,Bihar Sharif,ECR
+BELA,Bela,ECR
+BELD,Belkhera,WCR
+BEM,Badaun,NE
+BENA,Belonia,NFR
+BENL,Benl,SWR
+BER,Beawar,NWR
+BET,Bareth,WCR
+BEU,Bisheshwarganj,NE
+BEW,Betavad,WR
+BEY,Bugganipalle,SCR
+BFD,Borhat,NFR
+BFE,Bahawal Basi,NR
+BFJ,Bhoras Budrukh,CR
+BFM,Bhalui,ECR
+BFR,Bekal Fort,SR
+BFT,Bhabta,ER
+BG,Bhongir,SCR
+BGAE,Balagarh,ER
+BGAN,Bangain,NE
+BGBR,Bagbahra,ECOR
+BGD,Bara Gudah,NWR
+BGHI,Baghai Road,WCR
+BGHU,Borraguhallu,ECOR
+BGK,Bagalkot,SWR
+BGKT,Bhagat Ki Kothi,NWR
+BGM,Belagavi,SWR
+BGMR,Bagumra,WR
+BGN,Borgaon,CR
+BGND,Boginadi,NFR
+BGNP,Banaganapalle,SCR
+BGNR,Bgnagar,SWR
+BGO,Bogri Road,SER
+BGP,Bhagalpur,ER
+BGPL,Baghuapal,ECOR
+BGQ,Bhongaon,NCR
+BGRA,Baghnapara,ER
+BGS,Begusarai,ECR
+BGSF,Bisugirsharif,SCR
+BGTA,Bagra Tawa,WCR
+BGU,Bairagnia,ECR
+BGVN,Bhigwan,CR
+BGWD,Bagewadi H,SWR
+BGWI,Begdewadi,CR
+BGY,Bangriposi,SER
+BGZ,Bahadurgarh,NR
+BH,Bharuch,WR
+BHA,Bhandai,NCR
+BHAL,Bhatiel,WR
+BHB,Badla Ghat,ECR
+BHBK,Bodhadi Bujrug,SCR
+BHBR,Bathua Bazar Halt,NE
+BHC,Bhadrakh,ECOR
+BHCL,Bahora Chandil,ECR
+BHD,Badli,NR
+BHET,Bhestan,WR
+BHGJ,Bihariganj,ECR
+BHI,Baheri,NE
+BHJA,Bheja,ECOR
+BHKD,Bhurkunda,ECR
+BHKH,Baghoi Kusa,ECR
+BHL,Bhilwara,NWR
+BHLA,Behula,ER
+BHLE,Barahat,ER
+BHLK,Bhalki,SCR
+BHLP,Bhulanpur,NE
+BHNE,Bhone,WR
+BHNS,Bhansi,ECOR
+BHP,Bolpur S Niktn,ER
+BHPI,Bichhupali,ECOR
+BHRM,Bishramganj,NFR
+BHS,Vidisha,WCR
+BHT,Bhattu,NWR
+BHTA,Bhatiya,WR
+BHTK,Bhanwar Tonk,SECR
+BHTL,Bhatel,WR
+BHTN,Bhitoni,WCR
+BHTR,Bhatpar Rani,NE
+BHUJ,Bhuj,WR
+BHW,Barharwa,ER
+BHWA,Bechhiwara,NWR
+BHWR,Bhitiharwa Ashram,ECR
+BHX,Bulluana,NR
+BHZ,Bihara,NFR
+BIA,Bhilai,SECR
+BID,Bidadi,SWR
+BIDR,Bidar,SCR
+BIG,Belgahna,SECR
+BIJ,Birnagar,ER
+BIJR,Bijoor,KRCL
+BILD,Bildi,WR
+BILP,Bhilpur,WR
+BIM,Bilimora,WR
+BINA,Bina,WCR
+BINR,Brij Nagar,NCR
+BIO,Bordi,WR
+BIP,Bahilpurwa,NCR
+BIQ,Bansi Paharpur,NCR
+BIRD,Bhiwandi Road,CR
+BIRP,Birarajpur,SER
+BIS,Biswa Bridge,CR
+BIWK,Bisalwas Kalan,WR
+BIX,Bhind,NCR
+BIY,Bardoli,WR
+BJ,Bahjoi,NR
+BJD,Barejadi,WR
+BJE,Bhojudih,SER
+BJF,Bijni,NFR
+BJG,Bajrangarh,WR
+BJIH,Bijuli Halt,ECR
+BJKN,Bajekan,NWR
+BJM,Bhagavathipuram,SR
+BJMD,Bara Jamda,SER
+BJNR,Bijainagar,NWR
+BJO,Bijnor,NR
+BJP,Vijayapura,SWR
+BJR,Barrajpur,NE
+BJRA,Bhajera,NCR
+BJRI,Bijuri,SECR
+BJU,Barauni,ECR
+BJW,Bajva,WR
+BJWS,Bojawas,NWR
+BKC,Bhikamkor,NWR
+BKG,Banka Ghat,ECR
+BKH,Bankhedi,WCR
+BKI,Bandikui,NWR
+BKJ,Barkur,KRCL
+BKL,Bona Kalu,SCR
+BKLE,Bakudi,ER
+BKN,Bikaner,NWR
+BKNG,Bhakti Nagar,WR
+BKO,Bindki Road,NCR
+BKP,Bakhtiyarpur,ECR
+BKPT,Bhakarapet,SCR
+BKRD,Bhaluka Road F,NFR
+BKRL,Bakrol,WR
+BKRO,Bokaro Thermal,ECR
+BKSC,Bokaro Steel City,SER
+BKSL,Bikramshila,ER
+BKTL,Baktal,WR
+BKWA,Bakayanwala,NR
+BL,Valsad,WR
+BLD,Bhilad,WR
+BLDA,Belda,SER
+BLDI,Bhildi,WR
+BLG,Bilhar Ghat,NR
+BLGH,Bishalgarh,NFR
+BLGR,Balangir,ECOR
+BLGT,Balurghat,NFR
+BLH,Belgharia,ER
+BLK,Belakoba,NFR
+BLL,Bantanahal,SCR
+BLLI,Balli,KRCL
+BLM,Balamu,NR
+BLMR,Bhalukmara,NFR
+BLNI,Bhalwani,CR
+BLNR,Birlanagar,NCR
+BLO,Bhulon,WCR
+BLP,Balrampur,NE
+BLPA,Bilasipara,NFR
+BLPE,Balapalle,SCR
+BLPR,Badulipar,NFR
+BLPU,Bilpur,NR
+BLQR,Bilaspur Road,NE
+BLR,Balganur,SWR
+BLRR,Belandur Road,SWR
+BLS,Balasore,SER
+BLSN,Belsonda,ECOR
+BLT,Balotra,NWR
+BLTR,Belthara Road,NE
+BLU,Bilhaur,NE
+BLX,Bolai,WR
+BLY,Bally,ER
+BLZ,Budhlada,NR
+BMB,Bamra,SER
+BMCK,Bissamcuttack,ECOR
+BMD,Bhimadolu,SCR
+BME,Barmer,NWR
+BMF,Basmat,SCR
+BMGA,Bhimgara,ER
+BMGN,Bamunigaon,NFR
+BMH,Betamcherla,SCR
+BMI,Bamnia,WR
+BMJ,Bridgmanganj,NE
+BMK,Birang Khera,NWR
+BMKD,Bellamkonda,SCR
+BMKI,Bapudm Motihari,ECR
+BMNL,Baman Wali Halt,NWR
+BMO,Bolarum,SCR
+BMPL,Brahmanpalli,SCR
+BMPR,Badampahar,SER
+BMR,Bikrampur,WCR
+BMRN,Bhimrana,WR
+BMSB,Bhimasar Bg,WR
+BMT,Begampet,SCR
+BMU,Bamhrauli,NCR
+BN,Bibinagar,SCR
+BNA,Banni Koppa,SWR
+BNBH,Bani Bihar,ECOR
+BNBR,Bahanaga Bazar,SER
+BNC,Bangalore Cant,SWR
+BNCE,Bangalore East,SWR
+BNDA,Banda,NCR
+BNDI,Barundini,WCR
+BNDM,Bondamunda,SER
+BNDP,Buniadpur,NFR
+BNE,Bohani,WCR
+BNG,Barnagar,WR
+BNGM,Bangurgram,NWR
+BNGN,Bongaigaon,NFR
+BNI,Budni,WCR
+BNK,Banasankarai Halt,SWR
+BNKH,Bhairanayakanahalli,SWR
+BNKI,Banmankhi,ECR
+BNL,Bevinahalu,SCR
+BNLS,Bangi Nihalsngh,NWR
+BNLW,Banasthali Niwai,NWR
+BNN,Barnala,NR
+BNO,Banar,NWR
+BNOD,Benoda,CR
+BNP,Bhanapur,SWR
+BNQ,Banarhat,NFR
+BNR,Bhagwanpur,ECR
+BNSA,Banbasa,NE
+BNT,Bharthana,NCR
+BNTH,Bandhnath,WR
+BNTL,Bantawala,SWR
+BNU,Bandakpur,WCR
+BNV,Binnaguri,NFR
+BNVD,Bhanvad,WR
+BNW,Bhiwani,NWR
+BNXR,Bidhan Nagar,ER
+BNY,Barhni,NE
+BNZ,Badshahnagar,NE
+BOBS,Bobas,NWR
+BOD,Bangrod,WR
+BOE,Barsoi,NFR
+BOF,Barog,NR
+BOG,Bhairongarh,WR
+BOI,Bainchi,ER
+BOJ,Bhojo,NFR
+BOKE,Bhoke,KRCL
+BOKO,Boko,NFR
+BOKR,Bhokar,SCR
+BOMN,Bommagundanakere,SWR
+BONA,Boinda,ECOR
+BOR,Boisar,WR
+BORA,Baghdogra,NFR
+BOW,Borawar,NWR
+BOY,Bhadohi,NR
+BOZ,Bolarum Bazar,SCR
+BP,Barrackpore,ER
+BPA,Belampalli,SCR
+BPB,Badarpur,NFR
+BPC,Berhampore Crt,ER
+BPD,Bahadurpur,ER
+BPE,Benapur,SER
+BPF,Banapura,WCR
+BPH,Belpahar,SECR
+BPHB,Bhilai Pwr Hs,SECR
+BPK,Bhugaon,CR
+BPKA,Bhopalka,WR
+BPL,Bhopal,WCR
+BPO,Baripada,SER
+BPP,Bapatla,SCR
+BPQ,Balharshah,CR
+BPR,Bhojipura,NE
+BPRA,Baripura,NCR
+BPRD,Barpeta Road,NFR
+BPRH,Balpur Halt,SECR
+BPRS,Bhogpur Sirwal,NR
+BPS,Banpas,ER
+BPZ,Bazpur,NE
+BQA,Bankura,SER
+BQE,Bakanian Bhaunr,WR
+BQG,Bhagwangola,ER
+BQI,Bommidi,SR
+BQM,Barelipar,CR
+BQN,Bagri Nagar,NWR
+BQP,Bighapur,NR
+BQQ,Bakhleta,WCR
+BQR,Bhilainagar,SECR
+BQSP,Basuchak Halt,ECR
+BQU,Bhattiprolu,SCR
+BQW,Barakalan,ECR
+BR,Bandh Bareta,NCR
+BRAG,Barang,ECOR
+BRBS,Birbans Ph,SER
+BRC,Vadodara,WR
+BRD,Bhandara Road,SECR
+BRE,Bharwari,NCR
+BRG,Bargarh,NCR
+BRGA,Bargarh Road,ECOR
+BRGJ,Bargaon Gujar,CR
+BRGL,Burgula Halt,SCR
+BRGM,Baraigram,NFR
+BRGT,Bheraghat,WCR
+BRGW,Bargawan,WCR
+BRH,Baikunthpur Rd,SECR
+BRHI,Barhi,ECR
+BRI,Bhiringi,WCR
+BRJN,Brajrajnagar,SECR
+BRK,Bahraich,NE
+BRKA,Barka Kana,SER
+BRKY,Boraki,NCR
+BRM,Barabambo,SER
+BRMD,Biramdih,SER
+BRMO,Bermo,ECR
+BRN,Barhan,NCR
+BRNA,Berawanya,WR
+BRPL,Barpali,ECOR
+BRPS,Barapalasi,ER
+BRQ,Bagrakot,NFR
+BRR,Barakar,ER
+BRRG,Biyavra Rajgarh,WCR
+BRRZ,Barara Buzurg,NR
+BRS,Birsinghpur,SECR
+BRST,Birpurusothampr,ECOR
+BRTK,Bhortex,WR
+BRU,Bhairoganj,ECR
+BRUD,Barud,WCR
+BRVR,Borvihir,CR
+BRW,Bariwala,NR
+BRWD,Barwadih,ECR
+BRY,Bareilly,NE
+BRYA,Barhiya,ECR
+BRZ,Bareta,NR
+BSAE,Bansh Baria,ER
+BSB,Varanasi,NR
+BSBR,Bansloi Bridge,ER
+BSBS,Banaras,NE
+BSC,Bulandshahr,NR
+BSDP,Bhusandpur,ECOR
+BSDR,Bansadhara Ph,ECOR
+BSE,Badshahpur,NR
+BSGN,Basugaon,NFR
+BSI,Basbari,NFR
+BSJ,Bhupalsagar,NWR
+BSKH,Basukinath,ER
+BSKO,Banskho,NWR
+BSKR,Basi Kiratpur,NR
+BSL,Bhusaval,CR
+BSLE,Bataspur,ER
+BSN,Banasandra,SWR
+BSP,Bilaspur,SECR
+BSPH,Bishanpur Hryna,NR
+BSPN,Bassi Pathanam,NR
+BSPR,Bishrampur,SECR
+BSPX,Banspani,SER
+BSQP,Bansipur,ECR
+BSR,Vasai Road,WR
+BSRL,Besroli,NWR
+BSRX,Bagevadi Rd,SWR
+BSSL,Basi Beriasal,WCR
+BST,Basti,NE
+BSTP,Basantapur,ECOR
+BSWA,Baiswara,NR
+BSX,Basar,SCR
+BSZ,Bharwa Sumerpur,NCR
+BTA,Bihta,ECR
+BTC,Balaghat,SECR
+BTD,Botad,WR
+BTE,Bharatpur,WCR
+BTG,Basharatganj,NR
+BTGH,Bettadnagenhali,SWR
+BTH,Bettiah,ECR
+BTI,Bathinda,NR
+BTIC,Batinda Cantt,NR
+BTJL,Bhatkal,KRCL
+BTK,Bankata,NE
+BTKP,Bharat Kup,NCR
+BTO,Bhitaura,NR
+BTP,Babatpur,NR
+BTPD,Bethampurdi,SCR
+BTQ,Betnoti,SER
+BTS,Basta,SER
+BTSD,Bhatisuda,WR
+BTSR,Bhuteshwar,NCR
+BTT,Bhatni,NE
+BTTR,Bitragunta,SCR
+BTU,Baraut,NR
+BTV,Baitarani Road,ECOR
+BTVA,Batuva,ECOR
+BTW,Barsi Town,CR
+BTX,Bela Tal,NCR
+BTY,Bethuadahari,ER
+BU,Baswa,NWR
+BUA,Baradwar,SECR
+BUB,Bissau,NWR
+BUBR,Bhutakia Bhimsa,WR
+BUDA,Bhuda,NCR
+BUDI,Bundi,WCR
+BUDM,Badmal,ECOR
+BUE,Baruna,ECR
+BUG,Bagaha,ECR
+BUGL,Buglanwali,NWR
+BUH,Burhar,SECR
+BUI,Ballia,NE
+BUJ,Barauni Flag,ECR
+BUM,Bommasamudram,SCR
+BUP,Bariarpur,ER
+BUPH,Babupeth,CR
+BURN,Burnpur,SER
+BUS,Badausa,NCR
+BUT,Baytu,NWR
+BUU,Bhadanpur,WCR
+BUW,Burhwal,NE
+BUX,Bhandak,CR
+BV,Babhnan,NE
+BVA,Bauria,SER
+BVC,Bhavnagar Terminus,WR
+BVH,Ballabgarh,NR
+BVI,Borivali,WR
+BVL,Bikkavolu,SCR
+BVN,Biswan,NE
+BVO,Bogolu,SCR
+BVP,Bhavanagar Para,WR
+BVQ,Bhilavdi,CR
+BVR,Banavar,SWR
+BVRM,Bhimavaram,SCR
+BVRT,Bhimavaram Town,SCR
+BVU,Balipara,NFR
+BW,Biwai,NCR
+BWB,Bagwali,NWR
+BWC,Banwali,NWR
+BWH,Bhadaura,ECR
+BWI,Bilwai,NR
+BWIP,Bhawanipatna,ECOR
+BWK,Bawani Khera,NWR
+BWL,Bawal,NWR
+BWM,Bhawani Mandi,WCR
+BWN,Bardhaman,ER
+BWO,Buramara,SER
+BWR,Barwa Sagar,NCR
+BWRA,Bharatwada,CR
+BWS,Badwasi,NWR
+BWSN,Bijwasan,NR
+BWT,Bangarapet,SWR
+BWX,Bahman Diwana,NR
+BXC,Barwala,NR
+BXG,Bhanga,NFR
+BXJ,Bokajan,NFR
+BXK,Bandarkhal,NFR
+BXL,Bheduasol,SER
+BXN,Bayana,WCR
+BXP,Barpathar,NFR
+BXQ,Brundamal,ECOR
+BXR,Buxar,ECR
+BXT,Bamanhat,NFR
+BXY,Bordhal,CR
+BYC,Bellary Cant,SWR
+BYD,Byadgi,SWR
+BYL,Belha,SECR
+BYN,Banahi,ECR
+BYNR,Mookambika Road Byndoor (h),KRCL
+BYP,Baijnathpur,ECR
+BYPL,Baiyyappanahalli,SWR
+BYQ,Bahai,NR
+BYR,Bhayandar,WR
+BYS,Barsali,CR
+BYT,Bhatapara,SECR
+BZA,Vijayawada,SCR
+BZG,Bilga,NR
+BZLE,Bazarsau,ER
+BZM,Bhimsen,NCR
+BZN,Bagnan,SER
+BZO,Barsola,NR
+BZU,Betul,CR
+BZY,Basai,NCR
+CAA,Chakia,ECR
+CAER,Chhanera,WCR
+CAF,Chanda Fort,SECR
+CAG,Chhabra Gugor,WCR
+CAI,Chanpatia,ECR
+CAN,Kannur,SR
+CAO,Chauradano,ECR
+CAP,Chatrapur,ECOR
+CAPE,Kanyakumari,SR
+CAR,Chunar,NCR
+CASA,Chhansara,WR
+CBCC,Chandlodiya B Cabin,WR
+CBE,Coimbatore,SR
+CBF,Coimbatore North,SR
+CBH,Chaube,ECR
+CBJ,Clutterbuckganj,NR
+CBK,Chachura Binagani,WCR
+CBM,Cumbum,SCR
+CBN,Chit Baragaon,NE
+CBSA,Chaibasa,SER
+CBT,Charbatia,ECOR
+CBU,Chinnababusamudram,SR
+CBY,Khambhat,WR
+CBZ,Churaibari,NFR
+CC,Chauri Chaura,NE
+CCA,Chigicherla,SCR
+CCD,Chichonda,CR
+CCH,Chinchvad,CR
+CCI,Chinnekuntapali,SCR
+CCL,Chanchelav,WR
+CCO,Chicholi Ph,SECR
+CCP,Chhuchhapura,WR
+CCT,Kakinada Town,SCR
+CD,Chandrapur,CR
+CDA,Chuda,WR
+CDB,Chaudhribandh,ECR
+CDD,Chandod,WR
+CDG,Chandigarh,NR
+CDGR,Chandrakona Road,SER
+CDH,Chakdaha,ER
+CDM,Chidambaram,SR
+CDS,Chandisar,WR
+CEL,Chebrol,SCR
+CGF,Charali,NFR
+CGI,Chandragiri,SCR
+CGL,Chengalpattu,SR
+CGN,Chirgaon,NCR
+CGON,Chaygaon,NFR
+CGR,Chandan Nagar,ER
+CGS,Changsari,NFR
+CGY,Changanasseri,SR
+CH,Chandausi,NR
+CHA,Chawapall,NR
+CHAA,Chapar,NFR
+CHAF,Chaf Halt,NE
+CHAR,Charmal,ECOR
+CHCR,Chacher,SECR
+CHD,Chandia Road,SECR
+CHDX,Chhada,SECR
+CHE,Srikakulam Road,ECOR
+CHH,Chaukhandi,NR
+CHI,Chiplun,KRCL
+CHIB,Chirai Bg,WR
+CHJ,Chata,NCR
+CHK,Chakeri,NCR
+CHKE,Challakere,SWR
+CHL,Chola,NCR
+CHLK,Chavalkhede,WR
+CHM,Chalthan,WR
+CHNN,Channani,NWR
+CHP,Chhapi,WR
+CHR,Chilkahar,NE
+CHRG,Chorgi,SWR
+CHRM,Chirmiri,SECR
+CHSM,Chinna Salem,SR
+CHUA,Chourai,SECR
+CHV,Charvattur,SR
+CHZ,Charlapalli,SCR
+CI,Chhapra Kacheri,NE
+CIH,Chilhia,NE
+CIK,Chiksana,NCR
+CIL,Chilbila,NR
+CIO,Chikhli Road,WR
+CIV,Chinnaravuru,SCR
+CJ,Kanchipuram,SR
+CJM,Chinna Ganjam,SCR
+CJN,Chhatna,SER
+CJS,Charamula Kusum,ECOR
+CK,Chiksugar,SCR
+CKB,Chauth Ka Barwara,NWR
+CKBK,Chikkabenakal,SWR
+CKD,Charkhi Dadri,NWR
+CKE,Choki Sorath,WR
+CKH,Chakand,ECR
+CKI,Chalakudi,SR
+CKKD,Charkhera Khurd,WCR
+CKMI,Chhotaki Masaudhi Halt,ECR
+CKNI,Chikni Road,CR
+CKOD,Chakrod,WR
+CKP,Chakaradharpur,SER
+CKR,Chikodi Road,SWR
+CKS,Chaksu,NWR
+CKTD,Chitrakot,NCR
+CKU,Chakulia,SER
+CKVD,Chikkandawadi,SWR
+CKX,Chakur,SCR
+CLD,Chalsa,NFR
+CLDR,Chilikidara,ECOR
+CLDY,Chandlodiya,WR
+CLE,Chintalpalli,SCR
+CLG,Kahalgaon,ER
+CLJ,Colonelganj,NE
+CLKA,Chilka,ECOR
+CLPE,Challavaripalli,SCR
+CLR,Castle Rock,SWR
+CLT,Kozhikkode,SR
+CLVR,Chiluvur,SCR
+CLW,Chilwariya,NE
+CLX,Chirala,SCR
+CM,Campierganj,NE
+CMA,Cinnamara,NFR
+CMDP,Chimidipalli,ECOR
+CMJ,Chamarajapuram,SWR
+CMNR,Chamarajanagar,SWR
+CMR,Chamrola,NCR
+CMU,Chau Mahla,WCR
+CMX,Chamagram,ER
+CNA,Chanderia,WR
+CNB,Kanpur Central,NCR
+CNBI,Chandari,NCR
+CNC,Chinchli,SWR
+CND,Chandur,CR
+CNDB,Chandur Bazar,CR
+CNDM,Chandi Mandir,NR
+CNE,Chandranathpur,NFR
+CNGR,Chengannur,SR
+CNI,Chandil,SER
+CNJ,Chander Nagar Halt,NR
+CNK,Chandok,NR
+CNL,Chandawal,NWR
+CNO,Canacona,KRCL
+CNPA,Channarayapatna,SWR
+CNPR,Chainpur,ECR
+CNS,Chuchura,ER
+CNV,Kinattukkadavu,SR
+COA,Kakinada Port,SCR
+COB,Cooch Behar,NFR
+COE,Chitrod,WR
+COM,Chomun Samod,NWR
+COR,Chittaurgarh,WR
+CPA,Kanpur Anwrganj,NE
+CPB,Kanpur Bge L Bk,NR
+CPD,Chinchpada,WR
+CPDR,Chhipadohar,ECR
+CPH,Champa,SECR
+CPJ,Kaptanganj,NE
+CPK,Chaparmukh,NFR
+CPLE,Chinpal,ER
+CPN,Champaner Rd,WR
+CPP,Chipurupalle,ECOR
+CPR,Chhapra,NE
+CPS,Chand Siau,NR
+CPT,Channapatna,SWR
+CPU,Chopan,ECR
+CQA,Cherukara,SR
+CRC,Charkhari Road,NCR
+CRJ,Chittaranjan,ER
+CRK,Charkhera,WCR
+CRLM,Carmelaram,SWR
+CRP,Chandrapura,ECR
+CRR,Karagola Road,ECR
+CRU,Chudawa,SCR
+CRWA,Chirawa,NWR
+CRWL,Chakrakwala,NR
+CRY,Chirayinkeezh,SR
+CSA,Chausa,ECR
+CSB,Shivaji Bridge,NR
+CSMT,C Shivaji Mah T,CR
+CSN,Chalisgaon,CR
+CSZ,Cossimbazar,ER
+CT,Chittapur,SCR
+CTA,Chitradurg,SWR
+CTC,Cuttack,ECOR
+CTD,Chhota Udepur,WR
+CTF,Chitgidda,SCR
+CTH,Chikalthan,SCR
+CTHR,Chitahra,WCR
+CTKT,Chhoti Khatu,NWR
+CTL,Chital,WR
+CTMP,Chhit Makandpur,ER
+CTO,Chittoor,SCR
+CTPE,Chandanattop Halt,SR
+CTR,Chatra,ER
+CTRE,Chitteri,SR
+CTS,Chhatariput,ECOR
+CTTP,Chitrapur (h),KRCL
+CTYL,Chityala,SCR
+CUE,Choupale,WR
+CUK,Churk,NCR
+CUPJ,Cuddalore Port,SR
+CUR,Churu,NWR
+CVB,Cavalry Barracks,SCR
+CVJ,Chavaj,WR
+CVP,Kovilpatti,SR
+CVR,Chorvad Road,WR
+CW,Chainwa,NE
+CWA,Chhindwara,SECR
+CYI,Chhayapuri,WR
+CYN,Cheriyanad,SR
+DAA,Datia,NCR
+DAB,Dharmabad,SCR
+DABN,Dhaban,NWR
+DADN,Dr Ambedkar Nagar,WR
+DAJ,Duroji,SWR
+DAKE,Dakhineswar,ER
+DAPD,Dapodi,CR
+DAQ,Daud Khan,NCR
+DAR,Danwar,NCR
+DARA,Dara,WCR
+DAS,Dhasa,WR
+DAVM,Dhanu Vacha Puram Ha,SR
+DAYG,Dariyaganj,NCR
+DB,Dabhoi,WR
+DBA,Dabra,NCR
+DBB,Dhubri,NFR
+DBD,Deoband,NR
+DBEC,Devbaloda Charoda Ph,SECR
+DBF,Dabpal,ECOR
+DBG,Darbhanga,ECR
+DBHL,Dobh Bahali,NR
+DBI,Dabli Rathan,NWR
+DBL,Dodbele,SWR
+DBLA,Dabla,NWR
+DBLG,Dibolong,NFR
+DBR,Dabhaura,NCR
+DBRG,Dibrugarh,NFR
+DBS,Dobbspet,SWR
+DBSI,Dayabasti,NR
+DBU,Dodballapur,SWR
+DBV,Dabilpur,SCR
+DBW,Dubia,NFR
+DBY,Digboi,NFR
+DCA,Damchara,NFR
+DCAB,Dcab,SECR
+DCK,Dhandhuka,WR
+DCU,Damalcheruvu,SCR
+DD,Daund,CR
+DDA,Duraundha,NE
+DDCC,Daund Chord Line,CR
+DDCE,Dundi,WCR
+DDDA,Duddeda,SCR
+DDDM,Deen Dayal Dham,NCR
+DDE,Dondaicha,WR
+DDJ,Dum Dum,ER
+DDL,Dhandari Kalan,NR
+DDM,Dam Dim,NFR
+DDMT,Darimeta,CR
+DDN,Dehradoon,NR
+DDNI,Dudhnoi,NFR
+DDP,Daudpur,NE
+DDR,Dadar,WR
+DDU,Ptdeen Dayal Upadhyaya,ECR
+DDX,Dhamdhamia,ER
+DEB,Debagram,ER
+DEC,Delhi Cantt,NR
+DEE,Delhi Sarai Rohilla,NR
+DEEG,Deeg,NCR
+DEG,Delang,ECOR
+DEHR,Dehu Road,CR
+DEOR,Diyodar,WR
+DEOS,Deoria Sadar,NE
+DER,Dadri,NCR
+DES,Desari,ECR
+DG,Dindigul,SR
+DGA,Dighwara,ECR
+DGB,Dindu G Puram H,ECOR
+DGBZ,Dongri Buzurg Ph,SECR
+DGDG,Durgada Gate,SCR
+DGG,Dongargarh,SECR
+DGHA,Digha,SER
+DGHR,Deoghar,ER
+DGI,Dungri,WR
+DGLE,Dhulian Ganga,ER
+DGN,Dongargaon,CR
+DGO,Durgauti,ECR
+DGR,Durgapur,ER
+DGS,Dagori,SECR
+DGW,Dhigawara,NWR
+DHA,Dheena,ECR
+DHD,Dahod,WR
+DHE,Dodhi,NE
+DHG,Dhrangadhra,WR
+DHH,Dinhata,NFR
+DHI,Dhule,CR
+DHN,Dhanbad,ECR
+DHND,Dhinda,NWR
+DHNE,Dhone,SCR
+DHO,Dhaulpur,NCR
+DHR,Dharnaoda,WCR
+DHRR,Dhirera,NWR
+DHU,Dhubulia,ER
+DHW,Dhariwal,NR
+DIA,Didwana,NWR
+DIB,Dibai,NR
+DIG,Duggirala,SCR
+DIH,Dharuadihi,SER
+DIL,Dilawarnagar,NR
+DING,Ding,NWR
+DIPA,Dipa,NFR
+DIR,Dhanapur Orissa,ECOR
+DISA,Disa,WR
+DIVA,Diva,CR
+DJA,Daotuhaja,NFR
+DJG,Duliajan,NFR
+DJHR,Deojhar,SER
+DJS,Dhurani Jwas Halt,ECR
+DJX,Dungripadi,ECOR
+DK,Dakor,WR
+DKAE,Dankuni,ER
+DKBJ,Dahar Ka Balaji,NWR
+DKC,Devarkadra,SCR
+DKD,Donakonda,SCR
+DKDE,Dankaur,NCR
+DKE,Dihakho,NFR
+DKGS,Dinkar Gram Simaria,ECR
+DKI,Dharmkundi,WCR
+DKJ,Dornakal,SCR
+DKJR,Dhekiajili Road,NFR
+DKLU,Doikallu,ECOR
+DKNT,Dakaniya Talav,WCR
+DKO,Devakottai Road,SR
+DKT,Dhulkot,NR
+DKW,Dhanakwada,WR
+DKZ,Delhi Kishangnj,NR
+DL,Daladi,WR
+DLB,Daulatabad,SCR
+DLC,Dulmera,NWR
+DLCR,Dullabcherra,NFR
+DLD,Dalauda,WR
+DLGN,Dhalgaon,CR
+DLI,Delhi,NR
+DLJ,Dhola,WR
+DLK,Dalkolha,NFR
+DLN,Dildarnagar,ECR
+DLO,Dalgaon,NFR
+DLPC,Daulatpur Chauk,NR
+DLPT,Dulakhapatna,ECOR
+DLR,Dullahapur,NE
+DMC,Dhemaji,NFR
+DME,Damnagar,WR
+DMG,Domingarh,NE
+DMH,Dauram Madhpura,ECR
+DMK,Dilmili,ECOR
+DMLE,Dumurdaha,ER
+DMM,Dharmavaram,SCR
+DMN,Dhamangaon,CR
+DMNJ,Daman Jodi,ECOR
+DMO,Damoh,WCR
+DMP,Dharampur Himachal,NR
+DMR,Dharmanagar,NFR
+DMRX,Dumri,ECR
+DMT,Diguvametta,SCR
+DMV,Dimapur,NFR
+DMW,Dalmau,NR
+DNA,Degana,NWR
+DNDI,Dhondi,SCR
+DNDL,Dandi Mal,ECOR
+DNGD,Dungarda,WR
+DNK,Dhanakya,NWR
+DNKL,Dhenkanal,ECOR
+DNM,Dhanmandal,ECOR
+DNN,Dina Nagar,NR
+DNR,Danapur,ECR
+DNRE,Dhanauri,ER
+DNRP,Dungarpur,NWR
+DNT,Dantan,SER
+DNV,Donkinavalasa,ECOR
+DNWH,Daniyawan Bzr H,ECR
+DNWR,Dhanwar,ECR
+DO,Dausa,NWR
+DOA,Doraha,NR
+DOB,Dundlod Mukandgarh,NWR
+DOD,Dhodhar,WR
+DOE,Deori,WCR
+DOH,Dhodra Mohar,CR
+DOK,Dholka,WR
+DOL,Dholi,ECR
+DOLK,Dholikua,WR
+DOR,Dundara,NWR
+DOS,Dehri On Sone,ECR
+DOZ,Daurai,NWR
+DPA,Durgapura,NWR
+DPC,Darliput,ECOR
+DPD,Dosapadu,SCR
+DPH,Dadhapara,SECR
+DPJ,Dharmapuri,SWR
+DPK,Dholipal,NWR
+DPLN,Diplana,NWR
+DPR,Dhampur,NR
+DPRA,Dhupdhara,NFR
+DPS,Dangoaposi,SER
+DPU,Diphu,NFR
+DPUR,Depur Ph,ECOR
+DPX,Dadpur,ECR
+DPZ,Devpura,NWR
+DQG,Dhupguri,NFR
+DQL,Dhalaibil,NFR
+DQN,Dhanera,NWR
+DQR,Dabirpura,SCR
+DR,Dadar,CR
+DRA,Dularia,WCR
+DRD,Dahanu Road,WR
+DRH,Dharhara,ER
+DRHI,Dagar Khedi,WCR
+DRI,Dumri Juara,ECR
+DRL,Derol,WR
+DRLA,Daurala,NR
+DRN,Deoranian,NE
+DRO,Daryaogonj,NE
+DRS,Dhareshwar,NWR
+DRTP,Dasharathpur,ER
+DRU,Kadur,SWR
+DRV,Darauli,ECR
+DRWN,Derowan,SER
+DSA,Delhi Shahdara,NR
+DSB,Sadar Bazar,NR
+DSJ,Delhi Safdarjng,NR
+DSO,Deshnok,NWR
+DSR,Dhansiri,NFR
+DSS,Dalsingh Sarai,ECR
+DTAE,Dhatrigram,ER
+DTC,Ditokcherra,NFR
+DTF,Dantla,NCR
+DTO,Daltonganj,ECR
+DTP,Diviti Palli,SCR
+DTRA,Dantra,NWR
+DTRD,Diyatraroad,NWR
+DTV,Dhutra,SER
+DTVL,Dativali Cabin,CR
+DTX,Dangtal,NFR
+DUA,Dhaura,NCR
+DUB,Dabtara,NR
+DUD,Dudhani,CR
+DUE,Dudahi,NE
+DUI,Dhuri,NR
+DUJ,Dubrajpur,ER
+DUMK,Dumka,ER
+DURE,Dumraon,ECR
+DURG,Durg,SECR
+DUSI,Dusi,ECOR
+DUU,Dupadu,SCR
+DVD,Duvvada,ECOR
+DVG,Davangere,SWR
+DVGM,Devgam,WR
+DVL,Devlali,CR
+DWD,Dhekvad,WR
+DWDI,Dighwa Dubauli,NE
+DWI,Dingwahi,NCR
+DWK,Dwarka,WR
+DWLE,Dhauni,ER
+DWO,Doiwala,NR
+DWP,Dwarapudi,SCR
+DWR,Dharwar,SWR
+DWT,Dewan Hat,NFR
+DWV,Diwankhavati,KRCL
+DWX,Dewas,WR
+DWZ,Dante Wara,ECOR
+DXD,Digod,WCR
+DXG,Dharangaon,WR
+DXH,Duhai,NR
+DXK,Dhana Kherli,NCR
+DXN,Duddhinagar,ECR
+DXR,Digsar,WR
+DYD,Daryabad,NR
+DYE,Dayanand Nagar,SCR
+DYP,Daryapur,NR
+DYW,Diyawan Halt,ECR
+DZA,Dasuya,NR
+DZB,Dahina Zainabad,NWR
+DZKT,Durga Chak Town,SER
+DZL,Dhana Ladanpur,NWR
+ED,Erode,SR
+EDN,Edamann,SR
+EDP,Edapalayam,SR
+EE,Eluru,SCR
+EKC,Ekchari,ER
+EKI,Eklakhi,NFR
+EKM,Ekambarakuppam,SR
+EKMA,Ekma,NE
+EKN,Ezhukone,SR
+EKNR,Ekta Nagar,WR
+EKR,Ekangarsarai,ECR
+ELM,Elimala,SR
+ENB,Ellenabad,NWR
+ERL,Eraniel,SR
+ERN,Ernakulam Town,SR
+ERS,Ernakulam,SR
+ET,Itarsi,WCR
+ETM,Ettumanur,SR
+ETP,Ettapur Road,SR
+ETUE,Etmadpur,NCR
+ETW,Etawah,NCR
+EVA,Edavai,SR
+FA,Falna,NWR
+FAB,Fatehabad,NCR
+FAN,Fatehnagar,NWR
+FBD,Farrukhabad,NE
+FBG,Forbesganj,NFR
+FDB,Faridabad,NR
+FDK,Faridkot,NR
+FDN,Faridabad Nw Tn,NR
+FGH,Fatehgarh Hryna,NWR
+FGR,Fatehgarh,NE
+FGSB,Fatehgarh Sahib,NR
+FK,Ferok,SR
+FKA,Fazilka,NR
+FKG,Furkating,NFR
+FKM,Fakiragram,NFR
+FL,Phulera,NWR
+FLD,Phulad,NWR
+FLK,Falakata,NFR
+FLR,Fuleswar,SER
+FM,Falaknuma,SCR
+FPMP,Fatehpur Makrandpur,NCR
+FPS,Fatehpur-shekhawati,NWR
+FSP,Fateh Singhpura,WCR
+FSR,Faqarsar,NR
+FSW,Fateh Singhwala,NWR
+FTD,Fatehabad Chjn,WR
+FTG,Fursatganj,NR
+FTH,Fatuhi,NR
+FTP,Fatehpur,NCR
+FTS,Fatehpur Sikri,NCR
+FUT,Fatuha,ECR
+FYZ,Faizullapur,NCR
+FZD,Firozabad,NCR
+FZR,Firozpur Cant,NR
+G,Gondia,SECR
+GA,Gudha,NWR
+GAD,Gevra-road,SECR
+GADH,Goaldih,ECOR
+GADJ,Gandhinagar Jaipur,NWR
+GADM,Ganga Dham,NE
+GAG,Gangaghat,SER
+GAH,Gawnaha,ECR
+GAJ,Ganeshganj,WCR
+GAJB,Gajara Bahara,WCR
+GAL,Ghatla,NWR
+GALE,Gankar,ER
+GAM,Ganjam,ECOR
+GAMI,Gogameri,NWR
+GAO,Gaigaon,CR
+GAP,Gurpa,ECR
+GAR,Gadarwara,WCR
+GATD,Gautamdhara,SER
+GAUR,Gaur,NE
+GAW,Gainjahwa,NE
+GAYA,Gaya,ECR
+GB,Gauri Bazar,NE
+GBA,Garbeta,SER
+GBB,Gubbi,SWR
+GBD,Gauribidanur,SWR
+GBK,Gopalpur Balkda,ECOR
+GBP,Gulabpura,NWR
+GBRI,Gobarwahi,SECR
+GBX,Govindpur Road,SER
+GCH,Gachhipura,NWR
+GCT,Ghazipur City,NE
+GD,Gonda,NE
+GDA,Godhra,WR
+GDB,Giddarbaha,NR
+GDE,Garladinne,SCR
+GDG,Gadag,SWR
+GDGN,Gaudgaon,CR
+GDI,Gudgeri,SWR
+GDKP,Ghundankhapa,CR
+GDL,Gondal,WR
+GDO,Goverdhan,NCR
+GDP,Gudupulli,SWR
+GDPL,Gundla Pochampalli,SCR
+GDR,Gudur,SCR
+GDV,Gudivada,SCR
+GDX,Ghoksadanga,NFR
+GDYA,Ghoradongri,CR
+GEA,Ghatera,WCR
+GEB,Garh Baruari,ECR
+GED,Guledagudda Rd,SWR
+GEK,Gegal Akhri,NWR
+GG,Gandhigram,WR
+GGA,Ghoga,ER
+GGAR,Gangadhra,WR
+GGC,Gangapur City,WCR
+GGD,Gullaguda,SCR
+GGH,Ghogardiha,ECR
+GGJ,Goshainganj,NR
+GGN,Gurgaon,NR
+GGR,Gangrar,NWR
+GGVT,Gangavathi,SWR
+GH,Ghughuli,NE
+GHAA,Ghaghra,SER
+GHAI,Ghatigaon,WCR
+GHB,Gahri Bhagi,NWR
+GHD,Garwa Road,ECR
+GHE,Ghevra,NR
+GHGL,Ghagwal,NR
+GHH,Garhi Harsaru,NR
+GHJ,Gursahaiganj,NE
+GHL,Golhalli,SWR
+GHLE,Gadadharpur,ER
+GHNA,Gohana,NR
+GHNH,Ghantikhal Ndpr,ECOR
+GHPU,Gandhipuram Halt,SCR
+GHQ,Garhwa,ECR
+GHR,Gidhaur,ECR
+GHS,Guru Harsahai,NR
+GHX,Garhara,ECR
+GHY,Guwahati,NFR
+GID,Giddalur,SCR
+GIMB,Gandhidham Bg,WR
+GIN,Ginigera,SWR
+GIR,Gainsari,NE
+GIZ,Gidam,ECOR
+GJD,Gujhandi,ECR
+GJH,Goldinganj,ECR
+GJJ,Gajjelakonda,SCR
+GJL,Gajraula,NR
+GJN,Gajner,NWR
+GJS,Gajsinghpur,NWR
+GJTA,Gurudijhatia,ECOR
+GJUT,Gangsar Jaitu,NR
+GJWL,Gajwel,SCR
+GK,Gola Gokaranath,NE
+GKC,Gorakhpur Cant,NE
+GKH,Guskara,ER
+GKJ,Golakganj,NFR
+GKK,Gokak Road,SWR
+GKL,Gokulpur,SER
+GKP,Gorakhpur,NE
+GLA,Garla,SCR
+GLG,Gulabhganj,WCR
+GLGT,Golaghat,NFR
+GLNA,Gulana,NWR
+GLP,Gollaprolu,SCR
+GLPT,Goal Para Town,NFR
+GLTA,Gehlota,NWR
+GLU,Gullipadu,SCR
+GLY,Gollapalli,SCR
+GM,Garmadi,WR
+GMAN,Gumani,ER
+GMD,Guramkhedi,WCR
+GMDA,Gumada,ECOR
+GMDN,Girimaidan,SER
+GMH,Gamharia,SER
+GMIA,Gumia,ECR
+GMM,Gumman,NR
+GMO,Nsc Bose J Gomo,ECR
+GMR,Gahmar,ECR
+GMS,Garhmuktesar,NR
+GMTO,Gumto,NFR
+GNA,Goneana,NR
+GNB,ana Bharati Halt,SWR
+GNC,Gandhinagar Capital,WR
+GND,Govindgarh Malikpur,NWR
+GNG,Gauriganj,NR
+GNGD,Gangadharpur,ECOR
+GNH,Gangakher,SCR
+GNK,Garhnokha,ECR
+GNNA,Ganganiyan,ER
+GNO,Goregaon Road,KRCL
+GNP,Ghanpur,SCR
+GNPR,Gunupur,ECOR
+GNQ,Godhani,CR
+GNR,Gadiganuru,SWR
+GNRL,Gangraul Halt,NCR
+GNS,Ghonsor,SECR
+GNST,Gandhi Smriti,WR
+GNT,Guntur,SCR
+GNU,Ganaur,NR
+GNV,Gandevi,WR
+GNVR,Gondwanavisapur,CR
+GNW,Gangiwara,CR
+GNWA,Ghunwara,WCR
+GOA,Gohad Road,NCR
+GOC,Ponmalai,SR
+GODA,Godda,ER
+GOGH,Gossaigaon Hat,NFR
+GOH,Garot,WCR
+GOK,Gokarna Road,KRCL
+GOL,Goilkera,SER
+GOM,Gogamukh,NFR
+GOPG,Gopalganj,NE
+GOS,Ghosrana,NCR
+GOTN,Gotan,NWR
+GOY,Govindpuri,NCR
+GP,Raj Gangpur,SER
+GPAE,Guptipara,ER
+GPB,Ghatprabha,SWR
+GPC,Ghatpindrai,WCR
+GPD,Gummidipundi,SR
+GPH,Garpos,SER
+GPI,Gajapatinagaram,ECOR
+GPJ,Gorapur,ECOR
+GPU,Gulapalyamu,SCR
+GPY,Gangayaplle,SCR
+GPZ,Gohpur,NFR
+GQN,Garhani,ECR
+GRA,Gharaunda,NR
+GRB,Garh-dhrubbeswar,SER
+GRBL,Garudubilli,ECOR
+GRCP,G Ramchandrapur Ph,ECOR
+GRF,Gambhiri Road,WR
+GRH,Ghorasahan,ECR
+GRHI,Garhi,NR
+GRI,Guriya,NWR
+GRKA,Gurha Kemla,NWR
+GRKN,Gorakhnath,ECOR
+GRL,Goraul,ECR
+GRMA,Ghormara,ER
+GRMP,Ganga Rampur,NFR
+GRMR,Garhi Manikpur,NR
+GRO,Gurra,WCR
+GRRU,Guraru,ECR
+GRWD,Ghorawadi,CR
+GRX,Gaura,NR
+GSL,Godapeasal,SER
+GSO,Ghaso,NR
+GSP,Gurdaspur,NR
+GSPR,Gosalpur,WCR
+GSRM,Gauri Sriram,NE
+GSW,Gursar Shnewala,NWR
+GT,Ghatkesar,SCR
+GTA,Golanthra,ECOR
+GTD,Gourinathdham,SER
+GTHT,Ghataro Halt,ECR
+GTI,Ghutai,NCR
+GTJT,Getor Jagatpura,NWR
+GTK,Ghutku,SECR
+GTL,Guntakal,SCR
+GTLM,Gotlam,ECOR
+GTM,Ghatampur,NCR
+GTNR,Gomati Nagar,NE
+GTS,Ghatsila,SER
+GTST,Gautamsthan,NE
+GTT,Gomta,WR
+GTU,Ghat Nandur,SCR
+GTX,Gothangam,WR
+GUA,Gua,SER
+GUB,Gularbhoj,NE
+GUD,Galudih,SER
+GUG,Garh Jaipur,SER
+GUH,Guldhar,NR
+GUNA,Guna,WCR
+GUP,Gauripur,NFR
+GUR,Ganagapur Road,CR
+GUU,Gundratimadugu,SCR
+GUV,Guruvayur,SR
+GVA,Ganguvada Ph,ECOR
+GVB,Guneru Bamori,WCR
+GVD,Gholvad,WR
+GVG,Govindgarh,NR
+GVH,Govind Garh,NCR
+GVI,Garividi,ECOR
+GVL,Gudlavalleru,SCR
+GVN,Godavari,SCR
+GVR,Goresuar,NFR
+GW,Girwar,WCR
+GWA,Ganj Dundwara,NE
+GWD,Gadwal,SCR
+GWH,Ghoshawar,ECR
+GWL,Gwalior,NCR
+GWM,Gannavaram,SCR
+GWV,Gowdavalli,SCR
+GY,Gooty,SCR
+GYJ,Gooty Junction  Cabin,SCR
+GYM,Gudiyattam,SR
+GYN,Gyanpur Road,NE
+GZB,Ghaziabad,NR
+GZH,Gulzarbagh,ECR
+GZKA,Gazika,NCR
+GZL,Gazulapalli,SCR
+GZM,Gour Malda,ER
+GZN,N Ghaziabad,NR
+GZO,Gazole,NFR
+HA,Hargaon,NE
+HAA,Harwada,KRCL
+HAB,Bah,NCR
+HAD,Haripad,SR
+HAN,Hindaun City,WCR
+HAPA,Hapa,WR
+HAQ,Hastavarmu,SCR
+HAR,Hamirpur Road,NCR
+HAS,Hassan,SWR
+HAT,Hathuran,WR
+HATB,Hatibari,ECOR
+HAUR,Haur,SER
+HBF,Hadobhangi,ECOR
+HBI,Hgribomanahalli,SWR
+HBL,Hombal,SWR
+HBLN,Hbl Nagar,SCR
+HBS,Hebsur,SWR
+HBU,Halbarga,SCR
+HCM,Hrschndrapuram,ECOR
+HCNR,Hari Chandanpur,ECOR
+HCP,Harchandpur,NR
+HCR,Harischandrpur,NFR
+HD,Harda,WCR
+HDA,Hirnoda,NWR
+HDB,Haldibari,NFR
+HDD,Haddinagundu,SCR
+HDE,Hardas Bigha,ECR
+HDGR,Hadgaon Road,SCR
+HDK,Handia Khas,NE
+HDL,Hodal,NCR
+HDN,Haidarnagar,ECR
+HDP,Hadapsar,CR
+HDU,Hardua,WCR
+HDW,Haldwani,NE
+HEB,Hebbal,SWR
+HEI,Heggere Halt,SWR
+HEM,Himayatnagar,SCR
+HER,Her,SCR
+HET,Hetampur,NCR
+HFZ,Hafizpeta,SCR
+HG,Hotgi,CR
+HGH,Haidergarh,NR
+HGI,Hagari,SCR
+HGL,Harangul,CR
+HGR,Himgir,SECR
+HGT,Hinganghat,CR
+HHL,Hirehali,SWR
+HIJ,Hijli,SER
+HIKD,Hallikhed K,SCR
+HIL,Hilsa,ECR
+HIP,Haldipada,SER
+HIR,Harinagar,ECR
+HISE,Hirisave,SWR
+HJI,Hojai,NFR
+HJP,Hajipur,ECR
+HK,Helak,NCR
+HKD,Hailakandi,NFR
+HKG,Hirakud,ECOR
+HKL,Harkia Khal,WR
+HLAR,Hole Alur,SWR
+HLDR,Haldaur,NR
+HLE,Heelalige,SWR
+HLK,Holalkere,SWR
+HLKH,Hallikhed,SCR
+HLN,Hole Narsipur,SWR
+HLR,Halisahar,ER
+HLV,Haliyuru,SWR
+HLW,Hirnawali,NWR
+HLX,Hilara,NFR
+HLZ,Haldia,SER
+HM,Hadmatiya,WR
+HMA,Humma,ECOR
+HMBD,Humnabad,SCR
+HMG,Hamirgarh,NWR
+HMH,Hanumangarh,NWR
+HMK,Hindumalkote,NR
+HML,Helem,NFR
+HMO,Hanumangarhtown,NWR
+HMRR,Hamarapur,CR
+HMT,Himmatnagar,WR
+HMY,Harmuti,NFR
+HNA,Honnavar,KRCL
+HND,Hindol Road,ECOR
+HNK,Hanakere,SWR
+HNL,Hingoli Deccan,SCR
+HNM,Hinautaramban,WCR
+HNMN,Hanuman Station,SCR
+HNPA,Handapa,ECOR
+HNS,Hansi,NWR
+HOH,Honaganahalli,SWR
+HOJ,Hamitonganj,NFR
+HOL,Hol,WR
+HP,Haripur,NWR
+HPG,Huppuguda,SCR
+HPGM,Haripur Gram,ECOR
+HPHI,Harapanahalli,SWR
+HPKA,Hinotia Pipalkhera,WCR
+HPLE,Hatpuraini,ER
+HPO,Hasanpur Road,ECR
+HPP,Harpalpur,NCR
+HPT,Hosapete Junction,SWR
+HPU,Hapur,NR
+HQR,Hirenanduru,CR
+HR,Harpalu,NWR
+HRG,Hirdagarh,CR
+HRI,Hardoi,NR
+HRLI,Harlaya,NWR
+HRN,Harauni,NR
+HRNR,Hira Nagar,NR
+HRPG,Harpalganj,NR
+HRR,Harihar,SWR
+HRS,Hathras,NCR
+HRSN,Harisinga,NFR
+HRT,Harnaut,ECR
+HRW,Harrawala,NR
+HSA,Hasimara,NFR
+HSD,Hosdurga Road,SWR
+HSDA,Hansdiha,ER
+HSI,Harsauli,NWR
+HSK,Harishanker Rd,ECOR
+HSP,Hasanparti Road,SCR
+HSR,Hisar,NWR
+HSRA,Hosur,SWR
+HSX,Hoshiarpur,NR
+HTC,Hathras City,NE
+HTD,Hatundi,NWR
+HTE,Hatia,SER
+HTK,Hatkanangale,CR
+HTL,Hatikhali,NFR
+HTLA,Hatola,CR
+HTN,Hatna Pur,CR
+HTNL,Hitnal,SWR
+HTW,Hathua,NE
+HTZ,Hathidah,ECR
+HTZU,Hathidah  Upper,ECR
+HUDU,Hundur Halt,ECR
+HUFP,Harauli Fatehpur,ECR
+HUP,Hindupur,SWR
+HVD,Halvad,WR
+HVL,Honnavalli Rd,SWR
+HVR,Haveri,SWR
+HW,Haridwar,NR
+HWH,Howrah,ER
+HX,Cuddapah,SCR
+HYB,Hyderabad,SCR
+HYT,Hayaghat,ECR
+HZBN,Hazaribagh Town,ECR
+HZD,Hazaribagh Rd,ECR
+IAA,Indara,NE
+IAM,Mai Halt,ECR
+IB,Ib,SECR
+IBL,Indrabil,SER
+IDG,Indargarh,WCR
+IDGJ,Iradatganj,NCR
+IDH,Idgah Agra,NCR
+IDM,Indemau,NR
+IDP,Indupalli,SCR
+IDR,Indi Road,SWR
+IDS,Ishardaspur,NR
+IGP,Igatpuri,CR
+IGU,Irugur,SR
+IHP,Inchhapuri,NR
+IJK,Irinjalakuda,SR
+IK,Ikran,NCR
+IKI,Itikyala,SCR
+IKK,Ikkar,NR
+IKR,Iklehra,CR
+IMAM,Imampuram,SCR
+IMGE,Ismailpur,ECR
+IMR,Ibrahimpur,SWR
+INDB,Indore,WR
+INJ,Innanje,KRCL
+INK,Intakanne,SCR
+INP,Indapur,KRCL
+IPL,Idapalli,SR
+IPM,Ichchpuram,ECOR
+IPPM,Ipurupalem,SCR
+IPR,Islampur,ECR
+IRA,Israna,NR
+IRP,Iravipuram,SR
+ISA,Isarda,NWR
+ISH,Isarwara,WCR
+ISHN,Ishanagar,NCR
+ISM,Ismaila Haryana,NR
+ITA,Itola,WR
+ITE,Intiyathok,NE
+IZN,Izzatnagar,NE
+J,Jalna,SCR
+JAA,Jhalida,SER
+JAB,Yamuna Bridge,NCR
+JAC,Jalsu,NWR
+JAIS,Jais,NR
+JAJ,Jhajha,ECR
+JALD,Jaliya Devani,WR
+JAM,Jamnagar,WR
+JAMA,Jama,ER
+JAO,Jaora,WR
+JAQ,Jandrapeta,SCR
+JAT,Jammutavi,NR
+JAUA,Jamua,ECR
+JBD,Jallalabd,NR
+JBGD,Jabbalgudda,SWR
+JBK,Jabbambhotla Krishnapuram,SCR
+JBN,Jogbani,NFR
+JBO,Jamadoba Ph,SER
+JBP,Jabalpur,WCR
+JBS,Jadoli Ka Bas,NCR
+JBU,Jaabugam,WR
+JBX,Jabri,WR
+JCH,Jetha Chandan,NWR
+JCL,Jadcherla,SCR
+JCNR,Juchandra,CR
+JDA,Jasoda,NE
+JDB,Jagdalpur,ECOR
+JDH,Jam Jodhpur,WR
+JDL,Jagdevwala,NWR
+JEA,Nakaha Jungle,NE
+JER,Jaleswar,SER
+JES,Jaitsar,NWR
+JEUR,Jeur,CR
+JFD,Jiadhal,NFR
+JGA,Jogiara,ECR
+JGLP,Jatinga Lumpur,NFR
+JGM,Jhargram,SER
+JGN,Jagraon,NR
+JGNR,Jogendranagar,NFR
+JGP,Jalalpur,NE
+JGR,Jaswantnagar,NCR
+JHD,Jehanabad,ECR
+JHDC,Jahanbad Court,ECR
+JHIR,Jhir,NWR
+JHJ,Jhajjar,NR
+JHL,Jakhal,NR
+JHN,Jakhim,ECR
+JHT,Junehta,WCR
+JHW,Jhalawar Road,WCR
+JI,Jhusi,NE
+JIBI,Jolaibari,NFR
+JID,Jagi Road,NFR
+JIND,Jind,NR
+JIT,Jirat,ER
+JITE,Jite,CR
+JJ,Jajau,NCR
+JJG,Jiaganj,ER
+JJK,Jhinjhak,NCR
+JJKR,Jajpur K Road,ECOR
+JJN,Jhunjhunu,NWR
+JJP,Jhanjharpur,ECR
+JJR,Jejuri,CR
+JJT,Jai Jai Wanti,NR
+JJTI,Jhanjhitoli Halt,ECR
+JJW,Jojwa,WR
+JKAR,Jaklair,SCR
+JKB,Jakhalabandha,NFR
+JKDP,Jankidaipur,ECOR
+JKE,Jukehi,WCR
+JKHI,Jakhodlkhera,NWR
+JKN,Jakhanian,NE
+JKNI,Jharkhandi,NE
+JKO,Jakkalacheruvu,SCR
+JKPR,Jakhapura,ECOR
+JKR,Jaulkhera,CR
+JKT,Jekot,WR
+JKZ,Jitakheri,NWR
+JL,Jalgaon,CR
+JLD,Jarwal Road,NE
+JLL,Jalalganj,NR
+JLN,Jakhalaun,NCR
+JLPH,Jalalpur Halt,ECR
+JLR,Jetalsar,WR
+JLS,Jalesar Road,NCR
+JLWC,Jhalawar City,WCR
+JM,Jalamb,CR
+JMD,Jamdha,CR
+JMDG,Jammalamadugu,SCR
+JMKT,Jamikunta,SCR
+JML,Jumnal,SWR
+JMP,Jamalpur,ER
+JMPT,Jimidipeta,ECOR
+JMQ,Jamirghata,ER
+JMRA,Jamira,NFR
+JMS,Jamsar,NWR
+JMT,Jamtara,ER
+JMU,Jamui,ECR
+JMV,Jambara,CR
+JNA,Julana,NR
+JND,Junagadh,WR
+JNH,Janghai,NR
+JNK,Jhinkpani,SER
+JNKR,Janakinagar,ECR
+JNL,Jandiala,NR
+JNN,Jamuniatanr Halt (e),SER
+JNO,Junnor Deo,CR
+JNP,Jagan Nathapur,ECOR
+JNR,Janakpur Road,ECR
+JNRD,Junagarh Road,ECOR
+JNRI,Jalandari,WCR
+JNTR,Jinti Road,CR
+JNU,Jaunpur,NR
+JOA,Janwal,SCR
+JOB,Asalpurjobner,NWR
+JOBA,Joba,WCR
+JOC,Joychandi Pahar,SER
+JOK,Jodhka,NWR
+JOL,Jogal,SER
+JOO,Jamai Osmania,SCR
+JOP,Jaunpur City,NR
+JOR,Jalor,NWR
+JP,Jaipur,NWR
+JPD,Jalalpur Dhai,NR
+JPE,Jalpaiguri Road,NFR
+JPG,Jalpaiguri,NFR
+JPH,Jhantipahari,SER
+JPL,Japla,ECR
+JPRD,Jenapur Road Ph,ECOR
+JPZ,Jogighopa,NFR
+JRA,Jaraikela,SER
+JRBM,Jiribam,NFR
+JRC,Jalandhar Cant,NR
+JREA,Jhareda,NCR
+JRG,Jugpura Ph,SER
+JRJE,Garjee,NFR
+JRK,Jeruwa Khera,WCR
+JRKN,Jorkian,NWR
+JRKT,Jadarama Kunte,SWR
+JRL,Jharili,NWR
+JRLE,Jangipur Road,ER
+JRLI,Jaroli,SER
+JRMG,Jairamnagar,SECR
+JRNA,Jirania,NFR
+JRPD,Jarapada,ECOR
+JRR,Jugaur,NR
+JRS,Joravasan,WR
+JRT,Jarati,ECOR
+JRTB,Jhartarbha,ECOR
+JRU,Chikjajur,SWR
+JRW,Joramow,ER
+JRZ,Joranda Road,ECOR
+JSB,Yamuna South Bk,NCR
+JSE,Jamsole,SER
+JSG,Jharsuguda,SER
+JSGR,Jharsuguda Road,ECOR
+JSI,Jasali,WR
+JSKA,Jataula Samphka,NR
+JSM,Jaisalmer,NWR
+JSME,Jasidih,ER
+JSP,Jayasingpur,CR
+JSR,Jasra,NCR
+JTB,Jagatbela,NE
+JTDM,Jatdumri Halt,ECR
+JTI,Jaithari,SECR
+JTJ,Jolarpettai,SR
+JTL,Jhapater Dhal,ER
+JTO,Jutogh,NR
+JTRD,Jath Road,CR
+JTS,Jatusana,NWR
+JTTN,Jorhat Town,NFR
+JTW,Jaitwar,WCR
+JU,Jodhpur,NWR
+JUC,Jalandhar City,NR
+JUCT,Jodhpur Cantt,NWR
+JUDW,Jagadhri Wshop,NR
+JUJA,Jujomura,ECOR
+JUR,Jutturu,SCR
+JVN,Jorawarnagar,WR
+JW,Jatwara,NWR
+JWB,Jawai Bandh,NWR
+JWL,Jajiwal,NWR
+JWNR,Jawaharnagar,NFR
+JWO,Jawad Road,WR
+JWP,Jwalapur,NR
+JYG,Jaynagar,ECR
+JYK,Jone Karrang,NFR
+JYM,Jai Samand Road,NWR
+JYP,Jeypore,ECOR
+KAD,Khandala,CR
+KAG,Kodaganur,SWR
+KAH,Kalhar,WCR
+KAJ,Kaliyanganj,NFR
+KAJG,Kajg,SCR
+KAL,Kallal,SR
+KALS,Kalas Halt,SWR
+KAMG,Kamakhyaguri,NFR
+KAMP,Kamalpur,NCR
+KAN,Khana,ER
+KANJ,Kanil,WR
+KANO,Kanoh,NR
+KAP,Kalianpur,NE
+KAPG,Kalupara Ghat,ECOR
+KARD,Kaman Road,CR
+KARO,Khario,SER
+KARR,Kharar,NR
+KART,Kiratpur Sahib,NR
+KASR,Kanas Road,ECOR
+KASU,Kasu,CR
+KAT,Khatauli,NR
+KATI,Kathi,SER
+KATL,Katol,CR
+KAV,Kalumna,SECR
+KAW,Khajri,WCR
+KAWR,Karwar,KRCL
+KAWT,Kanwat,NWR
+KBA,Kurabalakota,SCR
+KBE,Kurebhar,NR
+KBH,Khandbaara,WR
+KBJ,Kantabanji,ECOR
+KBK,Khambli Ghat,NWR
+KBKN,Khabra Kalan,NWR
+KBL,Koppal,SWR
+KBM,Kotabommali,ECOR
+KBN,Karbigwan,NCR
+KBPR,Kabaka Puttur,SWR
+KBQ,Kumrabad Rohini,ER
+KBR,Kabrai,NCR
+KBRV,Kanjari Boriyavi,WR
+KBY,Khoirabari,NFR
+KCA,Kuchman,ECR
+KCC,Krishna Canal,SCR
+KCD,Kurichedu,SCR
+KCG,Kacheguda,SCR
+KCI,Kallkiri,SCR
+KCJ,Kasimpur,NR
+KCM,Kalasumudram,SCR
+KCP,Kalgupur,SCR
+KCR,Khonker,WCR
+KCT,Kirakat,NE
+KCV,Krishna Ch Pura,SER
+KCVL,Thiruvananthapuram North,SR
+KDAA,Kada,CR
+KDE,Koradacheri,SR
+KDF,Khundaur,NR
+KDG,Kedgaon,CR
+KDGI,Kudgi,SWR
+KDHL,Kundhela,WR
+KDJR,Kendujhar,ECOR
+KDKL,Kodakandla,SCR
+KDLR,Kandel Road,ECOR
+KDM,Kesamudram,SCR
+KDMR,Khodiyar Mandir,WR
+KDN,Kudatini,SWR
+KDNL,Kadayanallur,SR
+KDP,Kondapuram,SCR
+KDPA,Khadapa,ECOR
+KDPR,Kumedpur,NFR
+KDQ,Kadipur,NE
+KDRP,Kandarpur,ECOR
+KDT,Khadarpett,SCR
+KDU,Kadambur,SR
+KDVI,Kadavai,KRCL
+KDZ,Kandaghat,NR
+KEA,Katra,NE
+KEB,Karambeli,WR
+KED,Kenduapada,ECOR
+KEF,Krishnammakona,SCR
+KEG,Karengi,NR
+KEH,Kapseti,NR
+KEI,Kashi,NR
+KEJ,Kathleeghat,NR
+KEK,Karkheli,SCR
+KEM,Kem,CR
+KEN,Kotala,SCR
+KEP,Kelanpur,WR
+KEPR,Koiripur,NR
+KER,Kirihrapur,NE
+KESR,Kesri Singhpur,NWR
+KFA,Koparia,ECR
+KFD,Karanjadi,KRCL
+KFF,Kolda,WR
+KFV,Kundara East,SR
+KGA,Khaga,NCR
+KGB,Kargi Road,SECR
+KGBP,Khongsang,NFR
+KGBS,Kishangarh Balawas,NWR
+KGD,Kalligudi,SR
+KGG,Khagaria,ECR
+KGI,Kengeri,SWR
+KGIH,Kalgurki h,SWR
+KGL,Kupgal,SCR
+KGLE,Khagraghat Road,ER
+KGM,Kathgodam,NE
+KGP,Kharagpur,SER
+KGQ,Kasaragod,SR
+KGS,Khongsara,SECR
+KGX,Kanginhal,SWR
+KHAT,Khat,SECR
+KHBJ,Khanna Banjari,WCR
+KHBV,Kharbao,CR
+KHED,Khed,KRCL
+KHF,Khantapara,SER
+KHGP,Khargapur,NCR
+KHH,Kichha,NE
+KHM,Kusmhi,NE
+KHMA,Khatima,NE
+KHN,Khanyan,ER
+KHNM,Kunda Harnamgnj,NR
+KHNP,Khanapur Deccan,SCR
+KHNR,Kachnara,WR
+KHOH,Khoh,NCR
+KHRI,Kharkhari,SER
+KHRJ,Khumbaraj,WCR
+KHRK,Kharak,NWR
+KHS,Kharsia,SECR
+KHT,Sri Kalahasti,SCR
+KHTG,Khatgaon,WR
+KHU,Khurhand,NCR
+KHV,Karainthi,NR
+KI,Kondapalli,SCR
+KIAT,Kyatsandra,SWR
+KIC,Kallidaikurichi,SR
+KID,Khairar,NCR
+KIF,Kuri,SR
+KIGL,Kunigal,SWR
+KIK,Karaikal,SR
+KIM,Kim,WR
+KIN,Kapasan,NWR
+KIP,Khalilpur,NR
+KIR,Katihar,NFR
+KIS,Kapilas Road,ECOR
+KISN,Kalisen Ph,SER
+KIT,Khallikot,ECOR
+KITA,Kita,SER
+KIU,Kinana,NR
+KIUL,Kiul,ECR
+KIZ,Kansudhi,WR
+KJ,Kajgaon,CR
+KJA,Khajurhat,NR
+KJG,Karajgi,SWR
+KJH,Kajra,ER
+KJI,Khajauli,ECR
+KJL,Khumgaon Burti,CR
+KJM,Krishnarajapurm,SWR
+KJME,Kajoragram,ER
+KJN,Kannauj,NE
+KJT,Karjat,CR
+KJU,Kuntighat,ER
+KJV,Khijadiya,WR
+KJW,Khajwana,NWR
+KJY,Khurja City,NR
+KJZ,Karonji,SECR
+KK,Khadki,CR
+KKB,Karak Bel,WCR
+KKD,Kalkund,WR
+KKDE,Kurukshetra,NR
+KKDI,Karaikkudi,SR
+KKGT,Kalkalighat,NFR
+KKHT,Kakarghatti,ECR
+KKJ,Kakori,NR
+KKK,Khakharia,WR
+KKLR,Kaikolur,SCR
+KKLU,Kaklur,ECOR
+KKM,Kamalapuram,SCR
+KKN,Khirkiya,WCR
+KKNH,Karukhirhar Nagar Halt,ECR
+KKP,Kot Kapura,NR
+KKPM,Kallakkudi Palanganatham,SR
+KKRD,Kikakui Road,WR
+KKRH,Karahia,ECR
+KKS,Kurasti Kalan,NCR
+KKT,Kath Kuiyan,NE
+KKU,Kanakpura,NWR
+KKV,Kunkavav,WR
+KKW,Kankavli,KRCL
+KKY,Kila Kadaiyam,SR
+KKZ,Kottarakara,SR
+KL,Kherli,NCR
+KLA,Kulwa,NCR
+KLAR,Kulpahar,NCR
+KLB,Kiraoli,NCR
+KLBA,Kalambha,CR
+KLBG,Kalaburagi,CR
+KLBN,Kalambani Budruk,KRCL
+KLCR,Katlichera,NFR
+KLD,Khalilabad,NE
+KLE,Kaithal,NR
+KLG,Kalunga,SER
+KLGD,Kollengode,SR
+KLHD,Kolhadi,CR
+KLJ,Kamalganj,NE
+KLK,Kalka,NR
+KLKA,Koilakuntla,SCR
+KLL,Kalol,WR
+KLM,Kadlimatti,SWR
+KLMG,Kalamboli Goods,CR
+KLMR,Kalamasseri,SR
+KLNK,Kalanaur Kalan,NWR
+KLNP,Kalinarynpur,ER
+KLP,Kotalpukur,ER
+KLQ,Kilikollur,SR
+KLRE,Khalari,ECR
+KLRS,Kolaras,WCR
+KLT,Kulitalai,SR
+KLU,Kalluru,SCR
+KLV,Kelva Road,WR
+KLWD,Kalitalavdi,WR
+KLWL,Kilanwali Punjb,NR
+KLX,Kolakalur,SCR
+KLYT,Kolayat,NWR
+KLZ,Keolari,SECR
+KMA,Kaima,WCR
+KMAE,Khamargachhi,ER
+KMAH,Kamathe,KRCL
+KMB,Kalv Amba,WR
+KMBL,Khambhaliya,WR
+KMC,Kamareddi,SCR
+KMD,Kodumudi,SR
+KMDR,Karimuddin Pur,NE
+KMEZ,Kumar Maranga,ECOR
+KMGE,Kumahu,ECR
+KMH,Kalamalia,SCR
+KMI,Kumhari,SECR
+KMJ,Kaimganj,NE
+KMK,Komakhan,ECOR
+KMKD,Khamkhed,CR
+KML,Kamtaul,ECR
+KMLR,Kamalur,ECOR
+KMME,Kumardubi,ER
+KMNC,Kuchaman City,NWR
+KMNR,Kamalnagar,SCR
+KMPU,Kamalapur,SCR
+KMQ,Kumbla,SR
+KMQA,Komali,SCR
+KMS,Karamnasa,ECR
+KMSD,Kumar Sadra,ECOR
+KMSI,Kumsi,SWR
+KMST,Kamshet,CR
+KMT,Khammam,SCR
+KMTI,Kumarhatti,NR
+KMU,Kumbakonam,SR
+KMV,Karmad,SCR
+KMX,Komati Palli,ECOR
+KMZ,Katni Murwara,WCR
+KN,Kadalundi,SR
+KNAG,Kanaji Halt,SCR
+KNAR,Khanpur Ahir,NWR
+KND,Kandra,SER
+KNDP,Khandip,WCR
+KNDV,Krishnadevaraya Halt,SWR
+KNE,Kishanganj,NFR
+KNF,Khanodih,SER
+KNGR,Kashinagar,ECOR
+KNHE,Kanhe,CR
+KNHN,Kanhan,SECR
+KNJ,Krishngr Cty,ER
+KNKT,Kanakot,WR
+KNL,Kalanwali,NWR
+KNLP,Kanamalo Palle,SCR
+KNLS,Kanalas,WR
+KNN,Khanna,NR
+KNNA,Khinaniyan,NWR
+KNNK,Kanina Khas,NWR
+KNO,Kundgol,SWR
+KNP,Khanapur,SWR
+KNPR,Kendrapara Road,ECOR
+KNPS,Kendposi,SER
+KNRT,Kuneru,ECOR
+KNS,Kanchausi,NCR
+KNSR,Kanasar,NWR
+KNT,Kanth,NR
+KNVT,Kinwat,SCR
+KNW,Khandwa Junction,CR
+KO,Kosgi,SCR
+KOAA,Kolkatta Terminal,ER
+KOHL,Kohli,CR
+KOHR,Kohir Deccan,SCR
+KOI,Khodri,SECR
+KOJ,Kokrajhar,NFR
+KOKA,Koka,SECR
+KOL,Kolad,KRCL
+KOLA,Kotla,SCR
+KOLR,Kolnur,SCR
+KON,Kudal Nagar,SR
+KONN,Konnur,SCR
+KONY,Kisoni,WR
+KOO,Khusropur,ECR
+KOP,Kolhapur,CR
+KOPR,Kopar,CR
+KOTA,Kota,WCR
+KOTI,Koti,NR
+KOTT,Kottur Halt,SCR
+KOU,Koduru,SCR
+KOV,Kirloskarvadi,CR
+KOX,Kachujor,ER
+KP,Kamptee,SECR
+KPA,Kanchrapara,ER
+KPD,Katpadi,SR
+KPE,Kauwapur,NE
+KPG,Kopargaon,CR
+KPGM,Karpoorigram,ECR
+KPI,Kalpi,NCR
+KPJG,Kerejanga,ECOR
+KPK,Kalipahari,ER
+KPL,Kantakapalle,ECOR
+KPLD,Kapali Road,ECOR
+KPLE,Kopai,ER
+KPLL,Kotta Pndlpalli,SCR
+KPN,Kuppam,SWR
+KPNA,Kapan,SECR
+KPO,Karanpura,NCR
+KPP,Kalapipal,WR
+KPQ,Kannapuram,SR
+KPRD,Kalyanpur Road,ER
+KPRR,Kotapar Road,ECOR
+KPS,Kopa Samhota,NE
+KPTN,Keshorai Patan,WCR
+KPTO,Karanpurato,ER
+KPU,Krishnapuram,SCR
+KPV,Kashipur,NE
+KPXR,Kaipada Road,ECOR
+KPY,Karunagappalli,SR
+KPZ,Kapren,WCR
+KQA,Kondagunta,SCR
+KQD,Khairatabad Dcn,SCR
+KQE,Kala Akhar,CR
+KQI,Kalachand,NFR
+KQK,Kotikulam,SR
+KQL,Kandhla,NR
+KQN,Kodaikanal Road,SR
+KQQ,Kaukuntla,SCR
+KQR,Koderma,ECR
+KQU,Kamarkundu,ER
+KRA,Karepalli,SCR
+KRAI,Kahet,WR
+KRAR,Khariar Road,ECOR
+KRBA,Korba,SECR
+KRBP,Khudiram Bose Pusa,ECR
+KRD,Karad,CR
+KRDL,Kirandul,ECOR
+KRE,Kartarpur,NR
+KRG,Koregaon,CR
+KRH,Khairthal,NWR
+KRHA,Korahia,ECR
+KRIH,Korai Halt,ECOR
+KRJ,Khurja,NCR
+KRKH,Kharkhara Halt,NR
+KRKN,Karkend,SER
+KRLI,Kurali,NR
+KRMA,Karamtola,ER
+KRMI,Karmali,KRCL
+KRMR,Karimnagar Oa,SCR
+KRND,Khorason Road,NE
+KRNI,Krishnai,NFR
+KRNN,Karnauti Halt,ECR
+KRNR,Krishnarajnagar,SWR
+KRNT,Kurnool City,SCR
+KRON,Karona Halt,ECR
+KRP,Krishnapur,ER
+KRPN,Kharepatan Road,KRCL
+KRPP,Kuruppantara,SR
+KRPR,Karepur,SCR
+KRPU,Koraput,ECOR
+KRQ,Karari,NCR
+KRR,Karur,SR
+KRS,Karisath,ECR
+KRSA,Kharsaliya,WR
+KRTH,Kiratgarh,CR
+KRV,Karavadi,SCR
+KRW,Kharwa,NWR
+KRY,Kadiri,SCR
+KRYP,Kadiridevarapalli,SWR
+KRYR,Karamsad,WR
+KRZ,Kharawar,NR
+KS,Kheta Sarai,NR
+KSAR,Kudala Sangam,SWR
+KSB,Kosamba,WR
+KSC,Kashi Chak,ECR
+KSD,Keshod,WR
+KSE,Kosad,WR
+KSF,Khalispur,NR
+KSG,Kishangarh,NWR
+KSH,Kali Sindh,WR
+KSI,Kosli,NWR
+KSJ,Kasganj,NE
+KSK,Kasimkota,SCR
+KSM,Kamasamudram,SWR
+KSN,Krishna,SCR
+KSNG,Kesinga,ECOR
+KSP,Kishanpur,ECR
+KSPR,Kashipura Sarar,WR
+KSQ,Kanspur Gugauli,NCR
+KSRA,Kasara,CR
+KSTA,Kastha,ECR
+KSU,Kustaur,SER
+KSV,Kosi Kalan,NCR
+KSW,Kheri Salwa,NWR
+KSWD,Kasar Wadi,CR
+KSWR,Kalmeshwar,CR
+KSX,Kotshila,SER
+KT,Kumta,KRCL
+KTCE,Katoghan,NCR
+KTD,Kantadih,SER
+KTDD,Kataiya Dandi,NCR
+KTE,Katni,WCR
+KTES,Katni South,WCR
+KTGG,Karatagi,SWR
+KTH,Katrasgarh,ECR
+KTHD,Kothari Road,SECR
+KTHU,Kathua,NR
+KTHY,Kalthuruthy Halt,SR
+KTJ,Khaltipur,ER
+KTJI,Katha Jori,ECOR
+KTK,Kyataneakeri Rd,SWR
+KTKA,Kotakadra,SCR
+KTKH,Kotlakheri,WR
+KTKR,Kumtha Khurd,SCR
+KTM,Kuttalam,SR
+KTMA,Kotma,SECR
+KTNR,Kirtyanand Ngr,ECR
+KTO,Katora,SECR
+KTP,Katepurna,CR
+KTPK,Kotha Pakki,NR
+KTPR,Kathalpukhuri,NFR
+KTQ,Kudra,ECR
+KTRA,Kotra,NCR
+KTRR,Kathara Road,NCR
+KTSH,Kotmi Sonar Halt,SECR
+KTU,Kuttippuram,SR
+KTV,Kottavalasa,ECOR
+KTW,Kotdwara,NR
+KTX,Katakhal,NFR
+KTY,Kotturu,SWR
+KTYM,Kottayam,SR
+KUA,Kulharia,ECR
+KUC,Karukkutty,SR
+KUCE,Kuchai,SER
+KUD,Kudachi,SWR
+KUDA,Kundapura,KRCL
+KUDL,Kudal,KRCL
+KUE,Kursela,ECR
+KUG,Kusugali,SWR
+KUGT,Kumar Ghat,NFR
+KUH,Khachrod,WR
+KUK,Korukonda,ECOR
+KUKT,Kurukotta,SCR
+KULH,Kulha-halt,NR
+KUM,Kuram,CR
+KUN,Karnal,NR
+KUND,Kund,NWR
+KUPR,Khurdpur,NR
+KUR,Khurda Road,ECOR
+KURJ,Khajuraho,NCR
+KURO,Korari,NR
+KUT,Kanauta,NWR
+KUTI,Khumtai,NFR
+KUU,Kuhuri,ECOR
+KUV,Kundara,SR
+KUW,Kanwar,NCR
+KVDU,Kadavakuduru,SCR
+KVGM,Kolvagram,NWR
+KVK,Kavathe Mahankal,CR
+KVLS,Karakavalasa,ECOR
+KVO,Kevdi Road,WR
+KVR,Kovvur,SCR
+KVS,Kalsur,SWR
+KVU,Kadakavur,SR
+KVZ,Kavali,SCR
+KWAE,Katwa,ER
+KWE,Khurial,NFR
+KWGN,Kawargaon,ECOR
+KWM,Kampur,NFR
+KWMD,Kumbhawas Mundalia D,NR
+KWO,Karauta,ECR
+KWP,Khatipura,NWR
+KWR,Koelwar,ECR
+KWV,Kurduvadi,CR
+KXB,Kanjai,WCR
+KXE,Kalian Chak,ER
+KXG,Kharia Khangar,NWR
+KXH,Kapurthala,NR
+KXI,Kurumurthi,SCR
+KXJ,Karimganj,NFR
+KXN,Kanshbahal,SER
+KXP,Kaniyapuram,SR
+KXT,Ketti,SR
+KY,Kareli,WCR
+KYA,Kauriya,ECR
+KYE,Khurai,WCR
+KYF,Kajrat Nawadih,ECR
+KYG,Kidiyanaga,WR
+KYI,Kalyani,ER
+KYJ,Kayankulam,SR
+KYM,Kadiyan,SCR
+KYN,Kalyan,CR
+KYND,Kalyanadurga,SWR
+KYOP,Kottapalli,SCR
+KYQ,Kamakhya,NFR
+KYT,Kailahat,NCR
+KZA,Khada,NE
+KZB,Kurumbur,SR
+KZE,Kanhangad,SR
+KZH,Kila Zafargarh,NR
+KZJ,Kazipet,SCR
+KZK,Kazhakuttam,SR
+KZT,Kulitthurai,SR
+KZU,Kunki,SER
+KZY,Kayalpattinam,SR
+LAA,Lakhpat,WR
+LAD,Lohardaga  Bs,SER
+LAE,Lakholi,ECOR
+LAL,Lushala,WR
+LAR,Lalitpur,NCR
+LAT,Lathi,WR
+LAU,Ladnun,NWR
+LAV,Labha,NFR
+LB,Laine Bazar(halt),NE
+LBA,Lambhua,NR
+LBG,Limbgaon,SCR
+LBI,Lilabari,NFR
+LBN,Laban,WCR
+LBT,Lalgarh Bihar Halt,ECR
+LC,Lucknow City,NE
+LCAE,Lalbagh Crt Rd,ER
+LD,Londa,SWR
+LDA,Lidhora Khurd,WCR
+LDH,Ludhiana,NR
+LDK,Ladhuka,NR
+LDU,Lunidhar,WR
+LDX,Ladda,ECOR
+LEB,Lemuabad,ECR
+LEDO,Ledo,NFR
+LGCE,Lagargawan,WCR
+LGDH,Lalaguda Gate,SCR
+LGH,Lalgarh,NWR
+LGL,Lalgola,ER
+LGO,Lalgopalganj,NR
+LGT,Langting,NFR
+LGTR,Lingaraj Tmp Rd,ECOR
+LHA,Lehra Gaga,NR
+LHB,Lahabon,ER
+LHLL,Lahli,NWR
+LHN,Lachyan,SWR
+LHU,Loharu,NWR
+LIJ,Lakshmiganj,NE
+LIR,Lachmipur,NE
+LJN,Lucknow,NE
+LJR,Lanjigarh Road,ECOR
+LKA,Lanka,NFR
+LKBL,Lakhabawal,WR
+LKD,Lakodara,WR
+LKDM,Lakhudaram,SCR
+LKDU,Lankalakoderu,SCR
+LKE,Lakheri,WCR
+LKG,Lamsakhang,NFR
+LKKD,Lakkad Kot,WR
+LKMR,Lakshmipur Road,ECOR
+LKN,Lakhminia,ECR
+LKO,Lucknow,NR
+LKR,Luckeesarai,ECR
+LKS,Lunkaransar,NWR
+LKT,Hulkoti,SWR
+LKU,Lalkua,NE
+LKW,Lakhewali,NR
+LKY,Lakhmapur,SWR
+LKZ,Lakadiya,WR
+LLBR,Lalbazar,NFR
+LLD,Lalavadi,CR
+LLI,Lalgudi,SR
+LLJ,Lalganj,NR
+LLJP,Lalganj Pakri,ECR
+LLP,Lalitgram,ECR
+LLPR,Lalit Lakshmipur,ECR
+LM,Limbdi,WR
+LMD,Linganenidoddi,SCR
+LMG,Lumding,NFR
+LMK,Limkheda,WR
+LMM,Lailakh Mamlkha,ER
+LMN,Lachhmanpur,NR
+LMNR,Lakshmibai Ngr,WR
+LMO,Liliya Mota,WR
+LMP,Lakhimpur,NE
+LMT,Almatti,SWR
+LMY,Laimekuri,NFR
+LNH,Lachhman Garh Sikar,NWR
+LNK,Lohian Khas,NR
+LNL,Lonavala,CR
+LNN,Lonand,CR
+LNWT,Lko Alambagh W Cabin,NR
+LOG,Lohgara,NCR
+LOGH,Lottegollahalli,SWR
+LOL,Loliem,KRCL
+LONI,Loni,CR
+LOT,Lohta,NR
+LOV,Lovedale,SR
+LPG,Lapanga,ECOR
+LPI,Lingampalli,SCR
+LPJ,Lalpur Jam,WR
+LR,Ladpura,NWR
+LRD,Lar Road,NE
+LRI,Lihuri,ECOR
+LRJ,Laksar,NR
+LRU,Lalpur Umri,WCR
+LS,Lasalgaon,CR
+LSD,Lusadiya,NWR
+LSI,Laheria Sarai,ECR
+LSMP,Lakshmapur,SCR
+LSR,Lasur,SCR
+LSX,Loisingha,ECOR
+LTA,Lamta,SECR
+LTD,Lathidad,WR
+LTHR,Latehar,ECR
+LTR,Lakhtar,WR
+LTRR,Latur Road,SCR
+LTT,Lokmanyatilak,CR
+LUNI,Luni,NWR
+LUR,Latur,CR
+LUSA,Lusa,NCR
+LW,Lorwada,WR
+LWR,Alnavar,SWR
+LWS,Lukwasa,WCR
+LXA,Lakswa,NFR
+LXD,Lakshannath Rd,SER
+LYD,Layabad,SER
+MA,Madha,CR
+MAAR,Malhar,NWR
+MABA,Mandi Bamora,WCR
+MABD,Mahbubabad,SCR
+MABN,Maban,WCR
+MACR,Manguli Chowdwar,ECOR
+MAD,Maddur,SWR
+MADR,Madure,KRCL
+MAG,Mangalagiri,SCR
+MAHE,Mahe,SR
+MAHM,Meham,NR
+MAI,Mehsi,ECR
+MAJN,Mangalore Junction,SR
+MAKM,Mararikulam,SR
+MAKR,Malkheri,WCR
+MALB,Maliya Miyana,WR
+MALK,Malkapur Road,CR
+MALM,Manthralayam Rd,SCR
+MAM,Mangal Mahudi,WR
+MAN,Maninagar,WR
+MANA,Mana,CR
+MANE,Maneswar,ECOR
+MANK,Manki,KRCL
+MANU,Manu,NFR
+MAO,Madgaon Junction,KRCL
+MAP,Morappur,SR
+MAQ,Mangalore Central,SR
+MAR,Mulanur,SWR
+MAS,Puratchi Thalaivar Dr Mgr Ctl,SR
+MAU,Mau,NE
+MAUR,Maur,NR
+MAY,Mariahu,NR
+MAYR,Mayar,NWR
+MB,Moradabad,NR
+MBA,Mahoba,NCR
+MBAH,Mirabigha Halt,ECR
+MBB,Murshidabad,ER
+MBDD,Maa Barahi Devi Dham,NR
+MBDP,Maa Belha Devi Dham Pratapgarh,NR
+MBG,Maibang,NFR
+MBI,Madhubani,ECR
+MBM,Mambalam,SR
+MBNL,Marwar Bhinmal,NWR
+MBNR,Mahbubnagar,SCR
+MBP,Mohibullapur,NE
+MBS,Madhosingh,NE
+MBT,Marwar Bithri,NWR
+MBY,Mandi Dabwali,NWR
+MCA,Mecheda,SER
+MCDA,Maa Chandika Devi Dham Antu,NR
+MCI,Mancheral,SCR
+MCN,Mukundarayapurm,SR
+MCQ,Mirchadhori,ECR
+MCS,Mancheswar,ECOR
+MCSC,Maharaja Chhatrasal Station Chhatarpur,NCR
+MCTM,Martyr Captain Tushar Mahajan,NR
+MCU,Mulacalacheruvu,SCR
+MCVM,Machavaram,SCR
+MDAK,Medak,SCR
+MDB,Mandor,NWR
+MDCR,Masaudhi Court Halt,ECR
+MDDP,Mandi Dip,WCR
+MDE,Makhdumpur Gaya,ECR
+MDF,Muradi,SER
+MDGR,Manendragarh,SECR
+MDJ,Muhammadganj,ECR
+MDJN,Madar,NWR
+MDKD,Madhukunda,SER
+MDKU,Modukuru,SCR
+MDL,Mandal,NWR
+MDLE,Mandar Hill,ER
+MDLL,Muddalingahalli,SWR
+MDN,Midnapore,SER
+MDNR,Modinagar,NR
+MDP,Madhupur,ER
+MDPR,Modpur,WR
+MDR,Madhira,SCR
+MDRR,Madhavnagar Road,WCR
+MDS,Mandasor,WR
+MDT,Madarihat,NFR
+MDU,Madurai,SR
+MDUN,Madhranagar,SCR
+MDVK,Mahadeokhedi,WCR
+MDVL,Mandavalli,SCR
+MDW,Marwar Mundwa,NWR
+ME,Masaipet,SCR
+MED,Medchal,SCR
+MEE,Methai,ECR
+MEJ,Maniyachchi,SR
+MEM,Mau Aimma,NR
+MEP,Mahidpur Road,WCR
+MEQ,Malethu Kanak,NR
+MER,Metpanjra,CR
+MESR,Mesra,ECR
+MET,Malerkotla,NR
+MEW,Marhaura,NE
+MEX,Mukerian,NR
+MFB,Mustafabad,NR
+MFJ,Muftiganj,NE
+MFKA,Musafir Khana,NR
+MFL,Misrauli,NR
+MFP,Muzaffarpur,ECR
+MFQ,Mahroi,WCR
+MFX,Madaraha,NCR
+MGAE,Morgram,ER
+MGB,Mudigubba,SCR
+MGD,Mugad,SWR
+MGE,Migrendisa,NFR
+MGKM,Mungiakami,NFR
+MGL,Mangela,SWR
+MGLE,Manigram,ER
+MGLP,Mangolpuri,NR
+MGM,Muragacha,ER
+MGME,Mccluskieganj,ECR
+MGN,Meghnagar,WR
+MGR,Monghyr,ER
+MGRD,Magardoh,CR
+MGRR,Magarpur,NCR
+MGW,Magarwara,NR
+MHAD,Mohadi Prgn Lng,CR
+MHBA,Mathabhanga,NFR
+MHBT,Mahbub Nagar Town Ha,SCR
+MHC,Masrakh,NE
+MHD,Mahemadavad Kheda Road,WR
+MHDB,Mahadia Ph,ECOR
+MHH,Maghar,NE
+MHI,Manihari,NFR
+MHJ,Mahajan,NWR
+MHPR,Mahiyarpur,NFR
+MHQ,Mohuda,SER
+MHRG,Mahendragarh,NWR
+MHRN,Mahendranath,NE
+MHSA,Maheshpur,ECR
+MHT,Manjhi F,NE
+MHU,Manheru,NWR
+MHUL,Mehuwala Halt,NWR
+MHUR,Mohanpur,ER
+MHV,Mahuva,WR
+MIA,Mania,NCR
+MID,Madhi,WR
+MIH,Mihrawan,NR
+MIK,Manikul,SER
+MIKD,Mahikhand Halt,ECR
+MIL,Milak,NR
+MIM,Maniram,NE
+MINA,Miyana,WCR
+MINJ,Maikalganj,NR
+MIPM,Marri Palem Halt,ECOR
+MIQ,Mirhakur,NCR
+MITA,Mitha,WR
+MIU,Maripat,NCR
+MJ,Marwar,NWR
+MJA,Meja Road,NCR
+MJBK,Manjari Budruk,CR
+MJBT,Majbat,NFR
+MJF,Malkajgiri,SCR
+MJG,Majhagawan,WCR
+MJHR,Majhiari,NCR
+MJL,Majhowalia,ECR
+MJN,Makum,NFR
+MJNL,Majri Nangal,NWR
+MJO,Majorda Junction,KRCL
+MJP,Moharajpur,ER
+MJRI,Majri,CR
+MJS,Manjeshwar,SR
+MJY,Maramjhiri,CR
+MJZ,Majhola Pakarya,NE
+MKA,Mokama,ECR
+MKB,Mankatha,ECR
+MKBH,Manwala Kot Bak,NWR
+MKC,Maksi Junction,WR
+MKD,Markundi,WCR
+MKDD,Mukundwadi Halt,SCR
+MKDN,Markadhana,CR
+MKH,Malakhera,NWR
+MKHR,Marwar Khara,NWR
+MKMN,Mokhra Madina,NR
+MKN,Makrana,NWR
+MKO,Markona,SER
+MKP,Manikpur,NCR
+MKPR,Muktapur,ECR
+MKPT,Malikpeth,CR
+MKR,Maddikera,SCR
+MKRD,Machhakunda,ECOR
+MKRN,Makronia,WCR
+MKS,Muktsar,NR
+MKSR,Mokalsar,NWR
+MKTL,Makthal,SCR
+MKU,Malkapur,CR
+MKX,Morak,WCR
+MKZ,Mahkepar Road Ph,SECR
+ML,Malhour,NR
+MLAR,Malanpur,NCR
+MLC,Malkisar,NWR
+MLD,Malihabad,NR
+MLDT,Malda Town,ER
+MLG,Malhargarh,WR
+MLGH,Mandal Garh,WCR
+MLHA,Maliya Hatina,WR
+MLI,Mangaliyawas,NWR
+MLK,Malkapuram,SCR
+MLKA,Maluka,SER
+MLKN,Mundhal Kalan,NR
+MLM,Malthan,CR
+MLMR,Melmaruvathur,SR
+MLN,Mailani,NE
+MLO,Malur,SWR
+MLP,Mallapur,SWR
+MLPR,Malipur,NR
+MLQ,Malkera,SER
+MLSA,Mallasandra,SWR
+MLT,Malatipatpur,ECOR
+MLTR,Melattur,SR
+MLV,Mallarpur,ER
+MLX,Mullanpur,NR
+MLY,Maula Ali,SCR
+MLZ,Malarna,WCR
+MMA,Muhammadabad,NE
+MMB,Mahmudabad Avdh,NE
+MMC,Mahamandir,SR
+MMCT,Mumbai Central,WR
+MMH,Mahadanapuram,SR
+MMI,Mariyamanahalli,SWR
+MMK,Madurantakam,SR
+MMKB,Memra Memrakhabad Halt,ECR
+MML,Madan Mahal,WCR
+MMM,Mandapam,SR
+MMP,Mambalappattu,SR
+MMPL,Mantapampalle,SCR
+MMR,Manmad,CR
+MMS,Mandasa Road,ECOR
+MMV,Mahali Marup,SER
+MMVR,Murga Mahadev Road,SER
+MMY,Marwar Mathaniya,NWR
+MMZ,Mandamari,SCR
+MNAE,Mankar,ER
+MNC,Madankata,ER
+MNCR,Monacherra,NFR
+MND,Munderwa,NE
+MNDH,Mandir Hasaud,ECOR
+MNDK,Maganoor,SCR
+MNDR,Mandi Dhanaura,NR
+MNE,Mansi,ECR
+MNF,Manda Road,NCR
+MNGD,Muniguda,ECOR
+MNI,Mangaon,KRCL
+MNJ,Manoharganj,NCR
+MNJR,Manjhlepur,NR
+MNL,Minchnal,SWR
+MNM,Manamadurai,SR
+MNO,Mehnar Road,ECR
+MNP,Mananpur,ECR
+MNQ,Mainpuri,NCR
+MNS,Manshahi,NFR
+MNSR,Manaksar,NWR
+MNTT,Mulanturutti,SR
+MNV,Mungaoli,WCR
+MO,Mohol,CR
+MOA,Manopad,SCR
+MOAR,Monipur Bagan,NFR
+MOB,Manoharabad,SCR
+MOBD,Moabund,NFR
+MOF,Mondh,NR
+MOG,Mohiuddinnagar,ECR
+MOGA,Moga,NR
+MOJ,Mohana,WCR
+MOL,Muli Road,WR
+MOMU,Molakalmuru,SWR
+MON,Modran,NWR
+MONJ,Monglajhora,NFR
+MONR,Mohanur,SR
+MOO,Muddanuru,SCR
+MOPR,Mohanpura,NR
+MOR,Mor,ECR
+MOT,Malout,NR
+MOTC,Motichur,NR
+MOTH,Moth,NCR
+MOU,Manoharpur,SER
+MOZ,Muzaffarnagar,NR
+MPA,Manaparai,SR
+MPI,Melpatti,SR
+MPJ,Madanpur,ER
+MPL,Madanapalle Rd,SCR
+MPR,Makar Pura,WR
+MPRA,Mahammad Pur,NFR
+MPT,Mangalampeta,SCR
+MPU,Medapadu,SCR
+MPY,Murarpur,ER
+MQ,Mannargudi,SR
+MQC,Mundka,NR
+MQL,Mirkhal,SCR
+MQN,Manyamkonda,SCR
+MQO,Munroturuttu,SR
+MQR,Malkhaid Road,SCR
+MQS,Malsian Shahkht,NR
+MQU,Murukkampuzha,SR
+MRA,Morena,NCR
+MRB,Munirabad,SWR
+MRBL,Muribahal,ECOR
+MRDL,Meramandoli,ECOR
+MRDW,Murdeshwar,KRCL
+MRE,Manauri,NCR
+MRF,Marpalli,SCR
+MRG,Margherita,NFR
+MRGA,Miryalaguda,SCR
+MRHA,Murahara,ER
+MRHT,Moranhat,NFR
+MRIJ,Murliganj,ECR
+MRJ,Miraj,CR
+MRJN,Mirjan,KRCL
+MRK,Markapur Road,SCR
+MRKL,Marikal,SCR
+MRL,Maroli,WR
+MRM,Mamanduru,SCR
+MRN,Morwani,WR
+MRND,Morinda,NR
+MROA,Mora,NCR
+MRPR,Mau Ranipur,NCR
+MRR,Murarai,ER
+MRSH,Morshi,CR
+MRT,Mathura Cant,NE
+MRTL,Mirthal,NR
+MRZA,Mirza,NFR
+MS,Chennai Egmore,SR
+MSDG,Mhasoba Dongargaon,CR
+MSDN,Masudan,ER
+MSH,Mahesana,WR
+MSK,Mahes Khunt,ECR
+MSMD,Mahasamund,ECOR
+MSR,Masur,CR
+MSW,Maskanwa,NE
+MSZ,Mansa,NR
+MTA,Mathela,WCR
+MTBG,Mathia Barghat Halt,NE
+MTBH,Mahatbania Halt,ECR
+MTC,Meerut City,NR
+MTD,Merta Road,NWR
+MTH,Mataundh,NCR
+MTHP,Mithapur,WR
+MTI,Mitawali,NCR
+MTJ,Mathura,NCR
+MTJR,Moterjhar,NFR
+MTL,Mailam,SR
+MTM,Machelipatnam,SCR
+MTP,Metupalaiyam,SR
+MTPC,Motipura Chauki,WCR
+MTR,Motipur,ECR
+MTSI,Motisadhli,WR
+MTT,Mutupet,SR
+MTU,Matmari,SCR
+MTV,Matalkunta,SCR
+MTWN,Mitewani Ph,SECR
+MTY,Multai,CR
+MUBR,Manu Bazar,NFR
+MUD,Muradnagar,NR
+MUE,Mudkhed,SCR
+MUG,Magra,ER
+MUGR,Manuguru,SCR
+MULK,Mulki,KRCL
+MUM,Mangapatnam,SCR
+MUP,Murhipar,SECR
+MUPA,Mupa,NFR
+MUR,Mankapur,NE
+MURD,Mandawar M Rd,NCR
+MURI,Muri,SER
+MUT,Meerut Cant,NR
+MUW,Mathurapur,ER
+MUZ,Mohiuddinpur,NR
+MV,Mayiladuturai,SR
+MVA,Malaka Vemala,SCR
+MVD,Mulvad,SWR
+MVE,Mundhewadi,CR
+MVF,Manabar,ECOR
+MVG,Maligura,ECOR
+MVI,Morbi,WR
+MVJ,Mavli,NWR
+MVL,Malavli,CR
+MVLK,Mavelikara,SR
+MVO,Manwath Road,SCR
+MVV,Maheshi,ER
+MVW,Mallividu,ECOR
+MW,Mairwa,NE
+MWAD,Mowad,CR
+MWC,Mandawali Chander Vihar Halt,NR
+MWH,Malwan,NCR
+MWJ,Marwasgram,WCR
+MWK,Mordad Tanda,CR
+MWM,Malleswaram,SWR
+MWQ,Motari Halt,ECOR
+MWRN,Madwarani,SECR
+MWT,Marwar Lohawat,NWR
+MWUE,Mahrawal,NCR
+MWW,Mahwa,NWR
+MWX,Mallanwala Khas,NR
+MXH,Makhu,NR
+MXK,Mandrak,NCR
+MXL,Mokholi,WCR
+MXN,Mariani,NFR
+MXR,Mahur,NFR
+MXT,Malakpet,SCR
+MXW,Mahadevsal,SER
+MYA,Mandya,SWR
+MYD,Manderdisa,NFR
+MYG,Miyagam Karjan,WR
+MYK,Mayakonda,SWR
+MYL,Malliyala,SCR
+MYM,Memari,ER
+MYO,Moridhal,NFR
+MYR,Maihar,WCR
+MYS,Mysore,SWR
+MYX,Metyalsahar Halt,SER
+MYY,Mayyanad,SR
+MZC,Mirza Cheuki,ER
+MZL,Mirzapalli,SCR
+MZM,Muzzampur yn,NR
+MZP,Mirzapur,NCR
+MZQ,Majgaon Assam,NFR
+MZR,Murtajapur,CR
+MZS,Murkeong Selek,NFR
+MZY,Machapur,ECOR
+MZZ,Manjuri Road,ECOR
+NAB,Nagbhir,SECR
+NAC,Nawa City,NWR
+NAD,Nagda,WR
+NAHT,New Ashti,CR
+NAK,Naksalbari,NFR
+NAL,Nal Halt,NWR
+NAM,Namrup,NFR
+NAN,Nandgaon Road,KRCL
+NANA,Nana,NWR
+NAND,Nandikoor,KRCL
+NANR,Naranpur,ECOR
+NASP,Narasingapalli,SCR
+NAT,Nathnagar,ER
+NAVI,Navi,CR
+NAW,Nawandgi,SCR
+NAWN,Nawan,NWR
+NAZJ,Nazirganj,ECR
+NB,Nimbhora,CR
+NBA,Nabha,NR
+NBD,Najibabad,NR
+NBG,Nabinagar Road,ECR
+NBH,Nimbahera,WR
+NBI,Nadbai,NCR
+NBJU,New Barauni,ECR
+NBL,Nimbal,SWR
+NBPH,New Balrampur Halt,ER
+NBQ,New Bongaigaon,NFR
+NBR,Namburu,SCR
+NBT,Nayabagirthipur,ECOR
+NBUE,Nibkarori,NCR
+NBX,Nizbarganj,NFR
+NCA,Nizchatia,NFR
+NCB,New Cooch Behar,NFR
+NCBD,New Changrabandha,NFR
+NCE,Nlachrvuru East,SCR
+NCH,Nakachari,NFR
+NCJ,Nagercoil Junction,SR
+NCR,Nagore,NCR
+NCRM,Nacharam,SCR
+NCU,Nallacheruvu,SCR
+ND,Nadiad,WR
+NDAE,Nabadwip Dham,ER
+NDB,Nandurbar,WR
+NDD,Nidadavolu,SCR
+NDJ,Nandganj,NE
+NDKD,Nadikode,SCR
+NDKR,Nandakumar Ph,SER
+NDL,Nandyal,SCR
+NDLS,New Delhi,NR
+NDM,Nidamanuru,SCR
+NDN,Nardana,WR
+NDNR,New Dhanora,CR
+NDO,Nidubrolu,SCR
+NDON,Nadaon Halt,ECR
+NDPM,Narmadapuram,WCR
+NDPU,Nudurupadu,SCR
+NDRT,Nangal Degrota,NWR
+NDT,Nathdwara,NWR
+NDU,Nadaul,ECR
+NDV,Nidvanda,SWR
+NDW,Nadwan,ECR
+NDZ,Nidigallu,SCR
+NED,Nanded,SCR
+NEMA,Nema Halt,ECR
+NEO,Neora,ECR
+NEP,Nenpur,WR
+NERH,Ner Halt,ECR
+NES,Natesar,ECR
+NEW,Nivari,NCR
+NEWC,New West Cabin,NCR
+NFK,New Farakka,ER
+NG,Nagari,SR
+NGA,Ningala,WR
+NGAN,Nagaon,NFR
+NGF,Nagarnabi,ER
+NGG,Nagina,NR
+NGI,Nagari,CR
+NGLT,Naglatula,NCR
+NGN,Nandgaon,CR
+NGNT,New Guntur,SCR
+NGO,Nagaur,NWR
+NGP,Nagpur,CR
+NGR,Annigeri,SWR
+NGRD,Nilgiri Road,SER
+NGRH,New Giridih,ECR
+NGT,Nagappattinam,SR
+NGTN,Nagothane,CR
+NGZ,Shri-kshetra Nagjhari,CR
+NH,Naihati,ER
+NHB,Noh Bachhamdi,NCR
+NHF,Nihasta Halt,NR
+NHGJ,New Harangajao,NFR
+NHH,Nihalgarh,NR
+NHK,Naharkatiya,NFR
+NHLG,New Haflong,NFR
+NHLN,Naharlagun,NFR
+NHM,Nandol Dehegam,WR
+NHN,Nigohan,NR
+NHR,Nohar,NWR
+NHT,Nalhati,ER
+NHY,Naganahalli,SWR
+NIA,Janjgir Naila,SECR
+NIDI,Nidi,CR
+NIIJ,Nilaje,CR
+NIL,Nilambur Road,SR
+NILE,Nimitita,ER
+NIM,Nimdih,SER
+NIP,Nizampur,NWR
+NIR,Nainpur,SECR
+NIRA,Nira,CR
+NITR,Netaji Subhash,SECR
+NIU,Nabipur,WR
+NIV,Nivasar,KRCL
+NJP,New Jalpaiguri,NFR
+NJT,Nager Coil Town,SR
+NK,Nasik Road,CR
+NKB,Nagrakata,NFR
+NKBR,Narkatia Bazar Halt,NE
+NKD,Nekonda,SCR
+NKDO,Nakkanadoddi,SCR
+NKE,Narkatiaganj,ECR
+NKI,Naikheri,WR
+NKM,Namkom,SER
+NKMG,New Karimganj,NFR
+NKN,Nyoli Kalan,NWR
+NKP,Nirakarpur,ECOR
+NKR,Nimar Kheri,WR
+NKRA,Nokhra,NWR
+NKW,Nilakantheswar Asthan,ECOR
+NKX,Nakati Semra,ECOR
+NLBR,Nilambazar,NFR
+NLD,Nalanda,ECR
+NLDA,Nalgonda,SCR
+NLDM,Nangal Dam,NR
+NLE,Nileshwar,SR
+NLI,Namli,WR
+NLKR,Nilokheri,NR
+NLKT,Nalkata,NFR
+NLNI,New Loni,CR
+NLP,North Lakhimpur,NFR
+NLPD,Nallapadu,SCR
+NLQ,Nangal Pathani Halt,NWR
+NLR,Nellore,SCR
+NLV,Nalbari,NFR
+NMA,Nirmali,ECR
+NMBR,N Mayurbhanj Rd,SER
+NMD,Nomoda,WCR
+NMDA,New Morinda,NR
+NMGA,Nelemangala,SWR
+NMGT,Nmg Tamdalge,CR
+NMGY,Numoligarh,NFR
+NMH,Nimach,WR
+NMJ,Nidamangalam,SR
+NMK,Nim Ka Thana,NWR
+NMKL,Namakkal,SR
+NML,Nellimaria,ECOR
+NMM,New Misamari,NFR
+NMT,Namtiali,NFR
+NMX,New Maynaguri,NFR
+NMZ,New Mal,NFR
+NN,Nandura,CR
+NNA,Naugachia,ECR
+NNHT,Nonihat,ER
+NNL,Narnaul,NWR
+NNN,Nanguneri,SR
+NNO,Nangloi,NR
+NNR,Narayanpur,ECR
+NNW,Narayanpur Tatwara,WCR
+NOI,Nariaoli,WCR
+NOK,Nokha,NWR
+NOMD,Noamundi,SER
+NOQ,New Alipurduar,NFR
+NPD,Nawapara Road,ECOR
+NPL,Nagalapalle,SCR
+NPNR,Nepanagar,CR
+NPRD,Nagpur Road Ph,SECR
+NPS,Napasar,NWR
+NPV,Narpatganj,ECR
+NPZ,Nawapatra,ER
+NQR,Naraj Marathapur,ECOR
+NR,Niphad,CR
+NRA,Nunkhar,NE
+NRD,Naroda,WR
+NRDP,Nagireddipalli,SCR
+NRE,Nandalur,SCR
+NRG,Nergundi,ECOR
+NRGO,Narganjo Halt,ER
+NRI,Naraina,NWR
+NRKR,Narkher,CR
+NRL,Neral,CR
+NRLR,Norla Road,ECOR
+NRM,Nurmahal,NR
+NRN,Singhiaghat,ECR
+NRO,Nakodar,NR
+NRP,Narsipatnam Rd,SCR
+NRS,Nagaria Sadat,NR
+NRT,Narasaraopet,SCR
+NRW,Narwana,NR
+NRX,Noadar Dhal,ER
+NRZB,Nowrozabad,SECR
+NS,Narasapur,SCR
+NSD,Nasirabad,NWR
+NSGR,Narasinghgarh,WCR
+NSI,Nikursini,SER
+NSL,Nagarsol,SCR
+NSU,Nisui,NR
+NSVP,National Police Academy Shivar,SCR
+NSX,Narsipuram Halt,ECOR
+NTN,Nar Town,WR
+NTR,Nittur,SWR
+NTSK,New Tinsukia,NFR
+NTV,Nautanwa,NE
+NTW,Nanjangud Town,SWR
+NTZ,Nathwana,NWR
+NU,Narsinghpur,WCR
+NUA,Nua,NWR
+NUB,Nurabad,NCR
+NUD,Navagadh,WR
+NUQ,Nagar Untari,ECR
+NUR,Narela,NR
+NVG,Nawagaon,CR
+NVRD,Navade Road,CR
+NVS,Navsari,WR
+NVT,Navipet,SCR
+NW,Nalwar,SCR
+NWB,Niwas Road,WCR
+NWD,Nawadah,ECR
+NWDH,Nawadih,ECR
+NWH,Nawalgarh,NWR
+NWN,Nanwan,NWR
+NWP,Naupada,ECOR
+NWR,Niwar,WCR
+NWU,Navapur,WR
+NXN,Nuagaon,SER
+NXR,Nagsar,ECR
+NYA,Narayangarh,SER
+NYDO,Narayandoho,CR
+NYG,Nayagarh,ECOR
+NYH,Nayandahalli,SWR
+NYM,Neyamatpur,ECR
+NYN,Naini,NCR
+NYO,Nayagaon,ECR
+NYP,Nayudupeta,SR
+NYY,Neyyattinkara,SR
+NZB,Nizamabad,SCR
+NZD,Nuzvid,SCR
+NZM,Hazrat Nizamuddin,NR
+NZP,Niyazipur Halt,ECR
+NZT,Nazareth,SR
+OBM,Obalapuram,SWR
+OBR,Obra Dam,ECR
+OBVP,Obulavaripalli,SCR
+OCH,Odhaniya Chacha,NWR
+OCR,Ochira,SR
+OD,Od,WR
+ODB,Oodlabari,NFR
+ODC,Oddanchatram,SR
+ODG,Obaidulla Ganj,WCR
+ODM,Ondagrarm,SER
+OEA,Odela,SCR
+OGL,Ongole,SCR
+OKA,Okhla,NR
+OKHA,Okha,WR
+OKL,Ottakkal,SR
+OLR,Ollur,SR
+ON,Unnao,NR
+OND,Aunlajori,SER
+ONR,Coonoor,SR
+OPL,Uppal,SCR
+ORAI,Orai,NCR
+ORC,Orchha,NCR
+OREH,Ore  Halt,ECR
+ORGA,Orga,SER
+ORKI,Orki,NR
+ORR,Orr,WCR
+OSN,Osiyan,NWR
+OTD,Ootwar,NCR
+OTP,Ottappalam,SR
+OTR,Moturu,SCR
+OYR,Waria,ER
+PAA,Patas,CR
+PAD,Pardi,WR
+PAK,Pakala,SCR
+PAL,Palasner,WCR
+PAM,Panapakam,SCR
+PAN,Panagarh,ER
+PANP,Pandavapura,SWR
+PAO,Panoli,WR
+PAP,Pithapuram,SCR
+PAR,Pandhurna,CR
+PARH,Padarkheda,WCR
+PASA,Parassala,SR
+PASG,Panisagar,NFR
+PAU,Purna,SCR
+PAV,Pedana,SCR
+PAVI,Pavi,WR
+PAW,Pandabeswar,ER
+PAY,Payyanur,SR
+PAZ,Payangadi,SR
+PB,Puntamba,CR
+PBA,Piardoba,SER
+PBE,Pilibhit,NE
+PBKS,Pambakovil Shandy,SR
+PBL,Pathsala,NFR
+PBM,Pamban,SR
+PBN,Parbhani,SCR
+PBR,Porbandar,WR
+PBV,Paliba,ECOR
+PBW,Pantnagar,NE
+PC,Pachora,CR
+PCDR,Panchdeori Halt,NE
+PCH,Pachhapur,SWR
+PCK,Pachrukhi,NE
+PCL,Pulicherla,SCR
+PCLI,Palachauri,CR
+PCM,Pavurchatram,SR
+PCN,Panch Pipila,WR
+PCOI,Prayagraj Chheoki,NCR
+PCQ,Pichkurirdhal,ER
+PCR,Panchra,ER
+PCU,Putlacheruvu,SCR
+PCV,Palakkodu,SWR
+PCX,Pagla Chandi,ER
+PCZ,Pocharam,SCR
+PDA,Pundooah,ER
+PDD,Padubidri,KRCL
+PDF,Padampur,WR
+PDH,Padadhari,WR
+PDJ,Phiding,NFR
+PDKN,Pedakakani Halt,SCR
+PDKT,Pudukkottai,SR
+PDL,Pendekallu,SCR
+PDNA,Peddadinne,SCR
+PDNR,Padnur,SWR
+PDO,Poodoor,SCR
+PDP,Padse,WR
+PDPH,Padapahar,SER
+PDPL,Peddapalli,SCR
+PDR,Payagpur,NE
+PDRD,Pindra Road,NR
+PDSN,Peddasana,ECOR
+PDT,Pendurti,ECOR
+PDU,Ponduru,ECOR
+PDW,Pandaul,ECR
+PDWA,Pindwara,NWR
+PDX,Payradanga,ER
+PDY,Pondicherry,SR
+PDZ,Pilioda,WCR
+PEC,Pencharthal,NFR
+PEH,Pathardih,ECR
+PEM,Peralam,SR
+PEN,Pen,CR
+PER,Perambur,SR
+PERN,Pernem,KRCL
+PES,Phesar,ECR
+PFL,Piprala,WR
+PFM,Phaphamau,NR
+PFR,Pachor Road,WCR
+PFT,Pothahi,ECR
+PFU,Padua,ECOR
+PGA,Pagara,WCR
+PGC,Panchgachia,ECR
+PGI,Parpanangadi,SR
+PGK,Pili Bangan,NWR
+PGL,Pagdhal,WCR
+PGR,Pugalur,SR
+PGRL,Piduguralla,SCR
+PGT,Palakkad,SR
+PGTN,Palghat Town,SR
+PGU,Padugupadu,SCR
+PGW,Phagwara,NR
+PHA,Patharia,WCR
+PHD,Phaphund,NCR
+PHK,Punarakh,ECR
+PHM,Patapatnam,ECOR
+PHN,Pokhrayan,NCR
+PHR,Phillaur,NR
+PIA,Pipraigaon,WCR
+PIGT,Pilighat,WCR
+PIH,Parhihara,NWR
+PIL,Piler,SCR
+PIO,Pilol,WR
+PIP,Piplia,WR
+PIRO,Piro,ECR
+PIS,Piska Fs,SER
+PIT,Palitana,WR
+PIZ,Pingli,SCR
+PJ,Peppeganj,NE
+PJK,Panj Kosi,NR
+PK,Pakni,CR
+PKA,Pradhankhunta,ECR
+PKD,Penukonda,SWR
+PKF,Pokla,SER
+PKK,Pakki,NR
+PKNS,Pokharni snha,SCR
+PKO,Palakollu,SCR
+PKQ,Pattikkad,SR
+PKR,Pakaur,ER
+PKRD,Pakaria Road,WCR
+PKT,Pattukkottai,SR
+PKU,Panskura,SER
+PKW,Pilkhua,NR
+PLCJ,Phalodi,NWR
+PLD,Paldhi,WR
+PLE,Piplee,WR
+PLG,Palghar,WR
+PLH,Paralakhemundi,ECOR
+PLJ,Palej,WR
+PLMD,Pilamedu,SR
+PLNI,Palani,SR
+PLO,Pulgaon,CR
+PLP,Phulpur,NR
+PLRD,Padaliya Road,WR
+PLS,Pipalsana,NE
+PLSG,Palasingi,ECOR
+PLSN,Palsana,NWR
+PLU,Patakottacheru,SCR
+PLW,Pingleshwar,WR
+PLWR,Phulwaria,ECR
+PLY,Plassey,ER
+PM,Palam,NR
+PMK,Paramakkudi,SR
+PMKT,Pimpalkhuti,CR
+PML,Papanasam,SR
+PMP,Pimpri,CR
+PMPR,Prempur,NCR
+PMR,Pitambarpur,NR
+PMT,Pullampet,SCR
+PMU,Parmanandpur,ECR
+PMY,Pali Marwar,NWR
+PNBE,Patna,ECR
+PNC,Patna Saheb,ECR
+PND,Pendra Road,SECR
+PNDM,Pennadam,SR
+PNDR,Pandori,WR
+PNE,Prantik,ER
+PNF,Pangaon,SCR
+PNHI,Panhai,NCR
+PNHR,Panihar,WCR
+PNKD,Panki Dham,NCR
+PNM,Panyam,SCR
+PNME,Parasnath,ECR
+PNP,Panipat,NR
+PNPL,Panpali,SER
+PNPN,Panpana,SER
+PNQ,Punkunnam,SR
+PNSA,Punsia,ER
+PNU,Palanpur,WR
+PNUG,Punpun Ghat Halt,ECR
+PNVL,Panvel,CR
+PNVT,Pancharatna,NFR
+PNW,Pundag,SER
+PNWN,Pachwan,WR
+PNYA,Paniya Hawa,NE
+PO,Parangipettai,SR
+POA,Palikona,SCR
+POE,Pawapuri Road,ECR
+POK,Pokran,NWR
+PON,Ponneri,SR
+POR,Pipalda Road,WCR
+PORA,Pora,NCR
+POU,Padrauna,NE
+POX,Pola-patthar,CR
+POY,Pollachi,SR
+POZ,Potul,SCR
+PP,Puranpur,NE
+PPA,Pipra,ECR
+PPC,Pipraich,NE
+PPD,Piplod,WR
+PPEA,Paprera,NCR
+PPG,Piploda Bagla,WR
+PPI,Pipariya,WCR
+PPLI,Pipli,WR
+PPM,Phirangipuram,SCR
+PPN,Punpun,ECR
+PPO,Panposh,SER
+PPR,Pipar Road,NWR
+PPT,Pirpainti,ER
+PPTA,Patliputra,ECR
+PPU,Piparpur,NR
+PPW,Pachperwa,NE
+PPZ,Peddempet,SCR
+PQL,Pindlai,SCR
+PQN,Pwn Klaknder Rd,NR
+PQT,Puniyavant,WR
+PRB,Parbati,WR
+PRBZ,Parsa Bazar,ECR
+PRCA,Perecherla,SCR
+PRDP,Paradeep,ECOR
+PRDT,Proddatur,SCR
+PRF,Parsipur,NR
+PRG,Prayag,NR
+PRGR,Pinargaria,ER
+PRH,Powerpet,SCR
+PRI,Pathri,NR
+PRJ,Prantij,WR
+PRKH,Parkanhatti,SWR
+PRL,Polur,SR
+PRLI,Parli Vaijnath,SCR
+PRNA,Purnia,NFR
+PRNC,Purnia Court,ECR
+PRND,Perinad,SR
+PRNR,Porjanpur,ECOR
+PRP,Paharpur,ECR
+PRR,Purulia,SER
+PRRB,Prayagraj Rambag,NE
+PRSL,Pandrasali,SER
+PRT,Panruti,SR
+PRTL,Pirtala,ER
+PRTN,Pratapnagar,WR
+PRTP,Partapur,NR
+PRWD,Parewadi,CR
+PRY,Paraiya,ECR
+PRYJ,Prayagraj,NCR
+PRZ,Parsa,NE
+PS,Paras,CR
+PSA,Palasa,ECOR
+PSAE,Purbasthali,ER
+PSB,Parsabad,ECR
+PSD,Parsoda,SCR
+PSDA,Pasivedala,SCR
+PSE,Pusauli,ECR
+PSL,Parisal,NWR
+PSLI,Parsoli,WCR
+PSO,Palsora Makrawa,WR
+PSPY,Prasannaya Palli,SCR
+PSR,Pasraha,ECR
+PT,Patli,NR
+PTA,Patiala,NR
+PTAB,Patia Halt,ECOR
+PTB,Pattambi,SR
+PTD,Petlad,WR
+PTH,Patranga,NR
+PTI,Patiali,NE
+PTJ,Podanur,SR
+PTK,Pathankot,NR
+PTKC,Pathankot Cantt,NR
+PTKD,Patharkandi,NFR
+PTKP,Potkapalli,SCR
+PTLI,Pathauli,NCR
+PTN,Patan,WR
+PTNR,Patelnagar,NR
+PTP,Patal Pani,WR
+PTRD,Pataudi Road,NR
+PTRE,Patara,NCR
+PTRL,Pathrala,NWR
+PTRU,Patratu,ECR
+PTT,Putalapattu,SCR
+PTU,Partur,SCR
+PTWA,Patwara,WCR
+PU,Patchur,SWR
+PUA,Pulla,SCR
+PUD,Phanda,WR
+PUK,Pudukad,SR
+PUL,Rampura Phul,NR
+PUN,Pundi,ECOR
+PUNE,Pune,CR
+PUO,Pir Umrod,WR
+PURI,Puri,ECOR
+PUS,Phusro,ECR
+PUSA,Pusla,CR
+PUT,Puttur,SR
+PUU,Punalur,SR
+PUW,Patuwas Mehrana,NWR
+PUX,Parasia,CR
+PVD,Peddavadiapudi,SCR
+PVI,Peravurani,SR
+PVP,Parvatipuram,ECOR
+PVPT,Parvatipuram Tn,ECOR
+PVR,Pandharpur,CR
+PVRD,Piravam Road,SR
+PVU,Paravur,SR
+PWL,Palwal,NR
+PWS,Phulwari Sharif,ECR
+PWXP,Pawani Kumarpur Halt,ECR
+PYGS,Prayagraj Sangam,NR
+PYHT,Prayahat Halt,ER
+PYOL,Payyoli,SR
+PYX,Peyanapalli,SCR
+QG,Quazigund,NR
+QLD,Quilandi,SR
+QLM,Kulem,SWR
+QLN,Kollam,SR
+QSR,Kansrao,NR
+R,Raipur,SECR
+RA,Ramparda,WR
+RAA,Barara,NR
+RAH,Ramgarh,NCR
+RAI,Raibha,NCR
+RAIR,Raikakhol,ECOR
+RAJP,Rajapur Road,KRCL
+RAKD,Radhakund,NCR
+RAL,Repalle,SCR
+RAM,Ramapuram,SCR
+RAMA,Ramva,NCR
+RANI,Rani,NWR
+RASP,Rasipuram,SR
+RAY,Ray,ECR
+RBA,Rambha,ECOR
+RBD,Rahimabad,NR
+RBG,Raybag,SWR
+RBL,Rae Bareli,NR
+RBN,Raghubans Nagar,ECR
+RBR,Ribada,WR
+RBS,Rupbas,NCR
+RBZ,Rambhaddarpur,ECR
+RC,Raichur,SCR
+RCF,Rail Coach Factory,NR
+RCJ,Ranayala Jasnia,WR
+RCP,Ramachandrapur,NR
+RCTC,Raghunathpur,ECOR
+RDBR,Randia Baudpur,ECOR
+RDD,Rikhabdev Road,NWR
+RDDE,Rathdhana,NR
+RDG,Rayadrug,SWR
+RDHP,Radhanpur,WR
+RDHR,Riddhapur,CR
+RDI,Kardi,SWR
+RDL,Rudauli,NR
+RDM,Ramgundam,SCR
+RDN,Rudain,NE
+RDP,Radhikapur,NFR
+RDRA,Ramdevra,NWR
+RDU,Radhamohanpur,SER
+RE,Rewari,NWR
+RECH,Rechni Road,SCR
+REG,Regupalem,SCR
+REI,Rithi,WCR
+REJ,Rejinagar,ER
+REN,Ren,NWR
+RENH,Renhat,WCR
+RET,Rentia,WR
+REWA,Rewa,WCR
+RFJ,Rafiganj,ECR
+RG,Rajghat Narora,NR
+RGBP,Rani Gaidinliu,NFR
+RGD,Rajgir,ECR
+RGDA,Rayagada,ECOR
+RGH,Ramgarhwa,ECR
+RGI,Ramgiri,SWR
+RGJ,Raiganj,NFR
+RGJI,Rangjuli,NFR
+RGL,Rengali,ECOR
+RGM,Rangapuram,SCR
+RGO,Rotegaon,SCR
+RGP,Raghunathpalli,SCR
+RGPM,Raghavapuram,SCR
+RGQ,Raigadh Road,NWR
+RGS,Ringas,NWR
+RGT,Rajghat Halt,SER
+RGU,Ragaul,NCR
+RGV,Raghopur,ECR
+RHA,Ranaghat,ER
+RHE,Rakha Mines,SER
+RHG,Rajgarh,NWR
+RHMA,Rahama,ECOR
+RHN,Roshanpur,NE
+RIG,Raigarh,SECR
+RIKA,Ratikheda,WCR
+RJA,Rajnagar,ECR
+RJAP,Rajapur,SCR
+RJB,Rajabera,ECR
+RJG,Rajgram,ER
+RJGR,Raj Athgarh,ECOR
+RJK,Raja Ka Sahaspr,NR
+RJLA,Rajla,ER
+RJLK,Rajalukah,SER
+RJN,Raj Nandgaon,SECR
+RJO,Rajendra Pul,ECR
+RJP,Razampeta,SCR
+RJPB,Rajendra Nagar,ECR
+RJPM,Rajapalayam,SR
+RJR,Rajaldesar,NWR
+RJS,Rajiyasar,NWR
+RJT,Rajkot,WR
+RJY,Rajamundry,SCR
+RK,Roorkee,NR
+RKB,Raika Bagh,NWR
+RKD,Rukadi,CR
+RKK,Ratangrh Knkwal,NWR
+RKL,Ramkola,NE
+RKM,Raja Ki Mandi,NCR
+RKMP,Rani Kamalapati,WCR
+RKO,Ramakistapuram Gate,SCR
+RKSH,Rishikesh,NR
+RKSN,Rajkharsawan,SER
+RKY,Kothariya,WR
+RLA,Rajula,WR
+RLL,Regadipalli,SCR
+RLO,Rayalcheruvu,SCR
+RLP,Harlapur,SWR
+RLR,Raila Road,NWR
+RM,Rajmane,CR
+RMA,Ramganj Mandi,WCR
+RMB,Rampura Beri,NWR
+RMC,Ram Chaura Road,NR
+RMD,Ramanathapuram,SR
+RMF,Ramna,ECR
+RMGM,Ramanagaram,SWR
+RMH,Rangmahal,NWR
+RMJK,Ram Nagar,NR
+RMM,Rameswaram,SR
+RMN,Raman,NWR
+RMNP,Ramannapet,SCR
+RMP,Rahimatpur,CR
+RMPB,Rampur,NFR
+RMPR,Rampur  Halt,ER
+RMR,Ramnagar,NE
+RMRB,Ramnagar Bengal,SER
+RMT,Ramgarh Cantt,SER
+RMU,Rampur,NR
+RMV,Ramavarappadu,SCR
+RMY,Rukmapur,SCR
+RMZ,Routhpuram Halt,ECOR
+RN,Ratnagiri,KRCL
+RNC,Ranchi,SER
+RNE,Ranjani,SCR
+RNG,Raniganj,ER
+RNGG,Rangaliting,NFR
+RNH,Runkhera,WR
+RNJ,Runija,WR
+RNL,Ranala,WR
+RNO,Ranoli,WR
+RNPR,Rupnarayanpur,ER
+RNQ,Renukut,ECR
+RNR,Ranibennur,SWR
+RNRD,Ranipur Road,NCR
+RNT,Ranthambhore,WCR
+RNTL,Ranital,SER
+RNV,Raniwara,NWR
+RNW,Renwal,NWR
+RNY,Rangiya,NFR
+ROA,Rusera Ghat,ECR
+ROHA,Roha,CR
+ROHN,Rohednagar Halt,NR
+ROI,Reoti,NE
+ROK,Rohtak,NR
+ROP,Rupsa,SER
+RORA,Rora,NCR
+ROU,Rourkela,SER
+ROZA,Roza,NR
+RPAN,Rangapara North,NFR
+RPAR,Rupnagar,NR
+RPH,Rampur Hat,ER
+RPJ,Rajpura,NR
+RPMN,Rampurmani Haran,NR
+RPO,Rawatpur,NE
+RPR,Raghunathpur,ECR
+RPRD,Rupra Road,ECOR
+RPRL,Raparla Halt,SCR
+RPSC,Rudrapur Sidcul Halt,NE
+RPUR,Ratanpur,ER
+RPV,Rajapatti,NE
+RPZ,Rana Pratap Nagar,NWR
+RRB,Birur,SWR
+RRGA,Rangareddy Guda,SCR
+RRL,Rewral,SECR
+RRME,Ranchi Road,ECR
+RRP,Rairangpur,SER
+RRS,Raghuraj Singh,NR
+RRU,Rayaru,NCR
+RSG,Ramsagar,SER
+RSH,Ratanshahar,NWR
+RSJ,Rayser,WCR
+RSMN,Ramgovindsingh Mahuli Halt,ECR
+RSNR,Rai Singh Nagar,NWR
+RSR,Rasra,NE
+RSWT,Ramgarh Shekhawati,NWR
+RSYI,Rasayani,CR
+RTA,Ruthiyai Junction,WCR
+RTGH,Ratangarh,NWR
+RTI,Raoti,WR
+RTM,Ratlam,WR
+RTN,Retang,ECOR
+RTP,Ratanpura,NE
+RTWS,Rahatwas,WCR
+RU,Renigunta,SCR
+RUB,Rasulabad,NCR
+RUI,Rukni,SER
+RUPC,Rudrapur City,NE
+RUR,Ranpur,WR
+RURA,Rura,NCR
+RV,Raver,CR
+RVK,Raja Bhat Khawa,NFR
+RVKH,Ravindrakhani,SCR
+RW,Rankua,WR
+RWJ,Rawania Dungar,WCR
+RWL,Raiwala,NR
+RWO,Ranavav,WR
+RWTB,Rowta Bagan,NFR
+RXL,Raxaul,ECR
+RXM,Rooma,NCR
+RYP,Rayanapad,SCR
+SA,Salem,SR
+SAA,Sathiaon,NE
+SAB,Santamagulur,SCR
+SAC,Sanichara,NCR
+SADP,Saidapur,SCR
+SAG,Sangrur,NR
+SAGM,Sagma,WCR
+SAH,Saphale,WR
+SAHA,Sarahula,ECR
+SAK,Sak Bahadurpur,WR
+SAL,Salwa,SECR
+SALE,Salar,ER
+SALI,Saheli,NWR
+SAN,Sandila,NR
+SANI,Shanki,ECR
+SANK,Sank,NCR
+SANR,Sardarnagar,NE
+SAO,Sagoni,WCR
+SAP,Sattenapalle,SCR
+SAPE,Sape Wamane,KRCL
+SAS,Sheodaspura Padampura,NWR
+SASN,Sahibzada Ajit Singh Nagar,NR
+SASR,Sausar,SECR
+SAT,Sant Road,WR
+SAU,Sanand,WR
+SAV,Savda,CR
+SAW,Suriawan,NR
+SAY,Sayama,WR
+SBB,Sahibabad,NR
+SBBJ,Sri Bala Bramareshwara Jogulamba,SCR
+SBC,Ksr Bengaluru,SWR
+SBD,Sleemanabad Rd,WCR
+SBDR,Sonbhadra,NCR
+SBE,Sorbhog,NFR
+SBG,Sahibganj,ER
+SBGA,Shravanabelagola,SWR
+SBGN,Sisibargaon,NFR
+SBH,Sulebhavi,SWR
+SBHR,Subrahmanya Road,SWR
+SBIB,Sabarmati Bg,WR
+SBLT,Shri Bhadriya Lathi,NWR
+SBNM,Subarnamrigi,ER
+SBO,Sabaur,ER
+SBP,Sambalpur,ECOR
+SBPY,Sambalpur City,ECOR
+SBR,Sambhar Lake,NWR
+SBRA,Sarbahara,SECR
+SBRM,Sabroom,NFR
+SBT,Sabarmati,WR
+SBTJ,Shanidev Dham Bishnathganj,NR
+SBV,S Bhakhtiyarpur,ECR
+SBW,Shewbabudih,SER
+SBZ,Siswa Bazar,NE
+SC,Secunderabad,SCR
+SCA,Salchapra,NFR
+SCH,Sachin,WR
+SCI,Sanchi,WCR
+SCKR,Salichauka Road,WCR
+SCL,Silchar,NFR
+SCM,Simhachalam,ECOR
+SCMN,Simhachalam North,ECOR
+SCPR,Shyama Charanpur Hal,ECOR
+SCT,Sengottai,SR
+SCV,Sukhchain,NWR
+SCY,Sachiwalay(halt),ECR
+SD,Sidhauli,NE
+SDAH,Sealdah,ER
+SDB,Shahabad,CR
+SDD,Sindhawadar,WR
+SDDN,Siddharth Nagar,NE
+SDE,Sadisopur,ECR
+SDF,Sudsar,NWR
+SDGH,Sri Dungargarh,NWR
+SDGM,Sardargram,WR
+SDH,Saradhna,NWR
+SDI,Sagardighi,ER
+SDL,Shahdol,SECR
+SDLE,Swadinpur,ER
+SDLP,Sadulpur,NWR
+SDMD,Sudamdih,SER
+SDMK,Sidmukh,NWR
+SDN,Sholavandan,SR
+SDNR,Seydunganallur,SR
+SDRA,Sudharana,NWR
+SDS,Sadulshahr,NWR
+SDT,Sadat,NE
+SDV,Somidevipalle,SCR
+SDVL,Soldevanahalli,SWR
+SEB,Son Nagar,ECR
+SED,Shedbal,SWR
+SEE,Sonpur,ECR
+SEG,Shegaon,CR
+SEGM,Sevagram,CR
+SEH,Sehore,WR
+SEJ,Sarkhej,WR
+SELU,Selu,SCR
+SEM,Seram,SCR
+SEN,Senapura,KRCL
+SEO,Seohara,NR
+SEP,Sodpur,ER
+SES,Semari,NWR
+SEU,Sendra,NWR
+SEY,Seoni,SECR
+SF,Settigunta,SCR
+SFC,Saintala,ECOR
+SFG,Subedarganj,NCR
+SFH,Safedabad,NR
+SFMU,Sunam Udham Singh Wala,NR
+SFR,Safrai,NFR
+SFW,Sarangpur,WCR
+SFX,Safilguda,SCR
+SFY,Shajapur,WCR
+SGA,Shergarh,NWR
+SGAC,Sogariya,WCR
+SGAM,Sareigram,WCR
+SGBJ,Surgaon Banjari,WCR
+SGD,Songadh,WR
+SGDM,Sigadam,ECOR
+SGDP,Sagadapata,ECOR
+SGE,Sankaridurg,SR
+SGF,Sangat,NWR
+SGG,Sultanganj,ER
+SGJ,Safdarganj,NR
+SGKM,Srungavruksham,SCR
+SGL,Sagauli,ECR
+SGLA,Sangola,CR
+SGNR,Shri Ganganagar,NWR
+SGO,Saugor,WCR
+SGP,Sohagpur,WCR
+SGR,Sangameshwar Road,KRCL
+SGRA,Sangaria,NWR
+SGRD,Saragaon Road  Halt,SECR
+SGRL,Singrauli,ECR
+SGS,Shoghi,NR
+SGUJ,Siliguri,NFR
+SGV,Saragchni,ER
+SGZ,Shamgarh,WCR
+SHAN,Srinivasa Nagar,SCR
+SHC,Saharsa,ECR
+SHDM,Shahbad Marknda,NR
+SHDR,Shadhoragaon,WCR
+SHE,Seoraphuli,ER
+SHF,Shirud,CR
+SHG,Shahganj,NR
+SHGN,Shri Ghasinagar,NCR
+SHH,Shapur,WR
+SHK,Sheikpura,ECR
+SHM,Shalimar,SER
+SHMI,Shiroor,KRCL
+SHN,Suchan Kotli,NWR
+SHNR,Shadnagar,SCR
+SHR,Sihora Road,WCR
+SHRN,Sant Hirdaram Nagar,WCR
+SHSK,Saharsrakund,SCR
+SHTT,Silghat Town,NFR
+SHU,Sholinghur,SR
+SHV,Shivani,SWR
+SHZ,Summer Hill,NR
+SIA,Shivlankha,WR
+SID,Siddhpur,WR
+SIDG,Siddapur,SWR
+SIE,Siddampalli,SCR
+SII,Sitimani,SWR
+SIKD,Sikroda Kwanri,NCR
+SIKR,Sikar,NWR
+SIL,Sakhi Gopal,ECOR
+SILO,Silao,ECR
+SINA,Sri Nagar,NR
+SINI,Sini,SER
+SIOB,Samakhiali B G,WR
+SIP,Suraimanpur,NE
+SIPA,Singhookharia,SER
+SIPR,Sihapar,NE
+SIPT,Siddipet,SCR
+SIR,Sirhind,NR
+SIRD,Sird,NWR
+SIW,Shiravade,CR
+SJL,Sgm Jagarlamudi,SCR
+SJN,Sanjan,WR
+SJP,Shujalpur,WR
+SJQ,Surajpur Road,SECR
+SJS,Shamlaji Road,NWR
+SJT,Shujaatpur,NCR
+SK,Saakhun,NWR
+SKA,Sikandra Rao,NE
+SKAP,Skpara,NFR
+SKAR,Sakariya,WCR
+SKB,Shikohabad,NCR
+SKEN,Sukhshena Halt,ECR
+SKF,Sakhoti Tanda,NR
+SKGH,Saktesgarh,NCR
+SKHK,Sukhasan Kothi Halt,ECR
+SKHV,Sukhovi,NFR
+SKI,Sakri,ECR
+SKIP,Shikaripara,ER
+SKJ,Sahibpur Kamal,ECR
+SKKE,Sekerkote,NFR
+SKLI,Sukli,SECR
+SKLR,Sakleshpur,SWR
+SKM,Singarayakonda,SCR
+SKN,Srikrishn Nagar,NR
+SKND,Sukinda Road,ECOR
+SKP,Shankarpalli,SCR
+SKQ,Sikandarpur,NCR
+SKRI,Sikaria,ECR
+SKS,Salekasa,SECR
+SKT,Sakti,SECR
+SKTN,Shaktinagar,ECR
+SKZR,Sirpur Kaghaznagar,SCR
+SL,Surathkal,KRCL
+SLB,Salboni,SER
+SLD,Sakaldiha,ECR
+SLF,Silli,SER
+SLGE,Sulerjavalge,SWR
+SLGR,Simaluguri,NFR
+SLI,Sangli,CR
+SLJ,Sakrigali,ER
+SLKR,Salka Road,SECR
+SLKX,Salakati,NFR
+SLM,Somalapuram,SWR
+SLN,Sultanpur,NR
+SLNA,Salauna,ECR
+SLO,Samalkot,SCR
+SLR,Salogra,NR
+SLRA,Sarala,ECOR
+SLRD,Surla Road,ECOR
+SLS,Salanpur,ER
+SLW,Sohwal,NR
+SLX,Seleng Hat,NFR
+SLY,Samalpatti,SR
+SM,Samsi,NFR
+SMAE,Samudra Garh,ER
+SMAP,Shamnapur,SCR
+SMBL,Simbhooli,NR
+SMBX,Samba,NR
+SMCP,Simen Chapari,NFR
+SMD,Cheran Mahadevi,SR
+SMDP,Shahabad Mdpur,NR
+SME,Shimoga,SWR
+SMET,Shimoga Town,SWR
+SMF,Samar Gopalpur,NR
+SMI,Sitamarhi,ECR
+SMK,Samalkha,NR
+SML,Shimla,NR
+SMLA,Samlaya,WR
+SMLG,Shimili Guda,ECOR
+SMNE,Somatne,CR
+SMO,Semapur,ECR
+SMP,Shambhupura,WR
+SMPA,Shyampura,WCR
+SMPR,Shri Madhopur,NWR
+SMQL,Shamli,NR
+SMR,Samdhari,NWR
+SMRL,Samarala,NR
+SMRR,Sumreri,WCR
+SMT,Salamatpur,WCR
+SMTL,Simariatal,NCR
+SMVB,Smvt Bengaluru,SWR
+SMVJ,Shri Mahaveerji,WCR
+SMX,Simurali,ER
+SMZ,Sarai Mir,NE
+SNA,Sadanapura,WR
+SNAR,Srinagar,WCR
+SNC,S Narayan Chhapia,NE
+SNCA,Singra,NFR
+SNDD,Sindhudurg,KRCL
+SNF,Sanatnagar,SCR
+SNGN,Sanganer,NWR
+SNGR,Sanganapur,SCR
+SNH,Saunshi,SWR
+SNI,Sindi,CR
+SNIE,Sath Naraini,NCR
+SNK,Sindkheda,WR
+SNKB,Sonkhamb,CR
+SNKG,Sankaragummanur Halt,SCR
+SNKL,Sankarankovil,SR
+SNKR,Sanka,SER
+SNL,Sanahwal,NR
+SNLR,Santalpur,WR
+SNM,Sitanagaram,ECOR
+SNN,Sonegaon,CR
+SNNR,,SWR
+SNP,Sonipat,NR
+SNPR,Singarpur,NCR
+SNPU,Sonepur,ECR
+SNQ,Sankarpur,ER
+SNRR,Sansarpur,WCR
+SNS,Sasni,NCR
+SNSI,Sainagar Shirdi,CR
+SNSL,Sonshelu,WR
+SNT,Sainthia,ER
+SNTD,Santaldih,SER
+SNX,Saneh Road,NR
+SOA,Sanosara,WR
+SOAE,Somra Bazar,ER
+SOB,Silanibari,NFR
+SOD,Sojat Road,NWR
+SOG,Suratgarh,NWR
+SOGR,Sagra,SER
+SOJN,Sihor Gujarat,WR
+SOL,Solan,NR
+SOM,Somna,NCR
+SONH,Seonan Halt,ECR
+SONI,Soni,NCR
+SOQ,Sompur Road,SWR
+SOR,Sonagir,NCR
+SORO,Soro,SER
+SOS,Somesar,NWR
+SOT,Shohratgarh,NE
+SOU,Supaul,ECR
+SPC,Sitapur City,NR
+SPDM,Singhpur Dumra,NCR
+SPE,Sullurupeta,SR
+SPF,Stuartpuram,SCR
+SPGR,Sampige Road,SWR
+SPJ,Samastipur,ECR
+SPK,Sapekhati,NFR
+SPLE,Sujnipara,ER
+SPN,Shahjehanpur,NR
+SPP,Shahpur Patoree,ECR
+SPRD,Singapur Road (sprd),ECOR
+SPRM,Sitapuram,ECOR
+SPT,Sompeta,ECOR
+SPTR,Silapathar,NFR
+SPWI,Solapurwadi,CR
+SPX,Sapatgram,NFR
+SPYA,Sipaya,NE
+SPZ,Sampla,NR
+SQF,Sukritipur,NFR
+SQL,Sontalai,WCR
+SQN,Sarai Kansrai,NR
+SQQ,Salagaon,ECOR
+SQR,Sultanpur Lodi,NR
+SQW,Sidhwalia,NE
+SRAS,Siras,NWR
+SRBA,Saragbundia,SECR
+SRBH,Shahid Ramphal,NR
+SRC,Santragachi,SER
+SRE,Saharanpur,NR
+SRF,Sagar Jambagaru,SWR
+SRGH,Surajgarh,NWR
+SRGM,Srirangam,SR
+SRGP,Saragipali,ECOR
+SRGR,Saraygarh,ECR
+SRGT,Surendranagar G,WR
+SRID,Sridham,WCR
+SRJ,Shankargarh,NCR
+SRJM,Sirjam,SER
+SRJN,Sirajnagar,ER
+SRKI,Semarkheri,WCR
+SRKR,Salarkhurd,NE
+SRNK,Soron Shukar Kshetra,NE
+SRNM,Sriramnagar H,SWR
+SRNR,Sriramnagar,SCR
+SRNT,Sarnath,NE
+SRO,Sirathu,NCR
+SRP,Serampore,ER
+SRPJ,Swarupganj,NWR
+SRPM,Siripuram,SCR
+SRPN,Sripani,NFR
+SRR,Shoranur,SR
+SRRG,Surergoth,NWR
+SRSI,Sarsi,ECR
+SRT,Satur,SR
+SRTL,Cherthala,SR
+SRTN,Sibsagar Town,NFR
+SRU,Salempur,NE
+SRVX,Suravali (h),KRCL
+SRW,Shri Karanpur,NWR
+SRWN,Saraswati Nagar,SECR
+SRY,Sirari,ECR
+SSA,Sirsa,NWR
+SSB,Shakurbasti,NR
+SSD,Shamsabad,NE
+SSDT,Shamshabad Town,NCR
+SSIA,Suisa,SER
+SSKL,Suskal,WR
+SSL,Sirsaul,NCR
+SSM,Sasaram,ECR
+SSN,Sason,ECOR
+SSNH,Shri Sharada Nagar,SWR
+SSNS,Shaeed Suraj Naryan Singh,ECR
+SSPD,Sadashivapet Rd,SCR
+SSPN,Sai P Nilayam,SWR
+SSPR,Sadashibapur,ECOR
+SSU,Sasa Musa,NE
+SSV,Sasvad Road,CR
+ST,Surat,WR
+STA,Satna,WCR
+STBJ,Sitabinj,ECOR
+STD,Satrod,NWR
+STF,Sikta,ECR
+STJT,Sathajagat,ECR
+STKT,Sasthankotta,SR
+STL,Simultala,ER
+STLI,Sithouli,NCR
+STLR,Sitalpur,ECR
+STN,Sitarampur,ER
+STNL,Satnali,NWR
+STP,Sitapur,NE
+STPD,Sitafal Mandi,SCR
+STR,Satara,CR
+STRB,Santir Bazar,NFR
+STSN,Shaitansinghanagar,NWR
+STW,Sahatwar,NE
+SUAL,Saundal (h),KRCL
+SUBR,Subhagpur,NE
+SUD,Sudhani,NFR
+SUI,Sui,NWR
+SUJH,Sujangarh,NWR
+SUKU,Suku,ECOR
+SUL,Suldhal,SWR
+SUNR,Surendranagar,WR
+SUP,Shrungavarpukta,ECOR
+SUR,Solapur,CR
+SURI,Siuri,ER
+SURL,Sureli,NWR
+SUZ,Subansiri,NFR
+SV,Siwan,NE
+SVA,Suwasra,WCR
+SVC,Siwan Kachari,NE
+SVDK,Shri Mata Vaishno Devi Katra,NR
+SVG,Sawalgi,CR
+SVGA,Sivaganga,SR
+SVH,Sonadanga,ER
+SVHE,Sisvinhalli,SWR
+SVJR,Shivaji Nagar,CR
+SVKD,Savarkundla,WR
+SVKS,Sivakasi,SR
+SVL,Sevaliya,WR
+SVM,Sanvordem (kudchade),SWR
+SVNR,Savanur,SWR
+SVPI,Shivpuri,WCR
+SVPR,Srivilliputtur,SR
+SVQ,Sivok,NFR
+SVRP,Shivanarayanpur,ER
+SVV,Srivaikuntam,SR
+SVX,Sawarda,KRCL
+SWA,Sahjanwa,NE
+SWC,Shivrampur,NCR
+SWD,Sanawad,WR
+SWJ,Siajuli,NFR
+SWM,Sawai Madhopur,WCR
+SWNI,Siwani,NWR
+SWO,Sonwara,NR
+SWPR,Sewapuri,NR
+SWR,Sonua,SWR
+SWRT,Sahawar Town,NE
+SWV,Sawantwadi Road,KRCL
+SXA,Sagphata,CR
+SXB,Sambre,SWR
+SXN,Sonakhan,SER
+SXT,Salem Town,SR
+SY,Sirkazhi,SR
+SYA,Salaia,WCR
+SYC,Sarai Chandi,NR
+SYL,Salpura,WCR
+SYM,Savalyapuram,SCR
+SYN,Sayan,WR
+SYWN,Saiyid Sarawan,NCR
+SZB,Sarona Cabin,SECR
+SZM,Subzi Mandi,NR
+SZR,Sarupathar,NFR
+SZY,Silak Jhori,ECOR
+SZZ,Sabira,SER
+TA,Tanur,SR
+TAA,Tadla Pusapalli,SCR
+TABU,Talaburu,SER
+TAC,Taticherla,SCR
+TADA,Tada,SR
+TAE,Tadali,CR
+TAKU,Taku,CR
+TALL,Tall,ECR
+TAN,Tarana Road,WR
+TAO,Tamna,SER
+TAP,Tapang,ECOR
+TAPA,Tapa,NR
+TAR,Tharsa,SECR
+TAS,Thasra,WR
+TAT,Tummanamgutta,SCR
+TATA,Tatanagar,SER
+TAZ,Targaon,CR
+TBA,Timba Road,WR
+TBAE,Tribeni,ER
+TBB,Tilbhita,ER
+TBH,Tatibahar,NFR
+TBL,Tarcherra Brlrm,NCR
+TBM,Tambaram,SR
+TBN,Timarni,WCR
+TBT,Talbahat,NCR
+TBV,Timbarva,WR
+TCL,Tyakal,SWR
+TCN,Tiruchendur,SR
+TCR,Thrisur,SR
+TDD,Tadepalligudem,SCR
+TDL,Tundla,NCR
+TDLE,Tildanga,ER
+TDN,Tiruparankundram,SR
+TDO,Tanda Urmar,NR
+TDPR,Tiruppadiripuliyur,SR
+TDU,Tandur,SCR
+TEA,Taregna,ECR
+TEK,Tekkali Ph,ECOR
+TEL,Tenali,SCR
+TELO,Telo,ECR
+TELY,Telia,ER
+TEN,Tirunelveli,SR
+TENI,Teni,SR
+TEO,Teegaon,CR
+TET,Tetulmari,ECR
+TETA,Telta,NFR
+TFGN,Tufanganj,NFR
+TGA,Teghra,ECR
+TGBP,Thingou,NFR
+TGL,Tuggali,SCR
+TGM,Tangarmunda,SER
+TGN,Talegaon,CR
+TGP,Tuljapur,CR
+TGQ,Tenganmada,SECR
+TGRL,Tangiri Apal,ECOR
+TGU,Tarigoppula,SCR
+TH,Tinich,NE
+THA,Tehta,ECR
+THAN,Than,WR
+THB,Thana Bihpur,ECR
+THDR,Thandla Rd,WR
+THE,Thawe,NE
+THEA,Thalera,WCR
+THKU,Thalaku,SWR
+THM,Thaiyat Hamira,NWR
+THO,Tulin,SER
+THP,Taherpur,ER
+THTW,Thailik Twisa,NFR
+THV,Therubali,ECOR
+THVM,Thivim,KRCL
+TIA,Tilaya,ECR
+TIBI,Tibi,NWR
+TIG,Titlagarh,ECOR
+TIHU,Tihu,NFR
+TIM,Timmanacherla,SCR
+TIR,Tirur,SR
+TIS,Tatisilwai,SER
+TISI,Tisi,WR
+TIT,Talit,ER
+TIU,Tilaru,ECOR
+TIW,Tivari,NWR
+TJ,Thanjavur,SR
+TJH,Tajgadh,WR
+TJP,Tajpur,WR
+TJSP,Taj Sultanpur,CR
+TK,Tumkur,SWR
+TKA,Teharka,NCR
+TKB,Tupkadih,SER
+TKBG,Teka Bigha,ECR
+TKBN,Tsakibanda,SCR
+TKD,Tuglakabad,NR
+TKE,Tarikere,SWR
+TKG,Thakurganj,NFR
+TKH,Thakurtota,SER
+TKHE,Takarkhede,WR
+TKJ,Tilak Bridge,NR
+TKMG,Tikamgarh,NCR
+TKN,Tankuppa,ECR
+TKPL,Tikirapal Halt,SER
+TKQ,Trikarpur,SR
+TKR,Takari,CR
+TKRI,Tikiri,ECOR
+TKRP,Tikauli Rawatpr,NR
+TKU,Tanakallu,SCR
+TKV,Tekanwas,NE
+TKWD,Tikekarwadi,CR
+TKYR,Tikaria,WCR
+TLAM,Tulsi Ashram,ECR
+TLB,Talwa Bazar,ER
+TLC,Talchhapar,NWR
+TLD,Tilda-neora,SECR
+TLE,Talgaria,SER
+TLGP,Talguppa,SWR
+TLH,Tilhar,NR
+TLHD,Talcher Road,ECOR
+TLHR,Talcher,ECOR
+TLI,Tulwara Jhil,NWR
+TLJ,Taljhari,ER
+TLM,Tirusulam,SR
+TLMR,Teliamura,NFR
+TLO,Talandu,ER
+TLR,Tulsipur,NE
+TLT,Tilati,CR
+TLU,Tarlupadu,SCR
+TLV,Talvadya,WCR
+TLWA,Thalwara,ECR
+TLY,Thalassery,SR
+TMA,,
+TMB,Temburu,ECOR
+TME,Tuti Melur,SR
+TMKA,Tomka,ECOR
+TML,Tenmalai,SR
+TMQ,Tirumangalam,SR
+TMR,Tumsar Road,SECR
+TMS,Tumsar Town Ph,SECR
+TMV,Tindivanam,SR
+TMX,Timmapur,SCR
+TMZ,Tamluk,SER
+TN,Tuticorin,SR
+TNA,Thane,CR
+TNGL,Toranagallu,SWR
+TNH,Tinkheda,CR
+TNI,Tandarai,SR
+TNJR,Tajnagar,NR
+TNKU,Tanuku,SCR
+TNL,Tangla,NFR
+TNM,Tiruvannamalai,SR
+TNR,Tanguturu,SCR
+TNRI,Teneri Halt,ECR
+TOD,Talod,WR
+TOI,Tamkuhi Road,NE
+TOK,Thokur,KRCL
+TORI,Tori,ECR
+TP,Tiruchchirappalli Fort,SR
+TPF,Tarapith Road,ER
+TPH,Tinpahar,ER
+TPJ,Tiruchchirappalli,SR
+TPK,Tipkai,NFR
+TPND,Taloja Panchand,CR
+TPQ,Tokopal,ECOR
+TPT,Tirupattur,SR
+TPTN,Tiruchrpali Twn,SR
+TPTY,Tirupati,SCR
+TPU,Tanakpur,NE
+TPV,Tinpheria,NE
+TPW,Tirupati W Hlt,SCR
+TPY,Tadakalpudi,SCR
+TPZ,Tapri,NR
+TQA,Takia,NR
+TQM,Telam,NFR
+TR,Taru,SCR
+TRAN,Torang,SER
+TRB,Tiruverumbur,SR
+TRDI,Tirodi,SECR
+TRG,Tarighat,ECR
+TRJ,Tariasujan,NE
+TRK,Tirukkovilur,SR
+TRKR,Turekala Road,ECOR
+TRL,Tiruvallur,SR
+TRO,Tirora,SECR
+TRP,Tarapur,WR
+TRR,Taraori,NR
+TRS,Tarsarai,ECR
+TRT,Tiruttani,SR
+TRTR,Tripunittura,SR
+TRVL,Tiruvalla,SR
+TRWT,Taravata,WCR
+TSAH,Tatasigua,SER
+TSD,Tahsil Bhadra,NWR
+TSF,Tahsil Fatehpur,NE
+TSI,Tenkasi,SR
+TSK,Tinsukia,NFR
+TSL,Taksal,NR
+TSR,Tsunduru,SCR
+TTB,Titabar,NFR
+TTL,Tiruttangal,SR
+TTP,Tiruturaipundi,SR
+TTPT,Talcher Thermal Ph,ECOR
+TTR,Tiptur,SWR
+TU,Tadipatri,SCR
+TUA,Tirunnavaya,SR
+TUL,Tiraldih,SER
+TUN,Tohana,NR
+TUNI,Tuni,SCR
+TUP,Tiruppur,SR
+TUV,Tuvvur,SR
+TUVR,Turavur,SR
+TUWA,Tuwa,WR
+TUX,Tunia,SER
+TVC,Thiruvananthapuram Central,SR
+TVG,Tavargatti,SWR
+TVI,Taradevi,NR
+TVL,Tadwal,SWR
+TVP,Trivandrum Pett,SR
+TVR,Thiruvarur,SR
+TWB,Talwandi,NR
+TWG,Twining Ganj,ECR
+TWV,Thuwavi,WR
+TYAE,Tenya,ER
+TZR,Turki Road,WCR
+UA,Upleta,WR
+UAA,Uppala,SR
+UAM,Udagamandalam,SR
+UB,Uska Bazar,NE
+UBC,Ambala City,NR
+UBL,Sss Hubballi,SWR
+UBR,Umbargam Road,WR
+UCA,Uchana,NR
+UCR,Unchahar,NR
+UD,Udupi,KRCL
+UDGR,Udgir,SCR
+UDL,Andal,ER
+UDN,Udhna,WR
+UDPR,Udaipura,NCR
+UDPU,Udaipur,NFR
+UDR,Amdara,WCR
+UDT,Udumalaippettai,SR
+UDZ,Udaipur City,NWR
+UGD,Uppugunduru,SCR
+UGNA,Ugna Halt,ECR
+UGR,Ugar Khurd,SWR
+UHL,Una Himachal,NR
+UHR,Unchhera,WCR
+UJ,Ujalvav,WR
+UJA,Unjha,WR
+UJH,Ujhani,NE
+UJN,Ujjain,WR
+UJP,Ujiarpur,ECR
+UKA,Ukhra,ER
+UKC,Ukshi,KRCL
+UKD,Ulindakonda,SCR
+UKH,Ukhali,SCR
+UKL,Uttukuli,SR
+UKN,Uklana,NR
+UKR,Udalkachhar,SECR
+ULB,Ulubaria,SER
+ULG,Udalguri,NFR
+ULL,Ullal,SR
+ULM,Urlam,ECOR
+ULT,Kulti,ER
+ULU,Ulundurpet,SR
+UMB,Ambala Cant,NR
+UMD,Usmanabad,CR
+UMED,Umed,NWR
+UMH,Umreth,WR
+UMR,Umaria,SECR
+UMRA,Umra,NWR
+UMRI,Umri,SCR
+UNDI,Undi,SCR
+UNI,Unai Vansada Rd,WR
+UNL,Unhel,WR
+UOI,Umroli,WR
+UPL,Uppalur,SCR
+UR,Umdanagar,SCR
+URD,Untare Road,ECR
+UREN,Uren,ER
+URGA,Urga,SECR
+URI,Uruli,CR
+URK,Urkura,SECR
+URMA,Urma,SER
+URML,Upramal,WCR
+URN,Utran,WR
+URPR,Ugrasenpur,NR
+USD,Ukai Songadh,WR
+USK,Usia Khas,ECR
+USL,Uslapur,SECR
+USLP,Usilampatti,SR
+USRA,Usra,WR
+UTL,Utarlai,NWR
+UVD,Udvada,WR
+VAA,Bhaga,SER
+VAK,Varkala,SR
+VAL,Vadal,WR
+VAN,Vadhvana,WR
+VAPI,Vapi,WR
+VAPM,Valapattanam,SR
+VAR,Vidyanagar,SCR
+VARD,Vaikam Road,SR
+VBL,Bobbili,ECOR
+VBW,Vaibhavwadi Road,KRCL
+VD,Vagdiya,WR
+VDA,Vasad,WR
+VDD,Vendodu,SCR
+VDE,Vedayapalem,SCR
+VDG,Vadnagar,WR
+VDH,Vedchha,WR
+VDI,Veldurti,SCR
+VDL,Vaithisvarankoil,SR
+VDN,Vadgaon,CR
+VDS,Vidyasagar,ER
+VDV,Vadiya Devli,WR
+VEER,Veer,KRCL
+VEN,Verna,KRCL
+VG,Viramgam,WR
+VGE,Valappadi G Hlt,SR
+VGLJ,Virangana Lakshmibai Jhansi,NCR
+VGN,Vangaon,WR
+VI,Villianur,SR
+VID,Vilavade,KRCL
+VINH,Vinhere,KRCL
+VJA,Vejandla,SCR
+VJPJ,Vijiypur Jammu,NR
+VJR,Vijayanagar,SWR
+VKA,Verka,NR
+VKB,Vikarabad,SCR
+VKD,Bakhrabad,SER
+VKG,Vavadi Khurd,WR
+VKH,Vikhran,WR
+VKI,Venkatagiri,SCR
+VKM,Venkatesapuram,SR
+VKN,Vinukonda,SCR
+VKR,Venkatnagar,SECR
+VKT,Venkatachalam,SCR
+VLA,Bavla,WR
+VLD,Vayalpad,SCR
+VLI,Vallikunnu,SR
+VLNK,Vellankanni,SR
+VLR,Vellore Cantonment,SR
+VLT,Valathoor,SR
+VLY,Valliyur,SR
+VLYN,Vallabh Vdyangr,WR
+VM,Villupuram,SR
+VMA,Vikramgarh Alot,WCR
+VML,Vemulapadu,SCR
+VMU,Vemuru,SCR
+VN,Vaniyambadi,SR
+VNA,Varangaon,CR
+VNB,Vaniyambalam,SR
+VNE,Vishwanath Chariali,NFR
+VNG,Visnagar,WR
+VNGP,Vangaichungpao,NFR
+VNM,Ontimitta,SCR
+VNR,Devanur,SWR
+VNUP,Vishnupuram,SCR
+VONB,Vondh,WR
+VP,Virapur,SCR
+VPDA,Vidyapatidham,ECR
+VPL,Venkatampalle,SCR
+VPT,Virudunagar,SR
+VPZ,Vailapuzha,SR
+VR,Virar,WR
+VRB,Vishrambag,CR
+VRE,Varediya,WR
+VRG,Vikramnagar,WR
+VRH,Virbhadra,NR
+VRI,Vriddhachalam,SR
+VRL,Veraval,WR
+VRLI,Veravali,KRCL
+VRM,Varnama,WR
+VRN,Vanganur,SCR
+VRR,Virpur,WR
+VRX,Varahi,WR
+VS,Vishvamitri,WR
+VSG,Vasco Da Gama,SWR
+VSHI,Vaishali,ECR
+VSKP,Visakhapatnam,ECOR
+VST,Bijaysota,WCR
+VSU,Bishnupur,SER
+VTJ,Vartej,WR
+VTM,Vetapalemu,SCR
+VTN,Vaitarna,WR
+VTP,Vastrapur,WR
+VU,Vaghpura,WR
+VV,Valivade,CR
+VVB,Viveka Vihar,NR
+VVG,Vvgiri Halt,ECR
+VVKP,Vivekanand Puri Halt,NR
+VVM,Viravasaram,SCR
+VYA,Vyara,WR
+VZM,Vizianagram,ECOR
+VZR,Bhanjpur,SER
+WADI,Wadi,CR
+WADO,Wadoda,CR
+WAIR,Wair,NCR
+WANI,Wani,CR
+WC,Wadhwan City,WR
+WDA,Wadrengdisa,NFR
+WDL,Wandal,SWR
+WDLN,Wadwal Nagnath,SCR
+WDM,Wyndhamganj,ECR
+WDN,Vadgaon Nila,SCR
+WDR,Wadiaram,SCR
+WDS,Wadsinge,CR
+WEL,Wellington,SR
+WENA,Wena,ECR
+WFD,Whitefield,SWR
+WG,Wagholi,CR
+WGA,Waghoda,CR
+WGI,Waghai,WR
+WHM,Washim,SCR
+WJR,Walajah Road,SR
+WKA,Vakav,CR
+WKI,Wadakancheri,SR
+WKND,Wanawar Koteshwarnath Dham,ECR
+WKR,Wankaner,WR
+WL,Warangal,SCR
+WLGN,Walgaon,CR
+WNG,Wanegaon,SCR
+WOC,Warud Orange City,CR
+WPR,Wanparti Road,SCR
+WR,Wardha,CR
+WRC,Wrs Colony,SECR
+WRR,Warora,CR
+WRS,Waris Aleganj,ECR
+WSA,Wadsa,SECR
+WSB,Washimbe,CR
+WSJ,Wansjaliya,WR
+WTJ,Jam Wanthali,WR
+WTR,Wathar,CR
+WTWI,Wetalwadi,CR
+WZJ,Wazerganj,ECR
+XBKJ,Bikramganj,ECR
+Y,Yeliyur,SWR
+YA,Yerraguntla,SCR
+YAD,Yeulkhed,CR
+YADD,Yadadri,SCR
+YFP,Yusufpur,NE
+YG,Yadgir,SCR
+YGD,Yerragudipad,SCR
+YGL,Yelgur,SCR
+YJUD,Yamunanagar Jagadhri,NR
+YKA,Yakutpura,SCR
+YL,Yeola,CR
+YLG,Yalvigi,SWR
+YLK,Yellakaru,SCR
+YLM,Elamanchili,SCR
+YNG,Yenugonda,SCR
+YNK,Yelahanka,SWR
+YNRK,Yog Nagari Rishikesh,NR
+YP,Errupalem,SCR
+YPD,Yerpedu,SCR
+YPR,Yasvantpur,SWR
+YT,Yevat,CR
+YVP,Yawarpura,WR
+YY,Yediyuru,SWR
+ZARP,Zarap,KRCL
+ZB,Zahirabad,SCR
+ZBD,Zafarabad,NR
+ZN,Jangaon,SCR
+ZNA,Zamania,ECR
+ZPL,Zangalapalle,SCR
+ZRDE,Jiradei,NE
+ZW,Zawar,NWR

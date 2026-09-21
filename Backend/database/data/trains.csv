@@ -1,0 +1,3893 @@
+train_number,train_name,source_station_code,destination_station_code
+00961,Valley Queen Special,MJ,KBK
+00962,Valley Queen Special,KBK,MJ
+01007,Mao-vlnk Special,MAO,VLNK
+01008,Vlnk-mao,VLNK,MAO
+01023,Pune Kop Special,PUNE,KOP
+01024,Kop Pune Special,KOP,PUNE
+01025,Dr Ballia Special,DR,BUI
+01026,Bui Dr Special,BUI,DR
+01027,Dr Gkp Special,DR,GKP
+01028,Gkp Dr Special,GKP,DR
+01031,Ltt Rn Special,LTT,RN
+01032,Rn Ltt Special,RN,LTT
+01091,Knw-swd Special,KNW,SWD
+01099,Csmt-jp One Way Special,CSMT,JP
+01103,Csmt-ngp Rrb Special,CSMT,NGP
+01104,Ngp-csmt Rrb Special,NGP,CSMT
+01139,Ngp Mao Special,NGP,MAO
+01140,Mao Ngp Special,MAO,NGP
+01155,Diva-chi Ganapati Special,DIVA,CHI
+01156,Chi-diva Ganapati Special,CHI,DIVA
+01163,Ltt-vlnk Special,LTT,VLNK
+01164,Vlnk-ltt Special,VLNK,LTT
+01165,Ltt Kudl Special,LTT,KUDL
+01166,Kudl Ltt Special,KUDL,LTT
+01167,Ltt Kudl Special,LTT,KUDL
+01168,Kudl Ltt Special,KUDL,LTT
+01171,Ltt Swv Special,LTT,SWV
+01172,Swv Ltt Special,SWV,LTT
+01181,Csmt-kudl Ganapati Special,CSMT,VEER
+01183,Csmt-kudl Ganapati Special,CSMT,MNI
+01185,Ltt Kudl Special,LTT,KUDL
+01186,Kudl Ltt Special,KUDL,LTT
+01203,Ngp-amla Memu,NGP,AMLA
+01211,Bd-nk Special,BD,NK
+01212,Nk-ami Special,NK,BD
+01303,Csn Passenger,CSN,DHI
+01307,Csn-dhi Memu,CSN,DHI
+01315,Wr-bpq Memu,WR,BPQ
+01317,Amla-et Memu,AMLA,ET
+01319,Amla-cwa Memu,AMLA,CWA
+01321,Amla-cwa Memu,AMLA,CWA
+01323,Ngp-amla Memu,NGP,AMLA
+01351,Diva-roha Memu,DIVA,ROHA
+01353,Diva-pnvl Memu,DIVA,PNVL
+01355,Diva-pen Memu,DIVA,PEN
+01357,Bsr-diva Memu,BSR,DIVA
+01359,Diva-pen Memu,DIVA,PEN
+01361,Diva-pen Memu,DIVA,PEN
+01365,Bsl-bd Memu,BSL,BD
+01367,Bd-nrkr Memu,BD,NRKR
+01369,Bd-nrkr Memu,BD,NRKR
+01401,Ang-amne Dmu,ANG,AMNE
+01435,Sur Ltt Special,SUR,LTT
+01436,Ltt Sur Special,LTT,SUR
+01437,Sur Tpty Special,SUR,TPTY
+01445,Pune-dnr Special,PUNE,DNR
+01446,Dnr-pune Special,DNR,PUNE
+01461,Sur-dd Dmu Special,SUR,DD
+01462,Dd-sur Dmu Special,DD,SUR
+01487,Pune Harangul Express,PUNE,HGL
+01488,Harangul Pune Express,HGL,PUNE
+01581,Lnl-pune Suburban,LNL,PUNE
+01587,Tgn-pune Suburban,TGN,PUNE
+01589,Tgn-pune Suburban,TGN,PUNE
+01591,Lnl-svjr Sub,LNL,SVJR
+01592,Svjr-lnl Suburban,SVJR,LNL
+01595,Kawr Mao Special,KAWR,MAO
+01596,Mao Kawr Special,MAO,KAWR
+01663,Rkmp Shc Special,RKMP,SHC
+01664,Shc Rkmp Special,SHC,RKMP
+01665,Rkmp- Agartala Express,RKMP,AGTL
+01666,Agtl Rkmp Special,AGTL,RKMP
+01667,Rkmp-gaya Pitrapaksh Special,RKMP,GAYA
+01668,Gaya Rkmp Special,GAYA,RKMP
+01701,Jbp-gaya Pitrapaksh Special,JBP,GAYA
+01702,Gaya Jbp Special,GAYA,JBP
+01707,Jbp Svdk  Special,JBP,SVDK
+01708,Jbp Summer Special,SVDK,JBP
+01883,Bina Passenger,BINA,GWL
+01904,Bki-idh Memu,BKI,IDH
+01905,Cnb-adi Suf Weekly Special,CNB,ADI
+01906,Adi-cnb Weekly Suf Special,ADI,CNB
+01919,Agc Adi Sum  Special,AGC,ADI
+01920,Adi-agc Suf Special,ADI,AGC
+01921,Pune Vglj Special,PUNE,VGLJ
+01922,Vglb Pune Special,VGLJ,PUNE
+02001,Kop-pune Vb Inaugeral Special,KOP,PUNE
+02023,Hwh Pnbe Special,HWH,PNBE
+02024,Pnbe Hwh Sf Special,PNBE,HWH
+02121,Mdu Jbp Sf Special,MDU,JBP
+02122,Jbp Mdu Sf Special,JBP,MDU
+02131,Pune Jbp Sf Special,PUNE,JBP
+02132,Jbp Pune Special,JBP,PUNE
+02133,Bdts Jbp Sf Special,BDTS,JBP
+02134,Bdts Festivl Special,JBP,BDTS
+02185,Rewa Csmt Special,REWA,CSMT
+02186,Rewa-indb Diwali Chhat Sp,REWA,INDB
+02187,Rewa Csmt Special,REWA,CSMT
+02188,Csmt Rewa Sf Special,CSMT,REWA
+02197,Cbe Jbp Sf Special,CBE,JBP
+02198,Jbp Cbe Special,JBP,CBE
+02199,Vglj Bdts Suf Express,VGLJ,BDTS
+02200,Bdts Vglj Special,BDTS,VGLJ
+02249,-pnbe -dli      Special,PNBE,DLI
+02310,Sbg Hwh Ingl Special,SBG,HWH
+02391,Pnbe Anvt Sf Special,PNBE,ANVT
+02392,Pnbe Summer Special,ANVT,PNBE
+02393,Rjpb-ndls Clone Special,RJPB,NDLS
+02394,Ndls-pnbe Clone Special,NDLS,PNBE
+02397,Gaya Anvt Special,GAYA,ANVT
+02398,Gaya Clone Special,ANVT,GAYA
+02525,Kyq-anvt Tod Special,KYQ,ANVT
+02526,Kyq Festval Special,ANVT,KYQ
+02563,Bju Ndls Special,BJU,NDLS
+02564,Ndls Bju Special,NDLS,BJU
+02569,Dbg Ndls Special,DBG,NDLS
+02570,Ndls Dbg Sf Special,NDLS,DBG
+02575,Hyb Gkp Special,HYB,GKP
+02576,Hyb Fest Special,GKP,HYB
+02813,Bbs Bgm Special,BBS,BGM
+02814,Bgm Bbs Special,BGM,BBS
+02831,Dhn Bbs Special,DHN,BBS
+02832,Bbs Dhn Special,BBS,DHN
+02837,Src Puri Special,SRC,PURI
+02838,Puri Src Special,PURI,SRC
+02839,Shm Puri Sf Special,SHM,PURI
+02840,Puri Shm Special,PURI,SHM
+02841,Shm Mas Special,SHM,MAS
+02847,Src Dgha Special,SRC,DGHA
+02848,Dgha Src Special,DGHA,SRC
+02897,Src Dgha Special,SRC,DGHA
+02898,Dgha Src Special,DGHA,SRC
+03007,Hwh Kwp Special,HWH,KWP
+03008,Kwp Hwh Special,KWP,HWH
+03043,Hwh Rxl  Special,HWH,RXL
+03044,Rxl Hwh  Special,RXL,HWH
+03047,Hwh Rph Special,HWH,RPH
+03048,Rph Hwh Special,RPH,HWH
+03109,Sdah Brc  Special,SDAH,BRC
+03110,Brc Sdah Special,BRC,SDAH
+03132,Gkp Sdah Special,GKP,SDAH
+03172,Passenger,LGL,SDAH
+03183,Sdah Lgl Pgr,SDAH,LGL
+03190,Lgl Sdah Special,LGL,SDAH
+03191,Sdah Lgl Special,SDAH,LGL
+03204,Ddu-pnbe Memu,DDU,PNBE
+03206,Pnbe-kiul Fast Pass Special,PNBE,KIUL
+03225,Dnr Sc Sf Special,DNR,SC
+03226,Sc Dnr Special,SC,DNR
+03229,Puri Pnbe Special,PURI,PNBE
+03230,Pnbe Puri Special,PNBE,PURI
+03239,Mka Rgd Special,MKA,RGD
+03240,Rgd Mka Special,RGD,MKA
+03241,Dnr Smvb Sf Special,DNR,SMVB
+03242,Smvb Dnr Special,SMVB,DNR
+03245,Dnr Smvb Special,DNR,SMVB
+03246,Smvb Dnr Special,SMVB,DNR
+03247,Dnr Smvb Special,DNR,SMVB
+03248,Smvb Dnr Special,SMVB,DNR
+03249,Rgd Pnbe Special,RGD,PNBE
+03250,Pnbe Rgd Special,PNBE,RGD
+03251,Dnr Smvb Special,DNR,SMVB
+03252,Smvb Dnr Special,SMVB,DNR
+03253,Pnbe Sc Special,PNBE,SC
+03255,Pnbe Anvt Sf Special,PNBE,ANVT
+03256,Pnbe Summer Special,ANVT,PNBE
+03257,Anvt Sf Special,DNR,ANVT
+03258,Dnr Summer Special,ANVT,DNR
+03259,Dnr Smvb Special,DNR,SMVB
+03260,Smvb Dnr Special,SMVB,DNR
+03265,Kiul Rgd Special,KIUL,RGD
+03266,Rgd Kiul Special,RGD,KIUL
+03313,Rjpb Gaya Special,RJPB,GAYA
+03314,Gaya Rjpb Special,GAYA,RJPB
+03321,Gap-tia-rgd Express Special,GAP,RGD
+03322,Rgd Tia Special,RGD,GAP
+03325,Dhn Cbe Special,DHN,CBE
+03326,Cbe Dhn Special,CBE,DHN
+03413,Mldt  Ndls Special,MLDT,NDLS
+03414,Mldt Festval Special,NDLS,MLDT
+03417,Mldt  Udn  Special,MLDT,UDN
+03418,Udn Mldt Special,UDN,MLDT
+03466,Dgha Mldt Special,DGHA,MLDT
+03483,Bgp Ndls  Special,BGP,NDLS
+03484,Bgp Festval Special,NDLS,BGP
+03575,Asn Anvt Special,ASN,ANVT
+03576,Asn Summer Special,ANVT,ASN
+03655,Pnbe-gaya Special,PNBE,GAYA
+03656,Gaya-pnbe Special,GAYA,PNBE
+04021,Smi Anvt  Special,SMI,ANVT
+04022,Garib Rath Special,ANVT,SMI
+04031,Shc Anvt Gr Special,SHC,ANVT
+04032,Garib Rath Special,ANVT,SHC
+04055,Bui Anvt Sf Special,BUI,ANVT
+04056,Anvt Bui Sup Special,ANVT,BUI
+04115,Sfg Ltt Sf S Special,SFG,LTT
+04116,Ltt Sfg Sf Special,LTT,SFG
+04121,Sfg Sc Sf Special,SFG,SC
+04122,Sc Sfg Sf Special,SC,SFG
+04123,Pryj Nzm S Special,PRYJ,NZM
+04124,Pryj Summer Special,NZM,PRYJ
+04125,Sfg Bdts  Sf Special,SFG,BDTS
+04126,Bdts Sfg Special,BDTS,SFG
+04137,Gwl Bju S Special,GWL,BJU
+04138,Bju Gwl Special,BJU,GWL
+04151,Cnb-ltt Suf  Special,CNB,LTT
+04152,Ltt Cnb Sf Special,LTT,CNB
+04154,Cnb Passenger,CNB,RBL
+04165,Agc Adi Sf Special,AGC,ADI
+04166,Adi-agc Suf Weekly Special,ADI,AGC
+04167,Agc Adi Hspecial,AGC,ADI
+04168,Adi-agc Suf Weekly Special,ADI,AGC
+04182,Cnb-sfg Memu,CNB,SFG
+04184,Dli-tdl Memu,DLI,TDL
+04200,Sln-puri Special,SLN,PURI
+04202,Lko-pnbe Exam Special,LKO,PNBE
+04217,Bsb-lko Special,BSB,LKO
+04218,Lko-bsb Special,LKO,BSB
+04425,Dli Passenger,DLI,NRW
+04487,Rok-hns Dmu,ROK,HNS
+04488,Hns-rok Dmu,HNS,ROK
+04489,Rok Passenger,ROK,HNS
+04490,Hns Passenger,HNS,ROK
+04497,Anvt Special,BUI,ANVT
+04505,Sml Klk Special,SML,KLK
+04506,Klk Sml Special,KLK,SML
+04546,Umb-bsp,UMB,BSP
+04558,Umb-kgp Special,UMB,KGP
+04623,Svdk Festivl Special,BSB,SVDK
+04624,Bsb Festival Special,SVDK,BSB
+04651,Jyg Asr Special,JYG,ASR
+04652,Asr Jyg Special,ASR,JYG
+04653,Njp Asr Sf Special,NJP,ASR
+04654,Asr Njp Sf Special,ASR,NJP
+04666,Jat-dli Special,JAT,DLI
+04669,Dli-abs Special,DLI,ABS
+04670,Abs-dli Special,ABS,DLI
+04675,Hw-svdk Tod Special,HW,SVDK
+04676,Svdk-hw Tod Special,SVDK,HW
+04679,Kyq Svdk Special,KYQ,SVDK
+04687,Bahl Bdgm Special,BAHL,BDGM
+04688,Bdgm Bahl Special,BDGM,BAHL
+04702,Lgh Passenger,LGH,ABS
+04705,Sgnr Jp Hsp Special,SGNR,JP
+04706,Jp Sgnr Hsp Special,JP,SGNR
+04711,Bkn Bdts Special,BKN,BDTS
+04712,Bdts Bkn Special,BDTS,BKN
+04715,Bkn-snsi Exp Special,BKN,SNSI
+04716,Snsi Bikaner Special,SNSI,BKN
+04717,Hsr Tpty Sf Special,HSR,TPTY
+04718,Tpty Hsr  Special,TPTY,HSR
+04755,Bti Passenger,BTI,SGNR
+04815,Ju Mau Exp Special,JU,MAU
+04816,Mau Ju Special,MAU,JU
+04821,Bgkt Hw Special,BGKT,HW
+04822,Bgkt Festvl  Special,HW,BGKT
+04823,Ju Mau Special,JU,MAU
+04824,Mau Ju Summ Special,MAU,JU
+04826,Ju-jsm Dmu,BGKT,JSM
+04829,Ju Gkp Special,JU,GKP
+04830,Gkp Ju Special,GKP,JU
+04833,Ju-beas-ju Special,JU,BEAS
+04834,Ju-beas-ju Special,BEAS,JU
+05005,Gkp Asr Special,GKP,ASR
+05006,Gkp Festivl Special,ASR,GKP
+05023,Gkp Anvt Special,GKP,ANVT
+05024,Gkp Festval Special,ANVT,GKP
+05045,Lku Rjt Special,LKU,RJT
+05046,Rjt Lku Special,RJT,LKU
+05049,Cpr Asr Special,CPR,ASR
+05050,Cpr Festivl Special,ASR,CPR
+05053,Gkp-bdts Summer Special,GKP,BDTS
+05054,Bdts-gkp Summer Special,BDTS,GKP
+05055,Lku Bcy Special,LKU,BCY
+05056,Bcy Lku Special,BCY,LKU
+05059,Hwh Lku Special,HWH,LKU
+05060,Lku Hwh Special,LKU,HWH
+05061,Mtj Tpu Special,MTJ,TPU
+05062,Tpu Mtj Special,TPU,MTJ
+05069,Cpr Pnvl Special,CPR,PNVL
+05070,Pnvl Cpr Special,PNVL,CPR
+05097,Tpu-doz Summer Special,TPU,DOZ
+05098,Doz-tpu Summer Special,DOZ,TPU
+05103,Jmra-scl Exam Special,JMRA,SCL
+05104,Scl-jmra Exam Special,SCL,JMRA
+05105,Tsk-mxn Exam Special,TSK,MXN
+05109,Cpr Anvt Special,CPR,ANVT
+05110,Cpr Festval Special,ANVT,CPR
+05131,Gkp Brk Special,GKP,BRK
+05132,Brk Gkp Special,BRK,GKP
+05157,Apdj-ghy Exam Special,APDJ,GHY
+05158,Ghy-apdj Exam Special,GHY,APDJ
+05159,Apdj-bngn Exam Special,APDJ,BNGN
+05160,Bngn-apdj Exam Special,BNGN,APDJ
+05190,Cpj Passenger,CPJ,THE
+05192,The Passenger,THE,SV
+05193,Cpr Mctm Special,CPR,MCTM
+05194,Mctm Cpr Special,MCTM,CPR
+05197,Jmra-scl Exam Special,JMRA,SCL
+05219,Mfp Anvt Sf  Special,MFP,ANVT
+05220,Anvt Mfp Sf Special,ANVT,MFP
+05232,Prnc Passenger,PRNC,BHGJ
+05242,Pcdr-see Dmu,PCDR,SEE
+05251,Shc-dmh Memu,SHC,DMH
+05252,Dmh-shc Memu,DMH,SHC
+05279,Shc-sou Memu,SHC,SOU
+05280,Sou-shc Memu,SOU,SHC
+05283,Mfp Anvt Sf Special,MFP,ANVT
+05284,Mfp Clone Special,ANVT,MFP
+05289,Mfp Pune Sf Special,MFP,PUNE
+05290,Pune Mfp Sf Special,PUNE,MFP
+05293,Mfp Sc Special,MFP,SC
+05294,Sc Mfp  Special,SC,MFP
+05299,Mfp Kota Special,MFP,KOTA
+05301,Mau Anvt Special,MAU,ANVT
+05302,Mau Festiv Special,ANVT,MAU
+05303,Gkp Mbnr Special,GKP,MBNR
+05304,Mbnr Gkp Special,MBNR,GKP
+05326,Ltt Gkp Special,LTT,GKP
+05480,Dln-gct Psps,DLN,GCT
+05522,See-vshi Dmu,SEE,VSHI
+05527,Gah Passenger,GAH,NKE
+05557,Rxl Ltt Sf Special,RXL,LTT
+05558,Ltt Rxl Special,LTT,RXL
+05569,Srgr Shc Special,SRGR,SHC
+05570,Shc Srgr Special,SHC,SRGR
+05585,Rxl Ltt Special,RXL,LTT
+05586,Ltt Rxl Sf Special,LTT,RXL
+05599,Spj-kota One Way Special,SPJ,KOTA
+05627,Ghy Agtl Special,GHY,AGTL
+05628,Agtl Ghy Special,AGTL,GHY
+05635,Sgnr Ghy Special,SGNR,GHY
+05636,Ghy Sgnr Special,GHY,SGNR
+05637,Nhln Scl Special,NHLN,SCL
+05638,Scl Nhln Special,SCL,NHLN
+05639,Scl Koaa Special,SCL,KOAA
+05640,Koaa Scl Special,KOAA,SCL
+05671,Ghy Anvt Special,GHY,ANVT
+05672,Ghy Festval Special,ANVT,GHY
+05675,Passenger,AGTL,DMR
+05676,Passenger,DMR,AGTL
+05697,Njp Ghy Special,NJP,GHY
+05698,Ghy Njp Special,GHY,NJP
+05733,Kir Festval Special,ASR,KIR
+05734,Kir Asr Special,KIR,ASR
+05735,Kir Festival Special,ASR,KIR
+05736,Kir Asr Special,KIR,ASR
+05831,Rpan Pryj Special,RPAN,PRYJ
+05832,Pryj Rpan Special,PRYJ,RPAN
+05931,Koaa Dbrg Special,KOAA,DBRG
+05932,Dbrg Koaa Special,DBRG,KOAA
+05951,Smvb Ntsk Special,SMVB,NTSK
+05952,Ntsk Smvb Special,NTSK,SMVB
+06007,Tbm-tpj Sf Memu Ur Express,TBM,TPJ
+06008,Tpj-tbm Memu Ur Express,TPJ,TBM
+06011,Tbm-ncj Sf Tod Special,TBM,NCJ
+06012,Ncj-tbm Sf Tod Special,NCJ,TBM
+06029,Mtp-ten Tod Wkly Special,MTP,TEN
+06030,Ten-mtp Tod  Wkly Special,TEN,MTP
+06031,Srr-can Ur Exp Special,SRR,CAN
+06032,Can-srr Ur Exp Special,CAN,SRR
+06035,Tbm Kcvl Ac Special,TBM,KCVL
+06036,Kcvl Tbm Ac Special,KCVL,TBM
+06041,Majn Kcvl Special,MAJN,KCVL
+06042,Kcvl Majn Special,KCVL,MAJN
+06047,Maq-ms Sf Exp Special,MAQ,MS
+06048,Mas-maq Exp Special,MS,MAQ
+06051,Tbm Rmd Special,TBM,RMD
+06052,Rmd Tbm Special,RMD,TBM
+06059,Cbe Bju Special,CBE,BJU
+06060,Bju Cbe Express,BJU,CBE
+06063,Cbe Dhn Special,CBE,DHN
+06064,Dhn Cbe Special,DHN,CBE
+06069,Ten-ms Tod Wkly Special,MS,TEN
+06070,Ten Ms Special,TEN,MS
+06077,Mas Src Special,MAS,SRC
+06078,Src Mas Special,SRC,MAS
+06081,Kcvl Shm Sf Special,KCVL,SHM
+06082,Shm Kcvl Special,SHM,KCVL
+06083,Kcvl Smvb Special,KCVL,SMVB
+06084,Smvb Kcvl Special,SMVB,KCVL
+06085,Ers Pnbe Special,ERS,PNBE
+06086,Pnbe Ers Special,PNBE,ERS
+06087,Ten Shm Sf Special,TEN,SHM
+06088,Shm Ten Sf Special,SHM,TEN
+06089,Mas Src Special,MAS,SRC
+06090,Src Mas Special,SRC,MAS
+06095,Tbm Src Special,TBM,SRC
+06096,Src Tbm Special,SRC,TBM
+06101,Ers Ynk Sf Special,ERS,YNK
+06102,Ynk Ers Special,YNK,ERS
+06103,Tbm-rmd Bi Wkly Tod Special,TBM,RMD
+06104,Rmd Tbm Special,RMD,TBM
+06115,Tbm-tnm Special,TBM,TNM
+06116,Tnm Tbm Special,TNM,TBM
+06130,Vm-tnm Memu Pournami Special,VM,TNM
+06136,Mtp Uam Special,MTP,UAM
+06137,Uam Mtp Special,UAM,MTP
+06138,Onr Uam Special,ONR,UAM
+06139,Uam Onr Special,UAM,ONR
+06140,Uam Onr Special,UAM,ONR
+06141,Onr Uam Special,ONR,UAM
+06142,Uam Onr Special,UAM,ONR
+06143,Onr Uam Special,ONR,UAM
+06151,Mas- Cbe Sf Tod Special,MAS,CBE
+06152,Cbe-mas Sf Tod Special,CBE,MAS
+06153,Tbm Kcvl Special,TBM,KCVL
+06154,Kcvl Tbm Special,KCVL,TBM
+06160,Ptj-mas Ur Exp Special,PTJ,MAS
+06161,Mas-majn Wkly Tod Special,MAS,MAJN
+06163,Ed-ngp Tod Special,ED,NGP
+06164,Ngp-ed Exp Special,NGP,ED
+06166,Kcvl- Mas Tod Special,KCVL,MAS
+06167,Mas-kcvl Tod Special,MAS,KCVL
+06177,Onr-uam Special,ONR,UAM
+06180,Uam-onr Special,UAM,ONR
+06181,Cbe Bgkt Special,CBE,BGKT
+06182,Bgkt Cbe Special,BGKT,CBE
+06202,Ypr-tk Memu,YPR,TK
+06239,Smvb Kcvl Special,SMVB,KCVL
+06240,Kcvl Smvb Special,KCVL,SMVB
+06242,Sct-mys Special Express,SCT,MYS
+06243,Sbc Hpt Express,SBC,HPT
+06244,Hpt Sbc Express,HPT,SBC
+06509,Sbcdnr Humsafar,SBC,DNR
+06510,Dnr Sbc Special,DNR,SBC
+06514,Smet-tk Memu,SMET,TK
+06545,Ypr Bjp Express,YPR,BJP
+06546,Bjp Ypr Express,BJP,YPR
+06554,Gaya-ypr Bharat Gaurav,GAYA,YPR
+06555,Ypr-bgm Exp Special,YPR,BGM
+06556,Bgm-ypr Exp Special,BGM,YPR
+06557,Ypr Bgm Special,YPR,BGM
+06558,Bgm-ypr Exp Special,BGM,YPR
+06577,Smvb Bjp Special,SMVB,BJP
+06578,Bjp Smvb Special,BJP,SMVB
+06589,Smvb-klbg Exp Special,SMVB,KLBG
+06590,Klbg-smvb Exp Special,KLBG,SMVB
+06591,Ypr-hsra Memu,YPR,HSRA
+06601,Mao Maq Special,MAO,MAQ
+06602,Maq Mao Special,MAQ,MAO
+07005,Sc Rxl Special,SC,RXL
+07006,Rxl Sc Special,RXL,SC
+07007,Sc Rxl  Special,SC,RXL
+07008,Rxl Sc Special,RXL,SC
+07015,Sc-tpj,BG,CAPE
+07021,Sc Dnr Sumr Special,SC,DNR
+07022,Dnr Sc Special,DNR,SC
+07027,Sc Bam Special,SC,BAM
+07028,Bam Sc Sumr Special,BAM,SC
+07029,Agtl Sc Special,AGTL,SC
+07030,Sc Agtl Special,SC,AGTL
+07031,Sc Nzm Special,SC,NZM
+07032,Sc Summer Special,NZM,SC
+07044,Kcg-qln,KCG,QLN
+07045,Qln-kcg,QLN,KCG
+07051,Hyb Rxl Special,HYB,RXL
+07052,Rxl Sc Special,RXL,SC
+07053,Kcg Lgh Special,KCG,LGH
+07054,Lgh Kcg Special,LGH,KCG
+07055,Kcg Hsr Special,KCG,HSR
+07056,Hsr Kcg Special,HSR,KCG
+07097,Sc-vskp,SC,VSKP
+07098,Vskp-sc,VSKP,SC
+07115,Hyb Jp Special,HYB,JP
+07116,Jp Hyb Exp Special,JP,HYB
+07119,Sc-qln,SC,QLN
+07120,Qln-sc,QLN,SC
+07125,Sc Vlnk Special,SC,VLNK
+07127,Sc Vlnk Special,SC,VLNK
+07128,Vlnk-sc,VLNK,SC
+07153,Ns Smvb Special,NS,SMVB
+07154,Smvb-ns,SMVB,NS
+07165,Hyb Ctc Special,HYB,CTC
+07166,Ctc Hyb Special,CTC,HYB
+07189,Ned Ed Special,NED,ED
+07190,Ed Ned Special,ED,NED
+07191,Kcg Mdu Special,KCG,MDU
+07192,Mdu Kcg Special,MDU,KCG
+07199,Sc Qln Special,SC,QLN
+07200,Qln Sc Special,QLN,SC
+07221,Sc Src Special,SC,SRC
+07222,Src Sc Special,SRC,SC
+07255,Hyb Pnbe Special,HYB,PNBE
+07256,Sc Pnbe Special,SC,PNBE
+07303,Bgm-mrj Ur Special,BGM,MRJ
+07304,Mrj-bgm Ur Special,MRJ,BGM
+07321,Passenger,SUR,DWR
+07322,Dwr Sur Special,DWR,SUR
+07325,Klbg-ubl One Way Exp Special,KLBG,UBL
+07333,Ubl-kcvl Exp Special,UBL,KCVL
+07334,Kcvl-ubl Exp Special,KCVL,UBL
+07339,Ubl Sbc Special,UBL,SBC
+07340,Sbc Ubl Special,SBC,UBL
+07355,Ubl Rmm Express,UBL,RMM
+07356,Rmm Ubl Special,RMM,UBL
+07358,Pnme-bjp Ftr Special,PNME,BJP
+07359,Vsg-mxn Ftr Special,VSG,MXN
+07362,Vlnk Vsg Special,VLNK,VSG
+07377,Bjp Maq Express,BJP,MAQ
+07378,Maq Bjp Special,MAQ,BJP
+07419,Sc Dnr Special,SC,DNR
+07420,Dnr Sc Special,DNR,SC
+07435,Kcg Ncj Special,KCG,NCJ
+07436,Ncj Kcg Special,NCJ,KCG
+07445,Cct Lpi Special,CCT,LPI
+07446,Lpi Cct Special,LPI,CCT
+07459,Bza Passenger,BZA,RJY
+07460,Rjy-bza Pass Memu,RJY,BZA
+07461,Bza Passenger,BZA,OGL
+07466,Rjy Passenger,RJY,VSKP
+07467,Vskp Passenger,VSKP,RJY
+07469,Vzm-vskp Memu,VZM,VSKP
+07470,Vskp-psa Memu,VSKP,PSA
+07477,Kcg Passenger,KCG,RC
+07478,Rc Passenger,RC,KCG
+07481,Tpty Sc Sf Special,TPTY,SC
+07484,Sipt Passenger,SIPT,SC
+07486,Sipt-sc Dmu,SIPT,SC
+07491,J Passenger,J,NSL
+07494,Nsl Passenger,NSL,J
+07498,Ndl-krnt Dmu,NDL,KRNT
+07576,Ogl-bza Memu,OGL,BZA
+07581,Tpty-kpd Memu,TPTY,KPD
+07584,Mbnr-kcg Dmu,MBNR,KCG
+07585,Jru Passenger,JRU,GTL
+07586,Gtl Passenger,GTL,JRU
+07588,Mdak-kcg Dmu,MDAK,KCG
+07589,Tpty Kryp Special,TPTY,KRYP
+07590,Kryp Tpty Express,KRYP,TPTY
+07598,Prli-pau,PRLI,PAU
+07605,Tpty-ak,TPTY,AK
+07606,Ak Tpty Sf  Special,AK,TPTY
+07609,Pau Tpty Special,PAU,TPTY
+07610,Tpty Pau Special,TPTY,PAU
+07630,Tel-bza Memu,TEL,BZA
+07631,Hyb Ns Special,HYB,NS
+07632,Ns Hyb Special,NS,HYB
+07647,Sc Dnr Sumr Special,SC,DNR
+07648,Dnr Sc Special,DNR,SC
+07649,Mly Mfp Special,MLY,MFP
+07651,J Cpr Special,J,CPR
+07652,Cpr J Fest Special,CPR,J
+07655,Gtl Passenger,GTL,TPTY
+07656,Tpty Passenger,TPTY,GTL
+07657,Tpty Ubl Special,TPTY,UBL
+07658,Ubl Tpty Express,UBL,TPTY
+07672,Pbn Passenger,PBN,NED
+07681,Sbrm-agtl Dmu,SBRM,AGTL
+07687,Sbrm-agtl Dmu,SBRM,AGTL
+07695,Sc Rmd Special,SC,RMD
+07696,Rmd Sc Special,RMD,SC
+07747,Klbg-bidr Dmu,KLBG,BIDR
+08007,Shm Vzr Special,SHM,VZR
+08008,Vzr Shm Special,VZR,SHM
+08011,Vzr Puri Special,VZR,PURI
+08012,Puri Vzr Special,PURI,VZR
+08134,Gua-tata Memu,GUA,TATA
+08185,Hte Durg Special,HTE,DURG
+08186,Durg Hte Special,DURG,HTE
+08281,Nitr Passenger,NITR,TRDI
+08282,Trdi Passenger,TRDI,NITR
+08283,Tmr Passenger,TMR,TRDI
+08284,Trdi Passenger,TRDI,TMR
+08311,Sbp-ed Puja Special,SBP,ED
+08312,Ed-sbp Puja Special,ED,SBP
+08435,Udn-puri Tod S Fast Special,UDN,PURI
+08439,Puri Pnbe Special,PURI,PNBE
+08440,Pnbe Puri Special,PNBE,PURI
+08503,Bwip Vskp Pgrsp,BWIP,VSKP
+08504,Vskp Bwip Pgrsp,VSKP,BWIP
+08521,Gnpr Vskp Special,GNPR,VSKP
+08522,Vskp Gnpr Special,VSKP,GNPR
+08539,Vskp-qln Tod Special,VSKP,QLN
+08540,Qln Vskp Sf Special,QLN,VSKP
+08543,Vskp Smvb Sf Special,VSKP,SMVB
+08544,Smvb Vskp Sf Special,SMVB,VSKP
+08551,Vskp Krdl Pgrsp,VSKP,KRDL
+08552,Krdl Vskp Pgrsp,KRDL,VSKP
+08557,Vskp-ms Special,VSKP,MS
+08558,Ms Vskp Special,MS,VSKP
+08579,Vskp Sc Special,VSKP,SC
+08580,Sc Vskp Special,SC,VSKP
+08581,Vskp Bza Special,VSKP,BZA
+08583,Vskp Tpty Special,VSKP,TPTY
+08584,Tpty Vskp Special,TPTY,VSKP
+08601,Pnbe-rnc Exam Spl Tod,PNBE,RNC
+08602,Rnc-pnbe Exam Spl Tod,RNC,PNBE
+08603,Pnbe-rnc Exam Special,PNBE,RNC
+08604,Rnc-pnbe Exam Special,RNC,PNBE
+08611,Src Aii Special,SRC,AII
+08617,Hte Passenger,HTE,SANI
+08623,Pnbe-rnc Examination Special,PNBE,RNC
+08624,Rnc-pnbe Examination Special,RNC,PNBE
+08626,Rnc Prnc Special,RNC,PRNC
+09001,Mmct - Bnw Special Train,MMCT,BNW
+09002,Bnw - Mmct Special,BNW,MMCT
+09007,Bl Bhiwani Special,BL,BNW
+09008,Bnw Bl Special,BNW,BL
+09009,Mmct Swv Special,MMCT,SWV
+09010,Swv Mmct Special,SWV,MMCT
+09025,Bl Dnr Special,BL,DNR
+09026,Dnr Bl Special,DNR,BL
+09033,Udn Bju Special,UDN,BJU
+09034,Bju Udn Special,BJU,UDN
+09037,Bdts - Bhuj Special,BDTS,BHUJ
+09041,Udhna - Chhapra Special,UDN,CPR
+09042,Chhapra - Udn Special,CPR,UDN
+09043,Bdts Gkp Special,BDTS,GKP
+09044,Gkp Drd Special,GKP,DRD
+09045,Udn Pnbe Sf Special,UDN,PNBE
+09046,Pnbe Udn Special,PNBE,UDN
+09049,Ddr Bsl Special,DDR,BSL
+09050,Bsl Ddr Special,BSL,DDR
+09051,Ddr Bsl Special,DDR,BSL
+09052,Bsl Ddr Special,BSL,DDR
+09055,Bdts Udn Sf Special,BDTS,UDN
+09056,Udn Bdts Sf Special,UDN,BDTS
+09057,Udn Majn Special,UDN,MAJN
+09058,Majn Udn Special,MAJN,UDN
+09059,St Bam Special,ST,BAM
+09060,Bam St Sumr Special,BAM,ST
+09061,Udhna - Ghazipur City Special,UDN,GCT
+09062,Ghazipur City - Udhna Special,GCT,UDN
+09063,Vapi Dnr Special,VAPI,DNR
+09064,Dnr Bhet Special,DNR,BHET
+09065,St Cpr Special,ST,CPR
+09066,Cpr St Special,CPR,ST
+09072,Wgi Bim Special,WGI,BIM
+09075,Mmct Kgm Sf Special,MMCT,KGM
+09076,Kgm Mmct Sf Special,KGM,MMCT
+09077,Ndb Passenger,NDB,BSL
+09078,Ndb Pass Special,BSL,NDB
+09079,St-brc Memu,ST,BRC
+09083,Vr-drd Memu,VR,DRD
+09087,Sjn-st Memu,SJN,ST
+09089,Vr-sjn Memu,VR,SJN
+09093,Bdts - Gkp Special,BDTS,GKP
+09095,St-ndb Memu,ST,NDB
+09097,Bdts Svdk Sf Special,BDTS,SVDK
+09098,Bdts Sf Special,SVDK,BDTS
+09106,Dhd-brc Memu,DHD,BRC
+09107,Prtn-eknr Memu,PRTN,EKNR
+09108,Eknr-prtn Memu,EKNR,PRTN
+09109,Prtn-eknr Memu,PRTN,EKNR
+09110,Eknr-prtn Memu,EKNR,PRTN
+09111,Brc Gkp Special,BRC,GKP
+09112,Gkp Brc Special,GKP,BRC
+09113,Prtn-eknr Memu,PRTN,EKNR
+09114,Eknr-prtn Memu,EKNR,PRTN
+09117,St Sfg Special,ST,SFG
+09118,Sfg St Sf  Hspecial,SFG,ST
+09121,Bdts-pit Samavatsari Special,BDTS,PIT
+09122,Pit-bdts Samavatsari Special,PIT,BDTS
+09133,Annd-gda Memu,ANND,GDA
+09137,Brc - Hsr One Way Special,BRC,HSR
+09143,Vr Passenger,VR,BL
+09149,Kudal Vs Special,KUDL,VS
+09150,Vs Kudl Special,VS,KUDL
+09153,Ubr-bl Memu,UBR,BL
+09181,Prtn Passenger,PRTN,ARPR
+09183,Mmct Banaras Special,MMCT,BSBS
+09184,Bsbs Mmct Special,BSBS,MMCT
+09185,Mmct Cpa Sf Special,MMCT,CPA
+09186,Cpa Mmct Sf Special,CPA,MMCT
+09189,Mmct Kir Special,MMCT,KIR
+09190,Kir Mmct Special,KIR,MMCT
+09195,Brc Mau Sf Special,BRC,MAU
+09196,Mau Brc Sf Special,MAU,BRC
+09207,Bdts Bvc Special,BDTS,BVC
+09208,Bvc Bdts Special,BVC,BDTS
+09309,Indb Nzm Sf Special,INDB,NZM
+09310,Indb Summer Special,NZM,INDB
+09321,Dadn Svdk Sf Special,DADN,SVDK
+09322,Dadn  Summer Special,SVDK,DADN
+09323,Pune Indb Special,PUNE,INDB
+09324,Indb Pune Special,INDB,PUNE
+09331,Ujn-cor Memu,UJN,COR
+09332,Cor-ujn Memu,COR,UJN
+09343,Dadn Pnbe Special,DADN,PNBE
+09344,Pnbe  Dadn   Special,PNBE,DADN
+09404,Bsbs Adi Special,BSBS,ADI
+09405,Sbib Pnbe Special,SBIB,PNBE
+09406,Pnbe Sbib Special,PNBE,SBIB
+09409,Heritage Special,ADI,EKNR
+09410,Adi Heritage Special,EKNR,ADI
+09411,Thvm - Adi Special,THVM,ADI
+09412,Adi - Thvm Special,ADI,THVM
+09417,Adi Dnr Special,ADI,DNR
+09418,Dnr Adi Special,DNR,ADI
+09419,Adi Tpj Special,ADI,TPJ
+09420,Tpj Adi Special,TPJ,ADI
+09423,Majn Adi Special,MAJN,ADI
+09424,Adi Majn Special,ADI,MAJN
+09425,Sbib Hw  Special,SBIB,HW
+09426,Sbib Summer Special,HW,SBIB
+09427,Annd-cby Memu,ANND,CBY
+09429,Annd-cby Memu,ANND,CBY
+09435,Gg Okha Special,GG,OKHA
+09436,Okha Gg Special,OKHA,GG
+09447,Adi Pnbe Sf Special,ADI,PNBE
+09448,Pnbe Adi  Special,PNBE,ADI
+09451,Festival Special,GIMB,BGP
+09452,Bgp Gimb Special,BGP,GIMB
+09455,Gnc Bhuj Special,GNC,BHUJ
+09456,Bhuj Gnc Special,BHUJ,GNC
+09465,Adi Dbg Special,ADI,DBG
+09466,Dbg Adi Special,DBG,ADI
+09493,Adi Pnbe Sf Special,ADI,PNBE
+09502,Wgi Bim Special,WGI,BIM
+09519,Mdu Okha Special,MDU,OKHA
+09520,Okha  Mdu Special,OKHA,MDU
+09521,Passenger,RJT,VRL
+09522,Passenger,VRL,RJT
+09523,Okha Dee Sf Special,OKHA,DEC
+09524,Dec Okha Sf Special,DEC,OKHA
+09525,Hapa Nhln Special,HAPA,NHLN
+09526,Nhln Hapa Special,NHLN,HAPA
+09533,Sunr Passenger,SUNR,BVC
+09557,Bvc Dec Special,BVC,DEC
+09558,Bvc Summer Special,DEC,BVC
+09569,Rjt Bju Special,RJT,BJU
+09570,Bju Rjt Special,BJU,RJT
+09575,Rjt Mbnr Special,RJT,MBNR
+09576,Mbnr Rjt Special,MBNR,RJT
+09589,Bzu Cwa Special,BZU,CWA
+09590,Sey Bzu Special,SEY,BZU
+09621,Aii Bdts Sf Special,AII,BDTS
+09622,Bdts Aii Sf Special,BDTS,AII
+09625,Aii Dd Sf Special,AII,DD
+09626,Dd Ajmer Sf Special,DD,AII
+09627,Aii Sur Sf Special,AII,SUR
+09628,Sur Aii Sf Special,SUR,AII
+09631,Hsr Passenger,HSR,RE
+09641,Ajmer Beas Special Tod,AII,BEAS
+09642,Beas Aii Special,BEAS,AII
+09653,Aii Bdts Sf Special,AII,BDTS
+09654,Bdts Aii Sf Special,BDTS,AII
+09721,Jp Udz Sf Special,JP,UDZ
+09722,Udz Jp Sf Special,UDZ,JP
+09723,Jp Bdts Hspecial,JP,BDTS
+09724,Bdts Jp Special,BDTS,JP
+09732,Re-rgs-re Exp Special,RGS,RE
+09817,Kota Dnr Special,KOTA,DNR
+09818,Dnr Kota Special,DNR,KOTA
+10103,Mandovi Express,CSMT,MAO
+10104,Mandovi Express,MAO,CSMT
+10105,Diva Swv Express,DIVA,SWV
+10106,Swv Diva Express,SWV,DIVA
+10115,Bdts Mao Express,BDTS,MAO
+10116,Mao Bdts Express,MAO,BDTS
+10215,Madgaon Ers Express,MAO,ERS
+10216,Madgaon Sf Express,ERS,MAO
+11003,Tutari Express,DR,SWV
+11004,Tutari Express,SWV,DR
+11005,Puducherry Express,DR,PDY
+11006,Chalukya Express,PDY,DR
+11007,Deccan Express,CSMT,PUNE
+11008,Deccan Express,PUNE,CSMT
+11009,Sinhagad Express,CSMT,PUNE
+11010,Sinhagad Express,PUNE,CSMT
+11011,Csmt Dhule Express,CSMT,DHI
+11012,Dhule Csmt Express,DHI,CSMT
+11013,Ltt Cbe Express,LTT,CBE
+11014,Cbe Ltt Express,CBE,LTT
+11017,Ltt Karaikal Express,LTT,KIK
+11018,Kik Ltt Express,KIK,LTT
+11019,Konark Express,CSMT,BBS
+11020,Konark Express,BBS,CSMT
+11021,Dadar Ten Express,DR,TEN
+11022,Ten Dr Express,TEN,DR
+11025,Pune Ami Express,PUNE,AMI
+11026,Ami Pune Express,AMI,PUNE
+11027,Dr Satara Express,DR,STR
+11028,Satara Dr Express,STR,DR
+11029,Koyna Express,CSMT,KOP
+11030,Koyna Express,KOP,CSMT
+11033,Darbhanga Express,PUNE,DBG
+11034,Dbg Pune Express,DBG,PUNE
+11035,Sharavati Express,DR,MYS
+11036,Sharavati Express,MYS,DR
+11037,Pune Gkp Express,PUNE,GKP
+11038,Gkp Pune Express,GKP,PUNE
+11039,Maharashtra Express,KOP,G
+11040,Maharashtra Express,G,KOP
+11041,Dr Snsi Express,DR,SNSI
+11042,Snsi Dr Express,SNSI,DR
+11045,Kop Dhn Express,KOP,DHN
+11046,Dikshabhumi Express,DHN,KOP
+11049,Adi Kop  Express,ADI,KOP
+11050,Ahemdabad Express,KOP,ADI
+11055,Godan Express,LTT,GKP
+11056,Godan Express,GKP,LTT
+11057,Csmt Asr Express,CSMT,ASR
+11058,Asr Csmt Express,ASR,CSMT
+11059,Chhapra Express,LTT,CPR
+11060,Cpr Ltt Express,CPR,LTT
+11061,Ltt Jaynagar Express,LTT,JYG
+11062,Jyg Ltt Express,JYG,LTT
+11071,Kamayani Express,LTT,BUI
+11072,Kamayani Express,BUI,LTT
+11077,Jhelum Express,PUNE,JAT
+11078,Jhelum Express,JAT,PUNE
+11079,Ltt Gkp Express,LTT,GKP
+11080,Gkp Ltt Express,GKP,LTT
+11081,Ltt Gkp Express,LTT,GKP
+11082,Gkp Ltt Express,GKP,LTT
+11087,Veraval Pune Express,VRL,PUNE
+11088,Pune Vrl Express,PUNE,VRL
+11089,Bgkt Pune Express,BGKT,PUNE
+11090,Pune Bgkt Express,PUNE,BGKT
+11091,Bhuj Pune Special,BHUJ,PUNE
+11092,Pune Bhuj Express,PUNE,BHUJ
+11097,Poorna Express,PUNE,ERS
+11098,Poorna Express,ERS,PUNE
+11099,Ltt Madgaon Express,LTT,MAO
+11100,Madgaon Ltt Express,MAO,LTT
+11107,Bundelkhand Express,GWL,BSBS
+11108,Bundelkhand Express,BSBS,GWL
+11109,Ljn Intercity,VGLJ,LJN
+11110,Jhs Intercity,LJN,VGLJ
+11123,Gwl Bju Express,GWL,BJU
+11124,Bju Gwl Mail,BJU,GWL
+11125,Rtm Gwalior Express,RTM,GWL
+11126,Gwl Rtm Express,GWL,RTM
+11139,Csmt Hpt Express,CSMT,HPT
+11140,Hpt Csmt Express,HPT,CSMT
+11201,Ngp Sdl Express,NGP,SDL
+11202,Sdl Ngp Express,SDL,NGP
+11265,Jbp Abkp Express,JBP,ABKP
+11266,Abkp Jbp Express,ABKP,JBP
+11271,Vindhyachal Express,ET,BPL
+11272,Vindhyachal Express,BPL,ET
+11273,Et Pcoi Express,ET,PCOI
+11274,Pcoi Et Express,PCOI,ET
+11301,Udyan Express,CSMT,SBC
+11302,Udyan Express,SBC,CSMT
+11305,Sur-gdg Express,SUR,HPT
+11311,Sur Hasan Express,SUR,HAS
+11312,Has Sur Express,HAS,SUR
+11401,Nandigram Express,CSMT,BPQ
+11402,Nandigram Express,BPQ,CSMT
+11403,Ngp Kop Express,NGP,KOP
+11404,Kop Nagpur Express,KOP,NGP
+11405,Pune Ami Express,PUNE,AMI
+11406,Ami Pune Express,AMI,PUNE
+11407,Pune Lucknow Express,PUNE,LJN
+11408,Ljn Pune Express,LJN,PUNE
+11417,Pune Sur Express,PUNE,SUR
+11427,Pune Jasidih Express,PUNE,JSME
+11428,Jsme Pune Express,JSME,PUNE
+11447,Shaktipunj Express,JBP,HWH
+11448,Shaktipunj Express,HWH,JBP
+11449,Jbp Svdk Express,JBP,SVDK
+11450,Svdk Jbp Express,SVDK,JBP
+11463,Smnh Jbp Express,VRL,JBP
+11464,Jbp Somnath Express,JBP,VRL
+11465,Smnh Jbp Express,VRL,JBP
+11466,Jbp Somnath Express,JBP,VRL
+11651,Sgrl Intercity,JBP,SGRL
+11652,Jbp Intercity Express,SGRL,JBP
+11703,Rewa Dadn Express,REWA,DADN
+11704,Dadn Rewa Special,DADN,REWA
+11705,Jbp Rewa Express,JBP,REWA
+11706,Rewa Jbp Express,REWA,JBP
+11751,Rewa Chrm Express,REWA,CHRM
+11752,Chrm Rewa Express,CHRM,REWA
+11753,Itr Rewa Express,NITR,REWA
+11754,Rewa Itr Express,REWA,NITR
+11801,Vglb Pryj Express,VGLJ,PRYJ
+11802,Pryj Vglb Express,PRYJ,VGLJ
+11841,Kurj Kkde Express,KURJ,KKDE
+11842,Kkde Kurj Express,KKDE,KURJ
+11901,Vglj Agc Express,VGLJ,AGC
+11902,Agc Vglj Express,AGC,VGLJ
+11903,Vglb Etw Express,VGLJ,ETW
+11904,Etw Vglb Express,ETW,VGLJ
+11905,Agc Hsx Express,AGC,HSX
+11906,Hsx Agc Express,HSX,AGC
+12001,Ndls Shatabdi,RKMP,NDLS
+12002,Shatabdi Express,NDLS,RKMP
+12003,Swaran Shatabdi,LJN,NDLS
+12004,Shatabdi Express,NDLS,LJN
+12005,Kalka Shtbdi Express,NDLS,KLK
+12006,Kalka Shtbdi Express,KLK,NDLS
+12007,Mys Shatabdi,MAS,MYS
+12008,Shatabdi Express,MYS,MAS
+12009,Adi Shatabdi Express,MMCT,ADI
+12010,Mmct Shatabdi Express,ADI,MMCT
+12011,Klk Shatabadi,NDLS,KLK
+12012,Klk Shatabadi,KLK,NDLS
+12013,Amritsar Shtabdi,NDLS,ASR
+12014,Amritsar Shtabdi,ASR,NDLS
+12015,Ajmer Shatabdi,NDLS,DOZ
+12016,Aii Ndls Shatbi,DOZ,NDLS
+12017,Ddn Shtbdi Express,NDLS,DDN
+12018,Ddn Shtbdi Express,DDN,NDLS
+12019,Shatabdi Express,HWH,RNC
+12020,Shatabdi Express,RNC,HWH
+12021,Bbn Janshatabdi,HWH,BBN
+12022,Hwh Janshatabdi,BBN,HWH
+12023,Janshatabdi Express,HWH,PNBE
+12024,Janshatabdi Express,PNBE,HWH
+12025,Shatabdi Express,PUNE,SC
+12026,Pune Shatabdi,SC,PUNE
+12027,Mas Sbc Shtabdi,MAS,SBC
+12028,Shatabdi Express,SBC,MAS
+12029,Swarn Shatabdi,NDLS,ASR
+12030,Swarn Shatabdi,ASR,NDLS
+12031,Amritsar Shtabdi,NDLS,ASR
+12032,Amritsar Shtabdi,ASR,NDLS
+12033,Shatabdi Express,CNB,NDLS
+12034,Ndls Cnb Sht,NDLS,CNB
+12035,Purnagiri Janst,TPU,DLI
+12036,Purangiri Janst,DLI,TPU
+12037,Siddhabali J Sh,KTW,DLI
+12038,Siddhabali J Sh,DLI,KTW
+12039,Ndls Shatabadi,KGM,NDLS
+12040,Kathgodam Shatabdii,NDLS,KGM
+12041,Shatabdi Express,HWH,NJP
+12042,Shatabdi Express,NJP,HWH
+12045,Cdg Shatabdi,NDLS,CDG
+12046,Ndls Shatabdi,CDG,NDLS
+12049,Gatimaan Express,VGLJ,NZM
+12050,Gatimaan Express,NZM,VGLJ
+12051,Mao Janshatabdi,CSMT,MAO
+12052,Csmt Janshtabdi,MAO,CSMT
+12053,Asr Janshatabdi,HW,ASR
+12054,Hw Janshatabdi,ASR,HW
+12055,Ddn Janshatabdii,NDLS,DDN
+12056,Janshatabdi Express,DDN,NDLS
+12057,Janshatabdi Express,NDLS,DLPC
+12058,Janshatabdi Express,DLPC,NDLS
+12059,Nzm Jan Shatabdi,KOTA,NZM
+12060,Janshatabdi Express,NZM,KOTA
+12061,Jbp Janshatabdi,RKMP,JBP
+12062,Rkmp Janshatabdii,JBP,RKMP
+12065,Dee Jan Shatbdi,AII,DEE
+12066,Janshatabdi Express,DEE,AII
+12067,Jansatabdi Express,GHY,JTTN
+12068,Jansatabdi Express,JTTN,GHY
+12069,Janshatabdi Express,RIG,G
+12070,Janshatabdi Express,G,RIG
+12071,Janshatabdti Express,CSMT,HNL
+12072,Jan Shatabdi,HNL,CSMT
+12073,Bbs Janshatabdi,HWH,BBS
+12074,Jana Satabdi Express,BBS,HWH
+12075,Tvc Janshatabdi,CLT,TVC
+12076,Clt Janshatabdi,TVC,CLT
+12077,Bza Janshatabdi,MAS,BZA
+12078,Jan Shatabdi,BZA,MAS
+12079,Janshatabdi Express,SBC,UBL
+12080,Janshatabdi Express,UBL,SBC
+12081,Tvc Janshatabdi,CAN,TVC
+12082,Can Janshatabdi,TVC,CAN
+12083,Cbe Janshatabdi,MV,CBE
+12084,Mv Jan Shatabdi,CBE,MV
+12087,Nhln Ghy Vistad,NHLN,GHY
+12088,Ghy Nhln Vistad,GHY,NHLN
+12089,Janshatabdi Express,SBC,SMET
+12090,Janshatabdi Express,SMET,SBC
+12091,Janshatabdi Express,DDN,KGM
+12092,Naini Doon Jan,KGM,DDN
+12097,Agtl Kgbp Jansh,AGTL,KGBP
+12098,Kgbp Agtl Jansh,KGBP,AGTL
+12101,Jnaneshwari Express,LTT,SHM
+12102,Jananeswari Express,SHM,LTT
+12103,Pune Ljn Express,PUNE,LJN
+12104,Ljn Pune Express,LJN,PUNE
+12105,Vidarbha Express,CSMT,G
+12106,Vidarbha Express,G,CSMT
+12107,Ltt Sitapur Express,LTT,STP
+12108,Stp Ltt Sf Express,STP,LTT
+12109,Panchavati Express,CSMT,MMR
+12110,Panchavati Express,MMR,CSMT
+12111,Csmt Ami Sf Express,CSMT,AMI
+12112,Ami Csmt Sf Express,AMI,CSMT
+12113,Ngp Garibrath,PUNE,NGP
+12114,Pune Garibrath,NGP,PUNE
+12115,Siddheshwar Express,CSMT,SUR
+12116,Siddheshwar Express,SUR,CSMT
+12119,Ami-ngp Sf Express,AMI,NGP
+12120,Ngp-ami Express,NGP,AMI
+12121,Mp Samprk Krnti,JBP,NZM
+12122,M P S Krnti Express,NZM,JBP
+12123,Deccan Queen,CSMT,PUNE
+12124,Deccan Queen,PUNE,CSMT
+12125,Pragati Express,CSMT,PUNE
+12126,Pragati Express,PUNE,CSMT
+12127,Intercity Express,CSMT,PUNE
+12128,Intercity Express,PUNE,CSMT
+12129,Azad Hind Express,PUNE,HWH
+12130,Azad Hind Express,HWH,PUNE
+12131,Dr Sainagar Express,DR,SNSI
+12132,Sainagar Dr Express,SNSI,DR
+12133,Mangaluru Express,CSMT,MAJN
+12134,Majn Csmt Sf Express,MAJN,CSMT
+12135,Pune Nagpur Express,PUNE,NGP
+12136,Ngp Pune Sf Express,NGP,PUNE
+12137,Punjab Mail,CSMT,FZR
+12138,Punjab Mail,FZR,CSMT
+12139,Sevagram Express,CSMT,NGP
+12140,Sevagram Express,NGP,CSMT
+12141,Patliputra Express,LTT,PPTA
+12142,Ppta Ltt Express,PPTA,LTT
+12143,Ltt Sln Sf Express,LTT,SLN
+12144,Ltt Express,SLN,LTT
+12145,Ltt Puri Express,LTT,PURI
+12146,Puri Ltt S F,PURI,LTT
+12147,Kop Nzm Sf Express,KOP,NZM
+12148,Kolhapur Express,NZM,KOP
+12149,Pune Dnr Express,PUNE,DNR
+12150,Dnr Pune Express,DNR,PUNE
+12151,Ltt Shm Sf Express,LTT,SHM
+12152,Samarsata Express,SHM,LTT
+12153,Ltt Rkmp Express,LTT,RKMP
+12154,Rkmp-ltt Express,RKMP,LTT
+12155,Rkmp Nzm Sf Express,RKMP,NZM
+12156,Bhopal Express,NZM,RKMP
+12157,Hutatma Express,PUNE,SUR
+12158,Hutatma Express,SUR,PUNE
+12159,Ami Jbp Sf Express,AMI,JBP
+12160,Jbp Ami Sf Express,JBP,AMI
+12161,Lashkar Express,LTT,AGC
+12162,Lashkar Express,AGC,LTT
+12163,Ltt Mas Express,LTT,MAS
+12164,Mas Ltt Sf Express,MAS,LTT
+12165,Ltt Gkp Sf Express,LTT,GKP
+12166,Gkp Ltt Express,GKP,LTT
+12167,Ltt Banaras Express,LTT,BSBS
+12168,Bsbs Ltt Sf Express,BSBS,LTT
+12169,Sur Intercity,PUNE,SUR
+12170,Pune Intercity,SUR,PUNE
+12171,Ltt Hw Ac Express,LTT,HW
+12172,Hw Ltt Ac Express,HW,LTT
+12173,Udyog Nagri Express,LTT,MBDP
+12174,Udyog Nagri Express,MBDP,LTT
+12175,Chambal Express,HWH,GWL
+12176,Chambal Express,GWL,HWH
+12177,Chambal Express,HWH,MTJ
+12178,Chambal Express,MTJ,HWH
+12179,Af Intercity,LJN,AF
+12180,Ljn Intercity,AF,LJN
+12181,Dayodai Express,JBP,AII
+12182,Dayodai Express,AII,JBP
+12183,Bpl Mbdp Sf Express,BPL,MBDP
+12184,Pbh Bpl Express,MBDP,BPL
+12185,Rewanchal Express,RKMP,REWA
+12186,Rewanchal Express,REWA,RKMP
+12187,Garibrath Express,JBP,CSMT
+12188,Jbp Garib Rath,CSMT,JBP
+12189,Mahakaushal Express,JBP,NZM
+12190,Mahakaushal Express,NZM,JBP
+12191,Nzm Jbp Sf Express,NZM,JBP
+12192,Jbp Nzm Sf Express,JBP,NZM
+12193,Ypr Jbp Express,YPR,JBP
+12194,Jbp Ypr Express,JBP,YPR
+12195,Aii Intercity,AF,HTD
+12196,Aii Af Intercty,HTD,AF
+12197,Gwl Intercity,BPL,GWL
+12198,Bpl Intercity,GWL,BPL
+12201,Kcvl Garibrath,LTT,KCVL
+12202,Ltt Garib Rath,KCVL,LTT
+12203,Garib Rath Express,SHC,ASR
+12204,Shc Garib Rath,ASR,SHC
+12207,Jammu Garibrath,KGM,JAT
+12208,Kgm Garib Rath,JAT,KGM
+12209,Kgm Garibrath,CNB,KGM
+12210,Cnb Garibrath,KGM,CNB
+12211,Anvt Garib Rath,MFP,ANVT
+12212,Mfp Garib Rath,ANVT,MFP
+12213,Ypr Dee Duronto,YPR,DEE
+12214,Dee Ypr Duronto,DEE,YPR
+12215,Bdts Garib Rath,DEE,BDTS
+12216,Dee Garibrath,BDTS,DEE
+12217,Sampark Kranthi,KCVL,CDG
+12218,Kerla S Kranti,CDG,KCVL
+12219,Sc Duronto,LTT,SC
+12220,Ltt Duronto,SC,LTT
+12221,Howrah Duronto,PUNE,HWH
+12222,Pune Duronto Express,HWH,PUNE
+12223,Ltt Ers Duronto,LTT,ERS
+12224,Ers Ltt Duronto,ERS,LTT
+12225,Kaifiyat Express,AMH,DLI
+12226,Kaifiyat Express,DLI,AMH
+12227,Indb Duronto,MMCT,INDB
+12228,Mmct Duronto,INDB,MMCT
+12229,Lucknow Mail,LKO,NDLS
+12230,Lucknow Mail,NDLS,LKO
+12231,Lko Cdg Express,LKO,CDG
+12232,Cdg Lko Express,CDG,LKO
+12235,Anvt Humsfr Express,MDP,ANVT
+12236,Madhupur Humsfr,ANVT,MDP
+12237,Begumpura Express,BSB,JAT
+12238,Begumpura Express,JAT,BSB
+12239,Hisar Duronto,MMCT,HSR
+12240,Mmct Duronto Express,HSR,MMCT
+12241,Cdg Asr Express,CDG,ASR
+12242,Asr Cdg Express,ASR,CDG
+12243,Mas Cbe Shatabdi,MAS,CBE
+12244,Cbe Mas Shatabdi,CBE,MAS
+12245,Smvb Duronto Express,HWH,SMVB
+12246,Duronto Express,SMVB,HWH
+12247,Bdts Nzm Yuva Express,BDTS,NZM
+12248,Bandra Yuva Express,NZM,BDTS
+12251,Wainganga Express,YPR,KRBA
+12252,Wainganga Express,KRBA,YPR
+12253,Anga Express,SMVB,BGP
+12254,Anga Express,BGP,SMVB
+12257,Kcvl Garibrath,YPR,KCVL
+12258,Kcvl Ypr Gr Express,KCVL,YPR
+12259,Bkn Duronto Express,SDAH,BKN
+12260,Sdah Duronto,BKN,SDAH
+12261,Howrah Duronto,CSMT,HWH
+12262,Csmt Duronto Express,HWH,CSMT
+12263,Nzm Duronto,PUNE,NZM
+12264,Pune Durnto Express,NZM,PUNE
+12265,Jat Duronto Express,DEE,JAT
+12266,Dee Duronto Express,JAT,DEE
+12267,Hapa  Duronto Express,MMCT,HAPA
+12268,Mmct Duronto Express,HAPA,MMCT
+12269,Mas Nzm Duronto,MAS,NZM
+12270,Mas Duronto Express,NZM,MAS
+12273,Ndls Duronto Express,HWH,NDLS
+12274,Hwh Duronto Express,NDLS,HWH
+12275,Ndls Humsafar,PRYJ,NDLS
+12276,Humsafar Express,NDLS,PRYJ
+12277,Satabdi Express,HWH,PURI
+12278,Satabdi Express,PURI,HWH
+12279,Taj Express,VGLJ,NDLS
+12280,Taj Express,NDLS,VGLJ
+12281,Duronto Express,BBS,NDLS
+12282,Bbs Duronto Express,NDLS,BBS
+12283,Ers Nzm Duronto,ERS,NZM
+12284,Nzm Ers Duronto,NZM,ERS
+12285,Nzm Duronto Express,SC,NZM
+12286,Sc Duronto Express,NZM,SC
+12289,Ngp Duronto Express,CSMT,NGP
+12290,Csmt Duronto Express,NGP,CSMT
+12291,Ypr Mas Express,YPR,MAS
+12293,Pryj Duronto,LTT,PRYJ
+12294,Ltt Duronto,PRYJ,LTT
+12295,Sanghamitra Express,SMVB,DNR
+12296,Sangha Mitra Express,DNR,SMVB
+12297,Pune Duronto,ADI,PUNE
+12298,Adi Duronto,PUNE,ADI
+12301,Rajdhani Express,HWH,NDLS
+12302,Hwh Rajdhani,NDLS,HWH
+12303,Poorva Express,HWH,NDLS
+12304,Poorva Express,NDLS,HWH
+12305,Rajdhani Express,HWH,NDLS
+12306,Kolkata Rajdhni,NDLS,HWH
+12307,Hwh Ju Express,HWH,JU
+12308,Ju Hwh Express,JU,HWH
+12309,Rjpb Tejas Raj,RJPB,NDLS
+12310,Rjpb Tejas Raj,NDLS,RJPB
+12311,Netaji Express,HWH,KLK
+12312,Netaji Express,KLK,HWH
+12313,Rajdhani Express,SDAH,NDLS
+12314,Sealdah Rajdhni,NDLS,SDAH
+12315,Ananya Express,KOAA,UDZ
+12316,Ananya Express,UDZ,KOAA
+12317,Akal Takht Express,KOAA,ASR
+12318,Akal Takhat Express,ASR,KOAA
+12319,Koaa Gwl Express,KOAA,GWL
+12320,Agc Koaa Sf Express,GWL,KOAA
+12321,Mumbai Mail,HWH,CSMT
+12322,Kolkata Mail,CSMT,HWH
+12323,Hwh Bme Express,HWH,BME
+12324,Bme-hwh Bi Wkly Express,BME,HWH
+12325,Koaa Nldm Express,KOAA,NLDM
+12326,Gurumukhi Express,NLDM,KOAA
+12327,Upasana Express,HWH,DDN
+12328,Upasana Express,DDN,HWH
+12329,Sampark K Express,SDAH,ANVT
+12330,Sampark K Express,ANVT,SDAH
+12331,Himgiri Express,HWH,JAT
+12332,Himgiri Express,JAT,HWH
+12333,Vibhuti Express,HWH,PRRB
+12334,Vibhuti Express,PRRB,HWH
+12335,Bgp Ltt Express,BGP,LTT
+12336,Ltt Bhagalpur Express,LTT,BGP
+12337,Santiniketn Express,HWH,BHP
+12338,Santiniketn Express,BHP,HWH
+12339,Coalfield Express,HWH,DHN
+12340,Coalfield Express,DHN,HWH
+12341,Agniveena Express,HWH,ASN
+12342,Agniveena Express,ASN,HWH
+12343,Darjeeling Mail,SDAH,HDB
+12344,Darjeeling Mail,HDB,SDAH
+12345,Saraighat Express,HWH,GHY
+12346,Saraighat Express,GHY,HWH
+12347,Hwh Rph Express,HWH,RPH
+12348,Rph Hwh Express,RPH,HWH
+12349,Goda Ndls Hmsfr,GODA,NDLS
+12350,Goda Humsafar,NDLS,GODA
+12351,Hwh Rjpb Express,HWH,RJPB
+12352,Rjpb Hwh Express,RJPB,HWH
+12353,Hwh Lku Express,HWH,LKU
+12354,Lku Hwh Sf Express,LKU,HWH
+12355,Archna Express,PNBE,JAT
+12356,Archana Express,JAT,PNBE
+12357,Durgiana Express,KOAA,ASR
+12358,Durgiana Express,ASR,KOAA
+12359,Pnbe Garib Rath,KOAA,PNBE
+12360,Kol Garib Rath,PNBE,KOAA
+12361,Asn Csmt Express,ASN,CSMT
+12362,Csmt Asansol Express,CSMT,ASN
+12363,Koaa Hdb Sf Express,KOAA,HDB
+12364,Hdb Koaa Sf Express,HDB,KOAA
+12365,Rnc Janshatabdi,PNBE,RNC
+12366,Pnbe Janshatbdi,RNC,PNBE
+12367,Vikramshila Express,BGP,ANVT
+12368,Vikramshila Express,ANVT,BGP
+12369,Kumbha Express,HWH,DDN
+12370,Kumbha Express,DDN,HWH
+12371,Hwh Bkn Sf Express,HWH,BKN
+12372,Bkn Hwh Sf Express,BKN,HWH
+12375,Tbm Jsme Sf Express,TBM,JSME
+12376,Jsme Tbm Express,JSME,TBM
+12377,Padatik Express,SDAH,NOQ
+12378,Padatik Express,NOQ,SDAH
+12379,Jalianwala B Express,SDAH,ASR
+12380,Jalianwala B Express,ASR,SDAH
+12381,Poorva Express,HWH,NDLS
+12382,Poorva Express,NDLS,HWH
+12383,Asn Intercity,SDAH,ASN
+12384,Sdah Intercity,ASN,SDAH
+12389,Gaya Mas Express,GAYA,MAS
+12390,Mas Gaya Sf Express,MAS,GAYA
+12391,Shramjeevi Express,RGD,NDLS
+12392,Shramjivi Express,NDLS,RGD
+12393,S Kranti Sup Express,RJPB,NDLS
+12394,Sampooran K Express,NDLS,RJPB
+12395,Ziyarat Express,RJPB,AII
+12396,Ziyarat Express,AII,RJPB
+12397,Mahabodhi Express,GAYA,NDLS
+12398,Mahabodhi Express,NDLS,GAYA
+12401,Kota Ddn Ac Express,KOTA,DDN
+12402,Ddn Kota Ac Express,DDN,KOTA
+12403,Pryj Bkn Sf Express,PRYJ,LGH
+12404,Bkn Pryj Sf Express,LGH,PRYJ
+12405,Gondwana Express,BSL,NZM
+12406,Gondwana Express,NZM,BSL
+12409,Gondwana Sf Express,RIG,NZM
+12410,Gondwana Express,NZM,RIG
+12411,Intercity Express,CDG,ASR
+12412,Intercity Express,ASR,CDG
+12413,Aii Jat Express,AII,JAT
+12414,Jammu Aii Express,JAT,AII
+12415,Indb Ndls Express,INDB,NDLS
+12416,Ndls Indb Express,NDLS,INDB
+12417,Prayagraj Express,PRYJ,NDLS
+12418,Prayagraj Express,NDLS,PRYJ
+12419,Gomti Express,LKO,NDLS
+12420,Gomti Express,NDLS,LKO
+12421,Ned Asr Sf Express,NED,ASR
+12422,Asr Ned Sf Express,ASR,NED
+12423,Rajdhani Express,DBRG,NDLS
+12424,Dbrt Rajdhani,NDLS,DBRG
+12425,Jammu Rajdhani,NDLS,JAT
+12426,Jammu Rajdhani,JAT,NDLS
+12427,Rewa Anvt Express,REWA,ANVT
+12428,Rewa Express,ANVT,REWA
+12429,Lko Ndls Ac Express,LKO,NDLS
+12430,Ndls Lko Ac Express,NDLS,LKO
+12431,Rajdhani Express,TVC,NZM
+12432,Tvc Rajdhani,NZM,TVC
+12433,Mas Nzm Rajdhani,MAS,NZM
+12434,Nzm Mas Rajdhani,NZM,MAS
+12435,Garib Rath Express,JYG,ANVT
+12436,Jyg Garib Rath,ANVT,JYG
+12437,Sc Nzm Rajdhani,SC,NZM
+12438,Sc Rajdhani,NZM,SC
+12439,Ned Sgnr Express,NED,SGNR
+12440,Sgnr Ned Express,SGNR,NED
+12441,Bsp Ndls Raj Express,BSP,NDLS
+12442,Bsp Rajdhni Express,NDLS,BSP
+12443,Hlz Anvt Sf Express,HLZ,ANVT
+12444,Haldiya Express,ANVT,HLZ
+12445,Uttar Smprkkranti Express,NDLS,SVDK
+12446,Uttar S Kranti,SVDK,NDLS
+12447,Up Smprk Kranti,MKP,NZM
+12448,Up Samprk Kranti,NZM,MKP
+12449,Goa Smprk K,MAO,CDG
+12450,Goa Smprk Krant,CDG,MAO
+12451,Shram Shkti Express,CNB,NDLS
+12452,Shram Shkti Express,NDLS,CNB
+12453,Rnc Ndls Raj Express,RNC,NDLS
+12454,Rnc Rajdhani,NDLS,RNC
+12455,Dee Bkn Express,DEE,BKN
+12456,Bkn Dee Sf Express,BKN,DEE
+12457,Bkn Sf Express,DEE,BKN
+12458,Bkn Dee Express,BKN,DEE
+12459,Asr Intercity,NDLS,ASR
+12460,Asr Ndls Express,ASR,NDLS
+12461,Vande Bharat Express,JU,SBIB
+12462,Ju Vande Bharat,SBIB,JU
+12463,Raj S Krnti Express,DEE,JU
+12464,Rjsthn S Kranti,JU,DEE
+12465,Ranthambhore Express,INDB,BGKT
+12466,Ranthambore Express,BGKT,INDB
+12467,Leelan Express,JSM,JP
+12468,Leelan Sf Express,JP,JSM
+12469,Cnb-jat Express,CNB,JAT
+12470,Jat Cnb Express,JAT,CNB
+12471,Swaraj Express,BDTS,SVDK
+12472,Swaraj Express,SVDK,BDTS
+12473,Sarvodaya Express,GIMB,SVDK
+12474,Sarvodaya Express,SVDK,GIMB
+12475,Hapa Svdk Express,HAPA,SVDK
+12476,Svdk Hapa Express,SVDK,HAPA
+12477,Jam Svdk Express,JAM,SVDK
+12478,Svdk Jam Express,SVDK,JAM
+12479,Surya Nagari Express,JU,BDTS
+12480,Suryanagari Express,BDTS,JU
+12481,Dli Sgnr Express,DLI,SGNR
+12482,Intercity Express,SGNR,DLI
+12483,Kcvl Asr Sf Express,KCVL,ASR
+12484,Asr Kcvl Sf Express,ASR,KCVL
+12485,Ned Sgnr Sf Express,NED,SGNR
+12486,Sgnr Ned Express,SGNR,NED
+12487,Seemanchal Express,JBN,ANVT
+12488,Seemanchal Express,ANVT,JBN
+12489,Bkn Ddr Express,BKN,DDR
+12490,Ddr Bkn Sf Express,DDR,BKN
+12491,Mour Dhwaj Express,BJU,JAT
+12492,Maur Dhawaj Express,JAT,BJU
+12493,Darshan Express,MRJ,NZM
+12494,Darshan Express,NZM,MRJ
+12495,Pratap Express,BKN,KOAA
+12496,Pratap Express,KOAA,BKN
+12497,Shane Punjab,NDLS,ASR
+12498,Shane Punjab,ASR,NDLS
+12501,Agtl Garib Rath,KOAA,AGTL
+12502,Koaa Garib Rath,AGTL,KOAA
+12503,Agtl Humsafar,SMVB,AGTL
+12504,Humsafar Express,AGTL,SMVB
+12505,Northeast Express,KYQ,ANVT
+12506,North East Express,ANVT,KYQ
+12507,Aronai Express,TVC,SCL
+12508,Scl Tvc Express,SCL,TVC
+12509,Guwahati Express,SMVB,GHY
+12510,Ghy Smvb Express,GHY,SMVB
+12511,Raptisagar Express,GKP,KCVL
+12512,Raptisagar Express,KCVL,GKP
+12513,Sc Scl Sf Express,SC,SCL
+12514,Scl Sc Express,SCL,SC
+12515,Cbe Scl Sf Express,CBE,SCL
+12516,Scl Cbe Express,SCL,CBE
+12517,Ghy Garib Rath,KOAA,GHY
+12518,Koaa Garib Rath,GHY,KOAA
+12519,Ltt Agtl Ac Express,LTT,AGTL
+12520,Agtl Ltt Ac Express,AGTL,LTT
+12521,Rapti Sagar Express,BJU,ERS
+12522,Raptisagar Express,ERS,BJU
+12523,Njp Ndls Express,NJP,NDLS
+12524,Ndls Njp Sf Express,NDLS,NJP
+12527,Rmr Cdg Sf Express,RMR,CDG
+12528,Cdg Rmr Sf Express,CDG,RMR
+12529,Ppta Ljn Sf Express,PPTA,LJN
+12530,Ljn Ppta Sf Express,LJN,PPTA
+12531,Ljn Intercity,GKP,LJN
+12532,Gkp Intercity,LJN,GKP
+12533,Pushpak Express,LJN,CSMT
+12534,Pushpak Express,CSMT,LJN
+12535,Ljn R Garibrath,LJN,R
+12536,Ljn Garibrath,R,LJN
+12537,Manduadih Express,MFP,PRRB
+12538,Prrb Mfp Express,PRRB,MFP
+12539,Ypr Lko Express,YPR,LKO
+12540,Lko Ypr Express,LKO,YPR
+12546,Ltt-rxl Karmbhumi Express,LTT,RXL
+12547,Agc Sbib Sf Express,AGC,SBIB
+12548,Sbib Agc Sf Express,SBIB,AGC
+12549,Durg Mctm Sf,DURG,MCTM
+12550,Jat Durg Sf Express,MCTM,DURG
+12551,Smvb Kyq Ac Express,SMVB,KYQ
+12552,Kyq Smvb Ac Express,KYQ,SMVB
+12553,Vaishali Express,SHC,NDLS
+12554,Vaishali Express,NDLS,SHC
+12555,Gorakhdham Express,GKP,BTI
+12556,Gorakhdham Express,BTI,GKP
+12557,Sapt Kranti Express,MFP,ANVT
+12558,Sapt Kranti Express,ANVT,MFP
+12559,Shiv Ganga Express,BSBS,NDLS
+12560,Shiv Ganga Express,NDLS,BSBS
+12561,Swatantra S Express,JYG,NDLS
+12562,Swtantrta S Express,NDLS,JYG
+12565,Bihar S Kranti,DBG,NDLS
+12566,Bihar Sampark Kranti Express,NDLS,DBG
+12567,Rajya Rani Express,SHC,PNBE
+12568,Rajya Rani Express,PNBE,SHC
+12571,Anvt Humsafar,GKP,ANVT
+12572,Gkp Humsafar Express,ANVT,GKP
+12577,Bagmati Express,DBG,MYS
+12578,Bagmati Express,MYS,DBG
+12581,Bsbs Ndls Sfexp,BSBS,NDLS
+12582,Bsbs Sf Express,NDLS,BSBS
+12583,Anvt Double Dkr,LJN,ANVT
+12584,Ljn Double Dkr,ANVT,LJN
+12587,Amarnath Express,GKP,JAT
+12588,Gkp Sf Express,JAT,GKP
+12589,Gkp Sc Express,GKP,SC
+12590,Sc-gkp Express,SC,GKP
+12591,Gkp Ypr Express,GKP,YPR
+12592,Gorakhpur Express,YPR,GKP
+12593,Ljn Bpl G Rath,LJN,BPL
+12595,Anvt Humsafar,GKP,ANVT
+12596,Gkp Humsafar Express,ANVT,GKP
+12598,Csmt-gkp -antodaya Express,CSMT,GKP
+12601,Mas Maq Sf Mail,MAS,MAQ
+12602,Maq Chennaimail,MAQ,MAS
+12603,Mas Hyb Sf Express,MAS,HYB
+12604,Chennai Sf Express,HYB,MAS
+12605,Pallavan Sf Express,MS,KKDI
+12606,Pallavan Sf Express,KKDI,MS
+12607,Lalbagh Sf Express,MAS,SBC
+12608,Lalbagh Express,SBC,MAS
+12609,Mysuru Express,MAS,MYS
+12610,Chennai Express,MYS,MAS
+12611,Nzm Garibrath,MAS,NZM
+12612,Mas Garib Rath,NZM,MAS
+12613,Wodeyar Express,MYS,SBC
+12614,Wodeyar Express,SBC,MYS
+12615,Grand Trunk Express,MS,NDLS
+12616,Grand Trunk Express,NDLS,MS
+12617,Mangladweep Express,ERS,NZM
+12618,Nzm-ers Mangala Lksdp Express,NZM,ERS
+12619,Matsyagandha Express,LTT,MAQ
+12620,Matsyaganda Express,MAQ,LTT
+12621,Tamilnadu Sf Express,MAS,NDLS
+12622,Tamilnadu Express,NDLS,MAS
+12623,Mas Tvc Sf Mail,MAS,TVC
+12624,Tvc Chennaimail,TVC,MAS
+12625,Kerala Sf Express,TVC,NDLS
+12626,Kerala Express,NDLS,TVC
+12627,Karnataka Express,SBC,NDLS
+12628,Karnataka Express,NDLS,SBC
+12629,Sampark Kranti,YPR,NZM
+12630,Ypr S Krnti Express,NZM,YPR
+12631,Nellai Sf Express,MS,TEN
+12632,Nellai Sf Express,TEN,MS
+12633,Kanyakumari Express,MS,CAPE
+12634,Kanyakumari Express,CAPE,MS
+12635,Vaigai Sf Express,MS,MDU
+12636,Vaigai Sf Express,MDU,MS
+12637,Pandian Sf Express,MS,MDU
+12638,Pandian Sf Express,MDU,MS
+12639,Brindavan Sf Express,MAS,SBC
+12640,Brindavan Express,SBC,MAS
+12641,Tirukkural Express,CAPE,NZM
+12642,Nzm Cape Sf Express,NZM,CAPE
+12643,Tvc Nzm Sf Express,TVC,NZM
+12644,Swrn Jaynti Express,NZM,TVC
+12645,Millennium Express,ERS,NZM
+12646,Millenium Express,NZM,ERS
+12647,Kongu Sf Express,CBE,NZM
+12648,Kongu Express,NZM,CBE
+12649,Sampark Kranti,YPR,NZM
+12650,Ypr Sampark Krt,NZM,YPR
+12651,Nzm S Krnti Express,MDU,NZM
+12652,Smpark Krnt Express,NZM,MDU
+12653,Rockfort Sf Express,MS,TPJ
+12654,Rockfort Sf Express,TPJ,MS
+12655,Navjeevan Express,ADI,MAS
+12656,Navajivan Sf Express,MAS,ADI
+12657,Mas Sbc Sf Mail,MAS,SBC
+12658,Chennai Mail,SBC,MAS
+12659,Gurudev Sf Express,NCJ,SHM
+12661,Pothigai Sf Express,MS,SCT
+12662,Pothigai Sf Express,SCT,MS
+12663,Hwh Tpj Suf Express,HWH,TPJ
+12664,Tpj Hwh Sf Express,TPJ,HWH
+12665,Hwh Cape Sf Express,HWH,CAPE
+12666,Cape Hwh Sf Express,CAPE,HWH
+12667,Ms Ncj Sf Express,TBM,NCJ
+12668,Ncj Ms Sf Express,NCJ,TBM
+12669,Gangakaveri Express,MAS,CPR
+12670,Gangakaveri Express,CPR,MAS
+12671,Nilagiri Sf Express,MAS,MTP
+12672,Nilagiri Sf Express,MTP,MAS
+12673,Cheran Sf Express,MAS,CBE
+12674,Cheran Sf Express,CBE,MAS
+12675,Kovai Sf Express,MAS,CBE
+12676,Kovai Sf Express,CBE,MAS
+12677,Ernakulam Express,SBC,ERS
+12678,Sbc Intercity,ERS,SBC
+12679,Cbe Intercity,MAS,CBE
+12680,Mas Intercity,CBE,MAS
+12681,Mas Cbe Sf Express,MAS,CBE
+12682,Cbe Mas Sf Express,CBE,MAS
+12683,Ers Smvb Sf Express,ERS,SMVB
+12684,Ernakulam Sfexp,SMVB,ERS
+12685,Mas Maq Sf Express,MAS,MAQ
+12686,Maq Mas Sf Express,MAQ,MAS
+12687,Mdu Cdg Sf Express,MDU,CDG
+12688,Cdg Mdu Sf Express,CDG,MDU
+12689,Mas Ncj Sf Express,MAS,NCJ
+12690,Ncj Mas Sf Express,NCJ,MAS
+12691,Mas Smet Sf Express,MAS,SMET
+12692,Smet Mas Sf Express,SMET,MAS
+12693,Pearl City Express,MS,TN
+12694,Pearl City Express,TN,MS
+12695,Mas Tvc Sf Express,MAS,TVC
+12696,Tvc Mas Sf Express,TVC,MAS
+12697,Mas Tvc Sf Express,MAS,TVC
+12698,Tvc Mas Sf Express,TVC,MAS
+12701,Hussainsagar Express,CSMT,HYB
+12702,Hussain Sagar,HYB,CSMT
+12703,Falaknuma Express,HWH,SC
+12704,Falaknuma Express,SC,HWH
+12705,Sc Intercity,GNT,SC
+12706,Gnt Intercity,SC,GNT
+12707,Sampark Kranti,TPTY,NZM
+12708,Nzm Tpty Sf Express,NZM,TPTY
+12709,Simhapuri Express,GDR,SC
+12710,Simhapuri Express,SC,GDR
+12711,Pinakini Sf Express,BZA,MAS
+12712,Pinakini Sf Express,MAS,BZA
+12713,Satavahana Express,BZA,SC
+12714,Satavahana Express,SC,BZA
+12715,Sachkhand Express,NED,ASR
+12716,Asr-ned Sachkhand Express,ASR,NED
+12717,Ratnanchal Express,VSKP,BZA
+12718,Ratnachal Express,BZA,VSKP
+12719,Jp-hyb  Express,JP,HYB
+12720,Hyb Jp Sf Express,HYB,JP
+12721,Dakshin Express,HYB,NZM
+12722,Dakshin Express,NZM,HYB
+12723,Telangana Express,HYB,NDLS
+12724,Telangana Express,NDLS,HYB
+12725,Siddaganga Express,SBC,DWR
+12726,Siddaganga Express,DWR,SBC
+12727,Godavari Express,VSKP,HYB
+12728,Godavari Express,HYB,VSKP
+12731,Tpty Sc Sf Express,TPTY,SC
+12732,Sc Tpty Sf Express,SC,TPTY
+12733,Narayanadri Express,TPTY,LPI
+12734,Narayanadri Express,LPI,TPTY
+12735,Garibrath Express,SC,YPR
+12736,Sc Garib Rath,YPR,SC
+12737,Goutami Express,COA,LPI
+12738,Goutami Express,LPI,COA
+12739,Garib Rath,VSKP,SC
+12740,Garibrath Express,SC,VSKP
+12741,Vsg Patna Express,VSG,PNBE
+12742,Pnbe Vsg Express,PNBE,VSG
+12743,Vikramsimhapuri,GDR,BZA
+12744,Vikramsimhapuri,BZA,GDR
+12745,Sc Mugr Sf Express,SC,MUGR
+12746,Mugr Sc Sf Express,MUGR,SC
+12747,Palanadu Sf Express,GNT,VKB
+12748,Palanadu Sf Express,VKB,GNT
+12749,Mtm Bidr Sf Express,MTM,BIDR
+12750,Bidr Mtm Sf Express,BIDR,MTM
+12751,Jat Humsafar,NED,JAT
+12752,Ned Humsafar,JAT,NED
+12753,Sampark Kranti,NED,NZM
+12754,Marathwada S K,NZM,NED
+12755,Coa Bvc Sf Express,COA,BVC
+12756,Bvc Coa Sf Express,BVC,COA
+12757,Kaghaznagar Express,SC,SKZR
+12758,Skzr Sc Express,SKZR,SC
+12759,Charminar Sf Express,TBM,HYB
+12760,Charminar Express,HYB,TBM
+12761,Tpty Krmr Express,TPTY,KRMR
+12762,Krmr Tpty Express,KRMR,TPTY
+12763,Padmavathi Express,TPTY,SC
+12764,Padmavathi Express,SC,TPTY
+12765,Tpty Ami Express,TPTY,AMI
+12766,Ami Tpty Express,AMI,TPTY
+12767,Ned Src Sup Express,NED,SRC
+12768,Src Ned Suf Express,SRC,NED
+12769,Seven Hills Express,TPTY,SC
+12770,Seven Hills Express,SC,TPTY
+12771,Sc R Sf Express,SC,R
+12772,R Sc Sf Express,R,SC
+12773,Shm Sc Suf Express,SHM,SC
+12774,Sc Shm Ac  Express,SC,SHM
+12775,Cocanada Sf Express,CCT,LPI
+12776,Cocanada Sf Express,LPI,CCT
+12777,Kochuveli Express,UBL,KCVL
+12778,Kcvl Ubl Sf Express,KCVL,UBL
+12779,Goa Express,VSG,NZM
+12780,Goa Express,NZM,VSG
+12781,Swarna Jayanthi,MYS,NZM
+12782,Nzm Mys Sf Express,NZM,MYS
+12783,Vskp Sc Ac Express,VSKP,SC
+12784,Vskp Ac Sf Express,SC,VSKP
+12785,Kcg Mys Sf Express,KCG,MYS
+12786,Kacheguda Express,MYS,KCG
+12787,Ns Nsl Sf Express,NS,NSL
+12788,Nsl Ns Sf Express,NSL,NS
+12789,Kcg Mrdw Express,KCG,MRDW
+12790,Mrdw Kcg Express,MRDW,KCG
+12791,Sc Dnr Sf Express,SC,DNR
+12792,Secunderabad Express,DNR,SC
+12793,Rayalaseema Express,TPTY,NZB
+12794,Rayalaseema Express,NZB,TPTY
+12795,Lpi Intercity,BZA,LPI
+12796,Bza Intercity,LPI,BZA
+12797,Venkatadri Express,KCG,CTO
+12798,Venkatadri Express,CTO,KCG
+12801,Purushottam Sf,PURI,NDLS
+12802,Purushottam Express,NDLS,PURI
+12803,Swarna Jayanthi,VSKP,NZM
+12804,Vskp S Jyanti,NZM,VSKP
+12805,Janmabhoomi Express,VSKP,LPI
+12806,Janmabhoomi Express,LPI,VSKP
+12807,Samta Express,VSKP,NZM
+12808,Samta Express,NZM,VSKP
+12809,Howrah Mail,CSMT,HWH
+12810,Hwh Csmt Mail,HWH,CSMT
+12811,Hatia Express,LTT,HTE
+12812,Hte Ltt Express,HTE,LTT
+12813,Steel Express,HWH,TATA
+12814,Steel Express,TATA,HWH
+12815,Nandankanan Sf,PURI,ANVT
+12816,Nandankanan Express,ANVT,PURI
+12817,Swarnjayanti Express,HTE,ANVT
+12818,Jharkhand Express,ANVT,HTE
+12819,Sampark Kr Sf,BBS,ANVT
+12820,Bbs S Kranti Express,ANVT,BBS
+12821,Dhauli Express,SHM,PURI
+12822,Dhauli Sf Express,PURI,SHM
+12823,Cg Smprk Kranti,DURG,NZM
+12824,Cg S Kranti,NZM,DURG
+12825,Rnc Anvt Sf Express,RNC,ANVT
+12826,Anvt Rnc Sf Express,ANVT,RNC
+12827,Hwh Prr Suf Express,HWH,PRR
+12828,Prr Hwh Suf Express,PRR,HWH
+12829,Mas Bbs Sf Express,MAS,BBS
+12830,Bbs Mas S F,BBS,MAS
+12833,Adi Hwh Express,ADI,HWH
+12834,Hwh Adi Suf Express,HWH,ADI
+12835,Hte Smvb Express,HTE,SMVB
+12836,Smvb Hatia Express,SMVB,HTE
+12837,Hwh Puri Sf Express,HWH,PURI
+12838,Puri Hwh Sf Express,PURI,HWH
+12839,Chennai Mail,HWH,MAS
+12840,Mas Hwh Sf Mail,MAS,HWH
+12841,Coromandal Express,SHM,MAS
+12842,Coromandel Express,MAS,SHM
+12843,Puri Adi S F,PURI,ADI
+12844,Adi Puri Sf Express,ADI,PURI
+12845,Bbs Smvb S F,BBS,SMVB
+12846,Bhubaneswar Express,SMVB,BBS
+12849,Bsp Pune Sf Express,BSP,PUNE
+12850,Pune Bsp Sf Express,PUNE,BSP
+12851,Bsp Mas Sf Express,BSP,MAS
+12852,Mas Bsp Sf Express,MAS,BSP
+12853,Amarkantak Express,DURG,BPL
+12854,Amarkantak Express,BPL,DURG
+12855,Intercity Express,BSP,NITR
+12856,Intercity Express,NITR,BSP
+12857,Tamrolipta Express,HWH,DGHA
+12858,Tamrolipta Express,DGHA,HWH
+12859,Gitanjali Express,CSMT,HWH
+12860,Gitanjali Express,HWH,CSMT
+12861,Vskp Mbnr Sf,VSKP,MBNR
+12862,Mbnr Vskp Sf Express,MBNR,VSKP
+12863,Hwh Smvb Express,HWH,SMVB
+12864,Smvb Howrah Express,SMVB,HWH
+12867,Hwh Pdy Suf Express,HWH,PDY
+12868,Pdy Hwh Sf Express,PDY,HWH
+12869,Csmt Howrah Express,CSMT,HWH
+12870,Hwh Csmt Sf Express,HWH,CSMT
+12871,Tig Ispat Express,HWH,TIG
+12872,Tig Ispat Express,TIG,HWH
+12873,Swarnjayanti Express,HTE,ANVT
+12874,Anvt Hte Sf Express,ANVT,HTE
+12875,Neelachal Sf Express,PURI,ANVT
+12876,Neelanchal Express,ANVT,PURI
+12877,Ndls Garib Rath,RNC,NDLS
+12878,Rnc Garib Rath,NDLS,RNC
+12879,Ltt Bbs Express,LTT,BBS
+12880,Bbs Ltt S F,BBS,LTT
+12881,Puri Garib Rath,SHM,PURI
+12882,Garib Rath,PURI,SHM
+12883,Rupashi Bangla,SRC,PRR
+12884,Rupashi Bangla,PRR,HWH
+12885,Aranyak Express,SHM,BJE
+12886,Aranyak Express,BJE,SHM
+12887,Shm Puri Sf Express,SHM,PURI
+12888,Puri Shm Sf,PURI,SHM
+12889,Tata Smvb Sf Express,TATA,SMVB
+12890,Smvb Tata Express,SMVB,TATA
+12891,Bgy Puri Sf Express,BGY,PURI
+12892,Puri Bgy S F,PURI,BGY
+12893,Bbs Snpu Sf Express,BBS,SNPU
+12894,Snpu Bbs Sf Express,SNPU,BBS
+12895,Shm Puri Sf Express,SHM,PURI
+12896,Puri Shm Sf,PURI,SHM
+12897,Pdy Bbs Sf Express,PDY,BBS
+12898,Bbs Pdy Sf Express,BBS,PDY
+12901,Gujrat Mail,DDR,ADI
+12902,Gujrat Mail,ADI,DDR
+12903,Golden Temple,MMCT,ASR
+12904,Golden Temple M,ASR,MMCT
+12905,Shalimar Sf Express,PBR,SHM
+12906,Shm Pbr Suf Express,SHM,PBR
+12907,Bdts Smprk K Express,BDTS,NZM
+12908,Mhrst Smprk K Express,NZM,BDTS
+12909,Nzm Garib Rath,BDTS,NZM
+12910,Bdts Garibrath,NZM,BDTS
+12911,Bl Haridwar Express,BL,HW
+12912,Valsad Sf Express,HW,BL
+12913,Trishatabdi Express,INDB,NGP
+12914,Ngp Indb Sup Express,NGP,INDB
+12915,Ashram Express,SBIB,DLI
+12916,Ashram Express,DLI,SBIB
+12917,Gujrat S Kranti,ADI,NZM
+12918,Gujrat S Kranti,NZM,ADI
+12919,Malwa Express,DADN,SVDK
+12920,Malwa Express,SVDK,DADN
+12921,St Flying Rani,MMCT,ST
+12922,Flying Rani Express,ST,MMCT
+12923,Dadn Trishatabdi,DADN,NGP
+12924,Ngp Dadn Express,NGP,DADN
+12925,Paschim Express,MMCT,ASR
+12926,Paschim Express,ASR,MMCT
+12927,Ddr Eknr Sf Express,DDR,EKNR
+12928,Eknr Ddr Sf Express,EKNR,DDR
+12929,Brc Intercity,BL,BRC
+12930,Bl Intercity,BRC,BL
+12931,Adi Double Deckr,MMCT,ADI
+12932,Mmct Doubledecke,ADI,MMCT
+12933,Karnavati Express,MMCT,ADI
+12934,Karnavati Express,ADI,MMCT
+12935,Bdts St Sf Express,BDTS,ST
+12936,St Bdts Sf Express,ST,BDTS
+12937,Hwh Garbha Express,GIMB,HWH
+12938,Garbha Express,HWH,GIMB
+12939,Pune Jaipur Express,PUNE,JP
+12940,Jp Pune Express,JP,PUNE
+12941,Parasnath Express,BVC,ASN
+12942,Parasnath Express,ASN,BVC
+12943,Udyogkarmi Express,BL,CNB
+12944,Cnb Bl Express,CNB,BL
+12945,Banaras Sf Express,VRL,BSBS
+12946,Bsbs Vrl Sf Express,BSBS,VRL
+12947,Azimabad Express,ADI,PNBE
+12948,Azimabad Express,PNBE,ADI
+12949,Kaviguru Express,PBR,SRC
+12950,Kaviguru Express,SRC,PBR
+12951,Ndls Tejas Raj,MMCT,NDLS
+12952,Mmct Tejas Raj,NDLS,MMCT
+12953,Ak Tejas Raj Express,MMCT,NZM
+12954,Ak Tejas Raj Express,NZM,MMCT
+12955,Mmct Jaipur Sf,MMCT,JP
+12956,Jp Mmct Sf Express,JP,MMCT
+12957,Sbib Ndls Raj,SBIB,NDLS
+12958,Swran J Rajdhani,NDLS,SBIB
+12959,Bdts Bhuj Express,BDTS,BHUJ
+12960,Bhuj Bdts Express,BHUJ,BDTS
+12961,Avantika Express,MMCT,INDB
+12962,Avantika Express,INDB,MMCT
+12963,Mewar Express,NZM,UDZ
+12964,Mewar Express,UDZ,NZM
+12965,Bdts Bhuj Sfast,BDTS,BHUJ
+12966,Bhuj Bdts Sfast,BHUJ,BDTS
+12967,Mas Jp Sf Express,MAS,JP
+12968,Jp Chennai Express,JP,MAS
+12969,Cbe Jaipur Express,CBE,JP
+12970,Jaipur Cbe Express,JP,CBE
+12971,Bdts Bvc Sf Express,BDTS,BVC
+12972,Bvc Bdts Sf Express,BVC,BDTS
+12973,Indb Jp Sf Express,INDB,JP
+12974,Jp Indb Sf Express,JP,INDB
+12975,Mys Jp Express,MYS,JP
+12976,Jp Mysore Express,JP,MYS
+12977,Marusagar Sf Express,ERS,AII
+12978,Maru Sagar Express,AII,ERS
+12979,Bdts Jaipur Sf,BDTS,JP
+12980,Jp Bdts Express,JP,BDTS
+12981,Jp Asv Superfast,JP,ASV
+12982,Asv Jp Sf Express,ASV,JP
+12983,Aii Cdg G Rath,AII,CDG
+12984,Cdg Aii G Rath,CDG,AII
+12985,Double Decker,JP,DEE
+12986,Jp Double Dcker,DEE,JP
+12987,Sdah Aii Sf Express,SDAH,AII
+12988,Aii Sdah Sf Express,AII,SDAH
+12989,Ddr Ajmer Sf Express,DDR,AII
+12990,Aii Ddr Express,AII,DDR
+12991,Udz Jp Express,UDZ,JP
+12992,Jp Udz Express,JP,UDZ
+12993,Gimb Puri Sf Express,GIMB,PURI
+12994,Puri Gimb Sf,PURI,GIMB
+12995,Bdts Aii Sf Express,BDTS,AII
+12996,Aii Bdts Sf Express,AII,BDTS
+12997,Barmer Humsafar,BDTS,BME
+12998,Bme Bdts,BME,BDTS
+13005,Hwh Asr Mail,HWH,ASR
+13006,Asr Hwh Mail,ASR,HWH
+13009,Doon Express,HWH,YNRK
+13010,Doon Express,YNRK,HWH
+13011,Mldt Intercity,HWH,MLDT
+13012,Hwh Intercity,MLDT,HWH
+13015,Kaviguru Express,HWH,JMP
+13016,Kaviguru Express,JMP,HWH
+13017,Ganadevta Express,HWH,AZ
+13018,Ganadevta Express,AZ,HWH
+13019,Bagh Express,HWH,KGM
+13020,Bagh Express,KGM,HWH
+13021,Mithila Express,HWH,RXL
+13022,Mithila Express,RXL,HWH
+13023,Hwh Gaya Express,HWH,GAYA
+13024,Gaya Hwh Express,GAYA,HWH
+13025,Hwh Bpl Express,HWH,BPL
+13026,Bpl Hwh Express,BPL,HWH
+13027,Kaviguru Express,HWH,AZ
+13028,Kaviguru Express,AZ,HWH
+13029,Hwh Mka Express,HWH,MKA
+13030,Mka Hwh  Express,MKA,HWH
+13031,Hwh- Jyg Express,HWH,JYG
+13033,Hwh Kir Express,HWH,KIR
+13034,Kir Hwh Express,KIR,HWH
+13043,Hwh Rxl Express,HWH,RXL
+13044,Rxl Hwh Express,RXL,HWH
+13045,Mayurakshi Express,HWH,DGHR
+13046,Mayurakshi Express,DGHR,HWH
+13053,Kulik Express,HWH,RDP
+13054,Kulik Express,RDP,HWH
+13063,Hwh Blgt Express,HWH,BLGT
+13064,Blgt Hwh Express,BLGT,HWH
+13071,Hwh Jmp Express,HWH,JMP
+13072,Jmp Hwh Express,JMP,HWH
+13103,Bhagirathi Express,SDAH,LGL
+13104,Bhagirathi Express,LGL,SDAH
+13105,Sdah Bui Express,SDAH,BUI
+13106,Bui Sdah Express,BUI,SDAH
+13113,Hazarduari Express,KOAA,LGL
+13114,Hazarduari Express,LGL,KOAA
+13117,Koaa Lgl Express,KOAA,LGL
+13118,Lgl Koaa Express,LGL,KOAA
+13121,Koaa Gct Express,KOAA,GCT
+13122,Gct Koaa Express,GCT,KOAA
+13135,Koaa Jyg Express,KOAA,JYG
+13136,Jyg Koaa Express,JYG,KOAA
+13137,Koaa Amh Express,KOAA,AMH
+13138,Amh Koaa Express,AMH,KOAA
+13141,Teesta Torsha,SDAH,NOQ
+13142,Teesta Torsha,NOQ,SDAH
+13145,Koaa Rdp Express,KOAA,RDP
+13146,Rdp Koaa Express,RDP,KOAA
+13147,Uttar Banga Express,SDAH,BXT
+13148,Uttar Banga Express,BXT,SDAH
+13149,Kanchan Kanya,SDAH,APDJ
+13150,Kanchan Kanya,APDJ,SDAH
+13151,Koaa Jat Express,KOAA,JAT
+13152,Kolkata Express,JAT,KOAA
+13153,Gour Express,SDAH,MLDT
+13154,Gour Express,MLDT,SDAH
+13155,Mithilanchal Express,KOAA,SMI
+13156,Mithilanchal Express,SMI,KOAA
+13157,Trihut Express,KOAA,MFP
+13158,Tirhut Express,MFP,KOAA
+13159,Koaa Jbn Express,KOAA,JBN
+13160,Jbn Koaa Express,JBN,KOAA
+13161,Koaa Blgt Express,KOAA,BLGT
+13162,Blgt Koaa Express,BLGT,KOAA
+13163,Hate Bazare Express,SDAH,SHC
+13164,Hate Bazare Express,SHC,SDAH
+13165,Koaa Smi Express,KOAA,SMI
+13166,Smi Koaa Express,SMI,KOAA
+13167,Koaa Agc Express,KOAA,AGC
+13168,Agc Koaa Express,AGC,KOAA
+13169,Hate Bazare Express,SDAH,SHC
+13170,Hate Bazare Express,SHC,SDAH
+13173,Kanchanjunga,SDAH,SBRM
+13174,Kanchanjunga,SBRM,SDAH
+13175,Kanchanjunga,SDAH,SCL
+13176,Kanchanjunga,SCL,SDAH
+13181,Kaziranga Express,KOAA,SHTT
+13182,Kaziranga Express,SHTT,KOAA
+13185,Ganga Sagar Express,SDAH,JYG
+13186,Ganga Sagar Express,JYG,SDAH
+13187,Sdah Rph Express,SDAH,RPH
+13188,Rph Sdah Express,RPH,SDAH
+13189,Sdah  Blgt  Express,SDAH,BLGT
+13190,Blgt Sdah Express,BLGT,SDAH
+13201,Pnbe Ltt Express,PNBE,LTT
+13202,Ltt Patna Express,LTT,PNBE
+13205,Janhit Express,PRNC,PPTA
+13206,Janhit Express,PPTA,PRNC
+13211,Jbn Dnr Express,JBN,DNR
+13212,Dnr Jbn Express,DNR,JBN
+13213,Jbn Shc Express,JBN,SHC
+13214,Shc Jbn Express,SHC,JBN
+13225,Intercity Express,JYG,DNR
+13226,Intercity Express,DNR,JYG
+13227,Shc Intercity,SHC,RJPB
+13228,Rjpb Intercity,RJPB,SHC
+13229,Goda Rjpb Express,GODA,RJPB
+13230,Rjpb Goda Express,RJPB,GODA
+13233,Rajgriha Express,RGD,DNR
+13234,Rajgriha Express,DNR,RGD
+13235,Intercity Express,SBG,DNR
+13236,Intercity Express,DNR,SBG
+13237,Pnbe Kota Express,PNBE,KOTA
+13238,Kota Pnbe Express,KOTA,PNBE
+13239,Pnbe Kota Express,PNBE,KOTA
+13240,Kota Pnbe Express,KOTA,PNBE
+13241,Intercity Express,BAKA,RJPB
+13242,Rjpb Banka Express,RJPB,BAKA
+13243,Intercity Express,PNBE,BBU
+13244,Intercity Express,BBU,PNBE
+13245,Capital Express,NJP,RJPB
+13246,Capital Express,RJPB,NJP
+13247,Capital Express,KYQ,RJPB
+13248,Kyq Capital Express,RJPB,KYQ
+13249,Intercity Express,PNBE,BBU
+13250,Intercity Express,BBU,PNBE
+13281,Dbrg Rjpb Express,DBRG,RJPB
+13282,Rjpb Dbrg Express,RJPB,DBRG
+13287,South Bihar Express,DURG,ARA
+13288,South Bihar Express,ARA,DURG
+13301,Subarnarekha Express,DHN,TATA
+13302,Subarnarekha Express,TATA,DHN
+13303,Intercity Express,DHN,RNC
+13304,Intercity Express,RNC,DHN
+13307,Gangasutlej Express,DHN,FZR
+13308,Gangasatluj Express,FZR,DHN
+13319,Dumk Rnc Express,DUMK,RNC
+13320,Rnc Dumk Express,RNC,DUMK
+13329,Gangadamodar Express,DHN,PNBE
+13330,Gangadamodar Express,PNBE,DHN
+13331,Dhn Pnbe Express,DHN,PNBE
+13332,Pnbe Dhn Express,PNBE,DHN
+13333,Dumk Pnbe Express,DUMK,PNBE
+13334,Pnbe Dumk Express,PNBE,DUMK
+13347,Palamou Express,BRKA,PNBE
+13348,Palamu Express,PNBE,BRKA
+13349,Sgrl Pnbe Express,SGRL,PNBE
+13350,Pnbe Sgrl Express,PNBE,SGRL
+13351,Dhn Alappuzha Express,DHN,ALLP
+13352,Allp Dhn Express,ALLP,DHN
+13401,Intercity Express,BGP,DNR
+13402,Intercity Express,DNR,BGP
+13403,Vananchal Express,RNC,BGP
+13404,Vananchal Express,BGP,RNC
+13409,Intercity Express,MLDT,KIUL
+13410,Intercity Express,KIUL,MLDT
+13413,Farakka Express,BLGT,BTI
+13414,Farkka Express,BTI,BLGT
+13415,Mldt Pnbe Express,MLDT,PNBE
+13416,Pnbe Mldt Expre,PNBE,MLDT
+13417,Dgha Mldt Express,DGHA,MLDT
+13418,Mldt Dgha Express,MLDT,DGHA
+13419,Janasewa Express,BGP,MFP
+13420,Jansewa Express,MFP,BGP
+13421,Ndae Mldt Express,NDAE,MLDT
+13422,Mldt Ndae Express,MLDT,NDAE
+13423,Bgp Aii Express,BGP,AII
+13424,Aii Bgp Express,AII,BGP
+13425,Mldt St Express,MLDT,ST
+13426,St Maldatown Express,ST,MLDT
+13429,Mldt Anvt Express,MLDT,ANVT
+13430,Anvt Mldt Express,ANVT,MLDT
+13431,Ndae Blgt Express,NDAE,BLGT
+13432,Blgt Ndae Express,BLGT,NDAE
+13433,Amrit Bharat Express,SMVB,MLDT
+13434,Amrit Bharat Express,MLDT,SMVB
+13465,Intercity Express,HWH,MLDT
+13466,Intercity Express,MLDT,HWH
+13483,Farakka Express,BLGT,BTI
+13484,Farakka Express,BTI,BLGT
+13506,Asn Dgha Express,ASN,DGHA
+13507,Asn Gkp Express,ASN,GKP
+13508,Gkp Asn Express,GKP,ASN
+13509,Asn Gd Express,ASN,GD
+13510,Gd Asn Express,GD,ASN
+13511,Tata Asn Express,TATA,ASN
+13512,Asn Tata Express,ASN,TATA
+13513,Asn Hte Express,ASN,HTE
+13514,Hte Asn Express,HTE,ASN
+14003,Mldt Ndls Express,MLDT,NDLS
+14004,Ndls Mldt Express,NDLS,MLDT
+14005,Lichchvi Express,SMI,ANVT
+14006,Lichchivi Express,ANVT,SMI
+14007,Sadbhavana Express,RXL,ANVT
+14008,Sadhbhawna Express,ANVT,RXL
+14009,Champrn Satygrh,BMKI,ANVT
+14010,Champrn Satygrh,ANVT,BMKI
+14013,Sln Anvt Express,SLN,ANVT
+14014,Sultanpur Express,ANVT,SLN
+14015,Sadbhavana Express,RXL,ANVT
+14016,Sadhbhawna Express,ANVT,RXL
+14017,Sadbhavana Express,RXL,ANVT
+14018,Sadbhavna Express,ANVT,RXL
+14029,Sgnr Dli Express,SGNR,DLI
+14030,Mut Sgnr Express,MUT,SGNR
+14033,Jammu Mail,SFG,SVDK
+14034,Jammu Mail,SVDK,SFG
+14035,Dauladhar Express,DEE,PTK
+14036,Dauladhar Express,PTK,DEE
+14037,Porvotr S Krnti,SCL,NDLS
+14038,Ndls Scl Express,NDLS,SCL
+14041,Mussoorie Express,DLI,DDN
+14042,Mussoorie Express,DDN,DLI
+14053,Himachal Express,DLI,DLPC
+14054,Himachal Express,DLPC,DLI
+14085,Tkj Ssa Express,TKJ,SSA
+14086,Sirsa Express,SSA,TKJ
+14087,Runicha Express,DLI,JSM
+14088,Runicha Express,JSM,DLI
+14089,Anvt Ktw Express,ANVT,KTW
+14090,Ktw Anvt Express,KTW,ANVT
+14101,Pygs-cnb Express,PYGS,CNB
+14102,Cnb-pygs Express,CNB,PYGS
+14109,Ctkd-cnb Express,CKTD,CNB
+14110,Cnb-cktd Express,CNB,CKTD
+14113,Sfg Ddn Express,SFG,DDN
+14114,Ddn Sfg Express,DDN,SFG
+14115,Dadn Pryj Express,DADN,PRYJ
+14116,Pryj Dadn Express,PRYJ,DADN
+14117,Kalindi Express,PRYJ,BNW
+14118,Kalindi Express,BNW,PRYJ
+14119,Kgm Ddn Express,KGM,DDN
+14120,Ddn Kgm Express,DDN,KGM
+14123,Pbh-cnb Intercity,MBDP,CNB
+14124,Cnb-mbdp Intercity,CNB,MBDP
+14151,Cnb Anvt Express,CNB,ANVT
+14152,Anvt Cnb Express,ANVT,CNB
+14163,Sangam Express,SFG,MTC
+14164,Sangam Express,MTC,SFG
+14203,Lko Intercity,BSB,LKO
+14204,Bsb Intercity,LKO,BSB
+14205,Ayodhya Express,AYC,DLI
+14206,Ayodhya Express,DLI,AYC
+14207,Padmavat Express,MBDP,DLI
+14208,Padmavat Express,DLI,MBDP
+14209,Pygs Lko Intrct,PYGS,LKO
+14210,Lko Pygs Intrct,LKO,PYGS
+14211,Ndls Intercity,AGC,NDLS
+14212,Intercity Express,NDLS,AGC
+14213,Brk Intercity,BSB,BRK
+14214,Bsb Intercity,BRK,BSB
+14215,Ganga Gomti Express,PYGS,LKO
+14216,Ganga Gomti Express,LKO,PYGS
+14217,Unchahar Express,PYGS,CDG
+14218,Unchahar Express,CDG,PYGS
+14223,Budh Purnima Express,RGD,BSB
+14224,Budhpurnima Express,BSB,RGD
+14229,Pygs Ynrk Express,PYGS,YNRK
+14230,Ynrk Pygs Express,YNRK,PYGS
+14231,Manwar Sangmexp,PYGS,BST
+14232,Manwarsangam Express,BST,PYGS
+14233,Saryu Express,PYGS,MUR
+14234,Saryu Express,MUR,PYGS
+14235,Bsb Be Express,BSB,BE
+14236,Be Bsb Express,BE,BSB
+14241,Nauchandi Express,PYGS,SRE
+14242,Nauchandi Express,SRE,PYGS
+14259,Ekatmata Express,GAYA,LKO
+14260,Ekatmata Express,LKO,GAYA
+14261,Ekatmata Express,GAYA,LKO
+14262,Ekatmata Express,LKO,GAYA
+14307,Pygs Be Express,PYGS,BE
+14308,Be Pygs Express,BE,PYGS
+14309,Ujjaini Express,LMNR,YNRK
+14310,Ujjaini Express,YNRK,LMNR
+14311,Ala Hazrat Express,BE,BHUJ
+14312,Bhuj Be Express,BHUJ,BE
+14313,Bareilly Express,LTT,BE
+14314,Be Ltt Express,BE,LTT
+14315,Intercity Express,BE,NDLS
+14316,Intercity Express,NDLS,BE
+14317,Lmnr Ynrk Express,LMNR,YNRK
+14318,Ynrk Lmnr Express,YNRK,LMNR
+14319,Indb Barelly Express,INDB,BE
+14320,Be Indb Express,BE,INDB
+14321,Be Bhuj Express,BE,BHUJ
+14322,Bhuj Be Express,BHUJ,BE
+14323,Ndls Rok Express,NDLS,ROK
+14324,Rok Ndls Express,ROK,NDLS
+14503,Klk Svdk Express,KLK,SVDK
+14504,Svdk Klk Express,SVDK,KLK
+14505,Asr Nldm Express,ASR,NLDM
+14506,Nldm Asr Express,NLDM,ASR
+14507,Dli Fka Express,DLI,FKA
+14508,Fka Dli Express,FKA,DLI
+14521,Dli Umb Express,DLI,UMB
+14522,Ambala-delhi Exp Special,UMB,DLI
+14523,Harihar Express,BJU,UMB
+14524,Harihar Express,UMB,BJU
+14525,Umb Sgnr Express,UMB,SGNR
+14526,Umb Intcity Express,SGNR,UMB
+14605,Ynrk Jat Express,YNRK,JAT
+14606,Jat Ynrk Express,JAT,YNRK
+14609,Hemkunt Express,YNRK,SVDK
+14610,Hemkunt Express,SVDK,YNRK
+14611,Gct Svdk Express,GCT,SVDK
+14612,Svdk-gct Express,SVDK,GCT
+14613,Cdg-fzr Express,SASN,FZR
+14614,Fzr-cdg- Express,FZR,SASN
+14615,Lku Asr Express,LKU,ASR
+14616,Asr Lku Express,ASR,LKU
+14619,Tripura Sundari,AGTL,FZR
+14620,Tripura Sundari,FZR,AGTL
+14623,Patalkot Express,SEY,FZR
+14624,Patalkot Express,FZR,SEY
+14631,Ddn Asr Express,DDN,ASR
+14632,Asr Ddn Express,ASR,DDN
+14649,Saryu Yamuna Express,JYG,ASR
+14650,Saryuyamuna Express,ASR,JYG
+14653,Hsr Asr Express,HSR,ASR
+14654,Asr Hsr Express,ASR,HSR
+14661,Shalimar Malani,BME,JAT
+14662,Shalimar Malani,JAT,BME
+14673,Shaheed Express,JYG,ASR
+14674,Shaheed Express,ASR,JYG
+14681,Ndls Juc Express,NDLS,JUC
+14682,Juc Ndls Express,JUC,NDLS
+14701,Aravali Express,SGNR,BDTS
+14702,Aravali Express,BDTS,SGNR
+14704,Lgh Jsm Express,LGH,JSM
+14707,Ranakpur Express,LGH,DDR
+14708,Ranakpur Express,DDR,LGH
+14713,Sikr Dee Express,SIKR,DEE
+14714,Dee Sikr Express,DEE,SIKR
+14716,Jp Hsr Express,JP,HSR
+14717,Bkn Hw Express,BKN,HW
+14718,Hw Bkn Express,HW,BKN
+14719,Bkn Asr Express,BKN,ASR
+14720,Asr Bkn Express,ASR,BKN
+14721,Ju Bti Express,JU,BTI
+14722,Abs Ju Express,ABS,JU
+14725,Bnw Mtj Express,BNW,MTJ
+14726,Mtj Bnw Express,MTJ,BNW
+14727,Sgnr Tkj Express,SGNR,TKJ
+14728,Tkj Sgnr Express,TKJ,SGNR
+14731,Kisan Express,DLI,BTI
+14732,Kisan Express,BTI,DLI
+14733,Bti Jp Express,BTI,JP
+14795,Bnw Klk Express,BNW,KLK
+14796,Klk Bnw Express,KLK,BNW
+14801,Ju Indb Express,JU,INDB
+14802,Indb Ju Express,INDB,JU
+14805,Barmer Ac Express,YPR,BME
+14806,Bme Ypr Ac Express,BME,YPR
+14807,Ju Ddr Express,JU,DDR
+14808,Dadar Ju Express,DDR,JU
+14813,Ju Bpl Express,JU,BPL
+14814,Bpl Ju Express,BPL,JU
+14815,Sgnr Rksh Express,SGNR,RKSH
+14816,Rksh Sgnr Express,RKSH,SGNR
+14853,Marudhar Express,BCY,JU
+14854,Marudhar Express,JU,BCY
+14863,Marudhar Express,BCY,JU
+14864,Marudhar Express,JU,BCY
+14865,Marudhar Express,BCY,JU
+14866,Marudhar Express,JU,BCY
+14887,Rksh Bme Express,RKSH,BME
+14888,Bme Rksh Express,BME,RKSH
+15001,Mfp Ddn Express,MFP,DDN
+15002,Ddn Mfp Express,DDN,MFP
+15003,Chaurichaura Express,CPA,GKP
+15004,Chaurichaura Express,GKP,CPA
+15005,Rapti Ganga Express,GKP,DDN
+15006,Ddn Gkp Express,DDN,GKP
+15007,Krishak Express,BCY,LJN
+15008,Ljn Bcy Express,LJN,BCY
+15009,Gkp Mln Express,GKP,MLN
+15010,Mln Gkp Express,MLN,GKP
+15011,Ljn Cdg Express,LJN,CDG
+15012,Cdg Ljn Express,CDG,LJN
+15013,Ranikhet Express,JSM,KGM
+15014,Ranikhet Express,KGM,JSM
+15015,Asr Lku Express,ASR,LKU
+15016,Lku Asr Express,LKU,ASR
+15017,Ltt Gkp Express,LTT,GKP
+15018,Gkp Ltt Express,GKP,LTT
+15019,Ddn Tpu Express,DDN,TPU
+15020,Tpu Ddn Express,TPU,DDN
+15021,Shm Gkp Express,SHM,GKP
+15022,Gkp Shm Express,GKP,SHM
+15023,Gkp Ypr Express,GKP,YPR
+15024,Ypr Gkp Express,YPR,GKP
+15025,Mau Anvt Express,MAU,ANVT
+15026,Anvt Mau Express,ANVT,MAU
+15027,Maurya Express,SBP,GKP
+15028,Maurya Express,GKP,SBP
+15029,Gkp Pune Express,GKP,PUNE
+15030,Pune Gkp Express,PUNE,GKP
+15035,Utr Samprk Krti,DLI,KGM
+15036,Utr Smprk K Express,KGM,DLI
+15037,Ksj Intercity,CPA,KSJ
+15038,Cpa Intercity,KSJ,CPA
+15039,Ksj Intercity,CPA,KSJ
+15040,Cpa Intercity,KSJ,CPA
+15043,Ljn Kgm Express,LJN,KGM
+15044,Kgm Ljn Express,KGM,LJN
+15045,Gkp Okha Express,GKP,OKHA
+15046,Okha Gkp Express,OKHA,GKP
+15047,Purbanchal Express,KOAA,GKP
+15048,Purvanchal Express,GKP,KOAA
+15049,Purbanchal Express,KOAA,GKP
+15050,Gkp Koaa Express,GKP,KOAA
+15051,Purbanchal Express,KOAA,GKP
+15052,Gkp Koaa Express,GKP,KOAA
+15053,Cpr Ljn Express,CPR,LJN
+15054,Ljn Cpr Express,LJN,CPR
+15055,Af Rmr Express,AF,RMR
+15056,Rmr Af Express,RMR,AF
+15057,Gkp Anvt Express,GKP,ANVT
+15058,Anvt Gkp Express,ANVT,GKP
+15059,Lku Anvt Express,LKU,ANVT
+15060,Anvt Lku Express,ANVT,LKU
+15065,Gkp Pnvl Express,GKP,PNVL
+15066,Pnvl Gkp Express,PNVL,GKP
+15067,Gkp Bdts Express,GKP,BDTS
+15068,Bdts Gkp Express,BDTS,GKP
+15069,Gkp Ash Express,GKP,ASH
+15070,Ash Gkp Express,ASH,GKP
+15073,Tribeni Express,SGRL,TPU
+15074,Triveni Express,TPU,SGRL
+15075,Tribeni Express,SKTN,TPU
+15076,Triveni Express,TPU,SKTN
+15077,Kyq Gtnr Express,KYQ,GTNR
+15078,Gtnr Kyq Express,GTNR,KYQ
+15083,Cpr Fbd Express,CPR,FBD
+15084,Fbd Cpr Express,FBD,CPR
+15089,Goda Gtnr  Express,GODA,GTNR
+15090,Gtnr Godda Express,GTNR,GODA
+15097,Amarnath Express,BGP,JAT
+15098,Amarnath Express,JAT,BGP
+15103,Bsbs Intercity,GKP,BSBS
+15104,Gkp Intercity,BSBS,GKP
+15105,Cpr Ntv Express,CPR,NTV
+15106,Ntv Cpr Express,NTV,CPR
+15107,Bsbs Lko Express,BSBS,LKO
+15108,Lko Bsbs Express,LKO,BSBS
+15113,Gtnr-cpr Express,GTNR,CPR
+15114,Cpr -gtnr  Express,CPR,GTNR
+15115,Cpr Dli Express,CPR,DLI
+15116,Dli Cpr Express,DLI,CPR
+15119,Bsbs Ddn Express,BSBS,DDN
+15120,Ddn Bsbs Express,DDN,BSBS
+15125,Bsbs-pnbe Janshatabd Express,BSBS,PNBE
+15126,Janshatabdi Express,PNBE,BSBS
+15127,Kashi V Nath Express,BSBS,NDLS
+15128,Kashi V Nath Express,NDLS,BSBS
+15131,Gkp Bcy Express,GKP,BCY
+15132,Bcy Gkp Express,BCY,GKP
+15159,Sarnath Express,CPR,DURG
+15160,Sarnath Express,DURG,CPR
+15181,Mau Ltt Express,MAU,LTT
+15182,Ltt Mau Express,LTT,MAU
+15203,Bju Ljn Express,BJU,LJN
+15204,Ljn Bju Express,LJN,BJU
+15205,Chitrakoot Express,LJN,JBP
+15206,Chitrakoot Express,JBP,LJN
+15211,Dbg-asr Jannaayak Express,DBG,ASR
+15227,Muzaffarpur Express,SMVB,MFP
+15228,Mfp Smvb Express,MFP,SMVB
+15231,Bju Gondia Express,BJU,G
+15232,Gondia Bju Express,G,BJU
+15233,Koaa Dbg Express,KOAA,DBG
+15234,Dbg Koaa Express,DBG,KOAA
+15235,Hwh Dbg Express,HWH,DBG
+15236,Dbg Hwh Express,DBG,HWH
+15269,Mfp-sbib Jansadharan Express,MFP,SBIB
+15271,Jansadharan Express,HWH,MFP
+15273,Satyagrah Express,RXL,ANVT
+15274,Satyagrah Express,ANVT,RXL
+15279,Poorbiya Express,SHC,ANVT
+15280,Poorabiya Express,ANVT,SHC
+15283,Janki Express,MHI,JYG
+15284,Janki Express,JYG,MHI
+15417,Rajya Rani Express,APDJ,SHTT
+15418,Rajya Rani Express,SHTT,APDJ
+15467,Sguj-bxt I C Express,SGUJ,BXT
+15468,Bxt-sguj I C Express,BXT,SGUJ
+15483,Sikkimmahananda,APDJ,DLI
+15484,Mahananda Express,DLI,APDJ
+15501,Rxl Jbn Express,RXL,JBN
+15502,Jbn Rxl Express,JBN,RXL
+15505,Janhit Express,SHC,PPTA
+15506,Janhit Express,PPTA,SHC
+15531,Shc-asr Jansadharan Express,SHC,ASR
+15547,Rxl-ltt Antyoday Express,RXL,LTT
+15549,Jyg Pnbe Int Express,JYG,PNBE
+15550,Pnbe Jyg Int Express,PNBE,JYG
+15553,Bgp Jyg Express,BGP,JYG
+15554,Jyg Bgp Express,JYG,BGP
+15557,Amrit Bharat Express,DBG,ANVT
+15558,Amrit Bharat Express,ANVT,DBG
+15601,Dbb-ghy Express,DBB,GHY
+15603,Ghy Ledo Ic Express,GHY,LEDO
+15604,Ledo Ghy Ic Express,LEDO,GHY
+15611,Rny Scl Express,RNY,SCL
+15612,Scl Rny Express,SCL,RNY
+15613,Lachit Express,GHY,MZS
+15614,Lachit Express,MZS,GHY
+15615,Ghy Scl Express,GHY,SCL
+15616,Scl Ghy Express,SCL,GHY
+15617,Ghy Dlcr Express,GHY,DLCR
+15618,Dlcr Ghy Express,DLCR,GHY
+15619,Gaya Kyq Wkly E,GAYA,KYQ
+15620,Kyq Gaya Express,KYQ,GAYA
+15621,Kyq Anvt Express,KYQ,ANVT
+15622,Anvt Kyq Express,ANVT,KYQ
+15623,Bgkt Kyq Express,JU,KYQ
+15624,Kyq Bgkt Express,KYQ,JU
+15625,Dghr Agtl Express,DGHR,AGTL
+15626,Agtl Dghr  Express,AGTL,DGHR
+15629,Nagaon Express,TBM,SHTT
+15630,Nagaon Express,SHTT,TBM
+15631,Bme Ghy Express,BME,GHY
+15632,Ghy Bme Express,GHY,BME
+15633,Bkn Ghy Express,BKN,GHY
+15634,Ghy Bkn Express,GHY,BKN
+15635,Guwahati Express,OKHA,GHY
+15636,Ghy Okha Express,GHY,OKHA
+15639,Puri Kyq Express,PURI,KYQ
+15640,Kyq Puri Express,KYQ,PURI
+15641,Barak B Express,SCL,NTSK
+15642,Barak B Express,NTSK,SCL
+15643,Puri Kyq Express,PURI,KYQ
+15644,Kyq Puri Express,KYQ,PURI
+15647,Ltt Ghy Express,LTT,GHY
+15648,Ghy Ltt Express,GHY,LTT
+15651,Lohit Express,GHY,JAT
+15652,Lohit Express,JAT,GHY
+15653,Amarnath Express,GHY,JAT
+15654,Amarnath Express,JAT,GHY
+15655,Kyq Svdk Express,KYQ,SVDK
+15656,Svdk Kyq Express,SVDK,KYQ
+15657,Brahmputra Mail,DLI,KYQ
+15658,Brahmaputra Express,KYQ,DLI
+15661,Rnc Kyq Express,RNC,KYQ
+15662,Kyq Rnc Express,KYQ,RNC
+15663,Agtl Scl Express,AGTL,SCL
+15664,Scl Agtl Express,SCL,AGTL
+15665,Bg Express,GHY,MXN
+15666,Bg Express,MXN,GHY
+15667,Kamakhya Express,GIMB,KYQ
+15668,Kyq Gimb Express,KYQ,GIMB
+15669,Nagaland Express,GHY,DBRG
+15670,Nagaland Express,DBRG,GHY
+15705,Champaran Humsfr,KIR,DLI
+15706,Champaran Hmsfr,DLI,KIR
+15707,Kir Asr Express,KIR,ASR
+15708,Asr-kir Express,ASR,KIR
+15712,Kir Hwh Special,KIR,HWH
+15713,Intercity Express,KIR,PNBE
+15714,Intercity Express,PNBE,KIR
+15715,Garib Nawaz Express,KNE,AII
+15716,Garib Nawaz Express,AII,KNE
+15721,Paharia Express,DGHA,NJP
+15722,Paharia Express,NJP,DGHA
+15777,Njp Apdj Tourist,NJP,APDJ
+15778,Apdj Njp Tourist,APDJ,NJP
+15817,Donyi Polo Express,SKHV,NHLN
+15818,Donyi Polo Express,NHLN,SKHV
+15887,Bpb Ghy Vistado,BPB,GHY
+15888,Ghy Bpb Vistado,GHY,BPB
+15895,Rny Mzs Express,RNY,MZS
+15896,Mzs Rny Express,MZS,RNY
+15903,Dbrg Cdg Express,DBRG,CDG
+15904,Cdg Dbrg Express,CDG,DBRG
+15907,Tsk Nhln Vista,TSK,NHLN
+15908,Nhln Tsk Vista,NHLN,TSK
+15909,Avadh Assam Express,DBRG,LGH
+15910,Avadh Assam Express,LGH,DBRG
+15925,Dghr Dbrg Express,DGHR,DBRG
+15926,Dbrg Dghr Express,DBRG,DGHR
+15929,Tbm Ntsk Express,TBM,NTSK
+15930,Ntsk Tbm Express,NTSK,TBM
+15933,Ntsk Asr Express,NTSK,ASR
+15934,Asr Ntsk Express,ASR,NTSK
+15945,Ltt Dibrugarh Express,LTT,DBRG
+15946,Dbrg Ltt Express,DBRG,LTT
+15959,Kamrup Express,HWH,DBRG
+15960,Kamrup Express,DBRG,HWH
+15961,Kamrup Express,HWH,DBRG
+15962,Kamrup Express,DBRG,HWH
+16003,Mas Nsl Express,MAS,NSL
+16004,Nsl Mas Wkly Express,NSL,MAS
+16021,Kaveri Express,MAS,MYS
+16022,Kaveri Express,MYS,MAS
+16031,Andaman Express,MAS,SVDK
+16032,Andaman Express,SVDK,MAS
+16053,Mas Tpty Express,MAS,TPTY
+16054,Tpty Mas Express,TPTY,MAS
+16057,Sapthagiri Express,MAS,TPTY
+16058,Sapthagiri Express,TPTY,MAS
+16089,Yelagiri Express,MAS,JTJ
+16090,Yelagiri Express,JTJ,MAS
+16093,Mas Ljn Express,MAS,LJN
+16094,Ljn Mas Express,LJN,MAS
+16101,Ms Qln Express,MS,QLN
+16102,Qln Ms Express,QLN,MS
+16115,Ms Pdy Express,MS,PDY
+16116,Pdy Ms Express,PDY,MS
+16127,Ms Guruvayur Express,MS,GUV
+16128,Guv Chennai Express,GUV,MS
+16159,Ms Maq  Express,TBM,MAQ
+16160,Maq Chennai Express,MAQ,TBM
+16175,Ms Kik Express,TBM,KIK
+16176,Kik Ms Express,KIK,TBM
+16179,Ms Mq Express,MS,MQ
+16180,Mq Ms Express,MQ,MS
+16187,Kik Ers Express,KIK,ERS
+16188,Ers Kik Express,ERS,KIK
+16203,Mas Tpty Express,MAS,TPTY
+16204,Tpty Mas Express,TPTY,MAS
+16205,Mysuru Express,TLGP,MYS
+16206,Talguppa Express,MYS,TLGP
+16209,Aii Mys Express,AII,MYS
+16210,Ajmer Express,MYS,AII
+16215,Chamundi Express,MYS,SBC
+16216,Chamundi Express,SBC,MYS
+16217,Mys Snsi Express,MYS,SNSI
+16218,Snsi Mysuru Express,SNSI,MYS
+16219,Cmnr Tpty Express,CMNR,TPTY
+16220,Tpty Cmnr Express,TPTY,CMNR
+16227,Mys Tlgp Express,MYS,TLGP
+16228,Tlgp Mys Express,TLGP,MYS
+16231,Mysuru Express,CUPJ,MYS
+16232,Mys Cupj Express,MYS,CUPJ
+16235,Tn Mysuru Express,TN,MYS
+16236,Tuticorin Express,MYS,TN
+16301,Venad Express,SRR,TVC
+16302,Venad Express,TVC,SRR
+16303,Vanchinad Express,ERS,TVC
+16304,Vanchinad Express,TVC,ERS
+16305,Ers Can Express,ERS,CAN
+16306,Can Ers Express,CAN,ERS
+16307,Allp Can Express,ALLP,CAN
+16308,Can Allp Express,CAN,ALLP
+16311,Sgnr Kcvl Express,SGNR,KCVL
+16312,Kcvl Sgnr Express,KCVL,SGNR
+16315,Kochuveli Express,MYS,KCVL
+16316,Kcvl Mys Express,KCVL,MYS
+16317,Himsagar Express,CAPE,SVDK
+16318,Himsagar Express,SVDK,CAPE
+16319,Smvb Humsafar,KCVL,SMVB
+16320,Kcvl  Humsafar,SMVB,KCVL
+16327,Mdu Guv Express,MDU,GUV
+16328,Guv Mdu Express,GUV,MDU
+16331,Trivandram Express,CSMT,TVC
+16332,Tvc Csmt Express,TVC,CSMT
+16333,Vrl Tvc Express,VRL,TVC
+16334,Veraval Express,TVC,VRL
+16335,Gimb Ncj Express,GIMB,NCJ
+16336,Gandhidham Express,NCJ,GIMB
+16337,Okha Ers Express,OKHA,ERS
+16338,Ers Okha Express,ERS,OKHA
+16339,Nagarcoil Express,CSMT,NCJ
+16340,Ncj Csmt Express,NCJ,CSMT
+16341,Guv Tvc Express,GUV,TVC
+16342,Tvc Guv Express,TVC,GUV
+16343,Amritha Express,TVC,MDU
+16344,Amritha Express,MDU,TVC
+16345,Netravati Express,LTT,TVC
+16346,Tvc-ltt Netravathi Express,TVC,LTT
+16347,Mangalore Express,TVC,MAQ
+16348,Trivandrum Express,MAQ,TVC
+16349,Rajya Rani Express,KCVL,NIL
+16350,Rajya Rani Express,NIL,KCVL
+16351,Nagarcoil Express,CSMT,NCJ
+16352,Ncj Csmt Express,NCJ,CSMT
+16353,Kcg Ncj Express,KCG,NCJ
+16354,Kacheguda Express,NCJ,KCG
+16361,Ers Vlnk Express,ERS,VLNK
+16362,Vlnk Ers Express,VLNK,ERS
+16367,Kashi Tamil Express,CAPE,BSBS
+16368,Kashi Tamil Express,BSBS,CAPE
+16381,Kanyakumari Express,PUNE,CAPE
+16382,Cape Pune Express,CAPE,PUNE
+16505,Gimb Sbc Express,GIMB,SBC
+16506,Gandhidham Express,SBC,GIMB
+16507,Ju Sbc Express,JU,SBC
+16508,Jodhpur Express,SBC,JU
+16511,Kannur Express,SBC,CAN
+16512,Can Smvb Express,CAN,SBC
+16515,Karwar Express,YPR,KAWR
+16516,Kawr Ypr Express,KAWR,YPR
+16525,Cape Sbc Express,CAPE,SBC
+16526,Kanyakumari Express,SBC,CAPE
+16527,Ypr Kannur Express,YPR,CAN
+16528,Yesvantpur Express,CAN,YPR
+16531,Aii Sbc G Nawaj,AII,SBC
+16532,Garib Nawaz Express,SBC,AII
+16533,Bgkt-sbc Express,BGKT,SBC
+16534,Jodhpur Express,SBC,BGKT
+16535,Golgumbaz Express,MYS,PVR
+16536,Golgumbaz Express,PVR,MYS
+16539,Ypr Majn Express,YPR,MAJN
+16540,Majn Ypr Express,MAJN,YPR
+16541,Ypr Pvr Express,YPR,PVR
+16542,Pvr Ypr Express,PVR,YPR
+16545,Ypr Snnr Express,YPR,SNNR
+16546,Snnr Ypr Express,SNNR,YPR
+16565,Ypr Maq Express,YPR,MAQ
+16566,Maq Ypr Express,MAQ,YPR
+16571,Ypr Bidr Express,YPR,BIDR
+16572,Bidr Ypr Express,BIDR,YPR
+16573,Puducherry Express,YPR,PDY
+16574,Pdy Ypr Express,PDY,YPR
+16575,Gomteshwara Express,YPR,MAJN
+16576,Majn Ypr Express,MAJN,YPR
+16578,Bidr Ypr Express,BIDR,YPR
+16579,Smet Intercity,YPR,SMET
+16580,Ypr Intercity,SMET,YPR
+16581,Ypr Smet Express,YPR,SMET
+16582,Smet Ypr Express,SMET,YPR
+16583,Ypr Lur Express,YPR,LUR
+16584,Lur Ypr Express,LUR,YPR
+16585,Smvb Mrdw Express,SMVB,MRDW
+16586,Mrdw Smvb Express,MRDW,SMVB
+16587,Bikaner Express,YPR,BKN
+16588,Bkn Ypr Express,BKN,YPR
+16589,Rani Chennamma,SBC,SLI
+16590,Rani Chennamma,SLI,SBC
+16591,Hampi Express,UBL,MYS
+16592,Hampi Express,MYS,UBL
+16593,Sbc Nanded Express,SBC,NED
+16594,Ned Sbc Express,NED,SBC
+16595,Panchaganga Express,SBC,KAWR
+16596,Panchaganga Express,KAWR,SBC
+16603,Maveli Express,MAQ,TVC
+16604,Maveli Express,TVC,MAQ
+16605,Ernad Express,MAQ,TVC
+16606,Ernad Express,TVC,MAQ
+16613,Rjt Cbe Express,RJT,CBE
+16614,Cbe Rjt Express,CBE,RJT
+16615,Chemmozhi Express,MQ,CBE
+16616,Chemmozhi Express,CBE,MQ
+16617,Rmm Cbe Express,RMM,CBE
+16618,Cbe Rmm Express,CBE,RMM
+16629,Malabar Express,TVC,MAQ
+16630,Malabar Express,MAQ,TVC
+16649,Parasuram Express,MAQ,CAPE
+16650,Parasuram Express,CAPE,MAQ
+16729,Mdu Puu Express,MDU,PUU
+16730,Puu Mdu Express,PUU,MDU
+16733,Rmm Okha Express,RMM,OKHA
+16734,Okha Rmm Express,OKHA,RMM
+16751,Ms Rmm Express,MS,RMM
+16752,Rmm Ms Express,RMM,MS
+16765,Mtp Tn Express,MTP,TN
+16766,Tn Mtp Express,TN,MTP
+16779,Tpty Rmm Express,TPTY,RMM
+16780,Rmm Tpty Express,RMM,TPTY
+16787,Ten Svdk Express,TEN,SVDK
+16788,Navyug Express,SVDK,TEN
+16791,Palaruvi Express,TN,PGT
+16792,Palaruvi Express,PGT,TN
+16855,Pdy Maq Express,PDY,MAQ
+16856,Maq Pdy Express,MAQ,PDY
+16857,Pdy Maq Express,PDY,MAQ
+16858,Maq Pdy Express,MAQ,PDY
+16861,Pdy Cape Express,PDY,CAPE
+16862,Cape Pdy Express,CAPE,PDY
+16865,Uzhavan Express,MS,TJ
+16866,Uzhavan Express,TJ,MS
+17001,Snsi Sc Express,SNSI,SC
+17002,Sc Snsi Express,SC,SNSI
+17005,Hyb Rxl Express,HYB,RXL
+17006,Rxl Hyb Express,RXL,HYB
+17007,Sc Dbg Express,SC,DBG
+17008,Dbg Sc Express,DBG,SC
+17009,Bidr-hyb,BIDR,HYB
+17011,Hyb Skzr Express,HYB,SKZR
+17012,Skzr Bidr Express,SKZR,BIDR
+17013,Hdp Kzj Express,HDP,KZJ
+17014,Kzj Hdp Express,KZJ,HDP
+17015,Visakha Express,BBS,SC
+17016,Visakha Express,SC,BBS
+17019,Jp Hyb Express,HSR,HYB
+17020,Hyb Hsr Express,HYB,HSR
+17021,Hyb Vsg Express,HYB,GTL
+17022,Vsg Hyb Express,GTL,HYB
+17023,Tungabhadra Express,SC,KRNT
+17024,Tungabhadra Express,KRNT,SC
+17027,Hundry Express,HYB,KRNT
+17028,Hundry Express,KRNT,HYB
+17029,Bjp Hyb Express,BJP,HYB
+17030,Hyb Bjp Express,HYB,BJP
+17057,Devagiri Express,CSMT,LPI
+17058,Devagiri Express,LPI,CSMT
+17063,Ajanta Express,MMR,KCG
+17064,Ajanta Express,KCG,MMR
+17201,Golconda Express,GNT,SC
+17202,Golconda Express,SC,GNT
+17205,Snsi Coa Express,SNSI,COA
+17206,Coa Snsi Express,COA,SNSI
+17207,Snsi Mtm Express,SNSI,MTM
+17208,Mtm Snsi Express,MTM,SNSI
+17209,Seshadri Express,SMVB,CCT
+17210,Seshadri Express,CCT,SMVB
+17211,Kondaveedu Express,MTM,YPR
+17212,Kondaveedu Express,YPR,MTM
+17215,Mtm Dmm Express,MTM,DMM
+17216,Dmm Mtm Express,DMM,MTM
+17219,Mtm Vskp Express,MTM,VSKP
+17220,Vskp Mtm Express,VSKP,MTM
+17221,Coa Ltt Express,COA,LTT
+17222,Ltt Coa Express,LTT,COA
+17225,Amaravathi Express,NS,UBL
+17226,Amaravathi Express,UBL,NS
+17227,Dhne-gnt,DHNE,GNT
+17228,Gnt-dhne,GNT,DHNE
+17229,Sabari Express,TVC,SC
+17230,Sabari Express,SC,TVC
+17231,Ns Nsl Express,NS,NSL
+17232,Nsl Ns Express,NSL,NS
+17233,Bhagyanagar Express,SC,SKZR
+17234,Bhagyanagar Express,SKZR,SC
+17235,Nagercoil Express,SMVB,NCJ
+17236,Ncj Smvb Express,NCJ,SMVB
+17237,Bttr Mas Express,BTTR,MAS
+17238,Mas Bttr Express,MAS,BTTR
+17239,Simhadri Express,GNT,VSKP
+17240,Simahadri Expre,VSKP,GNT
+17243,Gnt Rgda Express,GNT,RGDA
+17244,Rgda Gnt Expre,RGDA,GNT
+17247,Ns Dmm Express,NS,DMM
+17248,Dmm Ns Express,DMM,NS
+17249,Tpty Cct Express,TPTY,CCT
+17250,Cct Tpty Express,CCT,TPTY
+17251,Gnt Kcg Express,GNT,KCG
+17252,Kcg Gnt Express,KCG,GNT
+17253,Gnt Awb Express,GNT,AWB
+17254,Awb Gnt Express,AWB,GNT
+17255,Ns Lpi  Express,NS,LPI
+17256,Narasapur Express,LPI,NS
+17261,Gnt Tpty Express,GNT,TPTY
+17262,Tpty Gnt Express,TPTY,GNT
+17281,Gnt Ns Express,GNT,NS
+17282,Ns Gnt Express,NS,GNT
+17301,Mys Bgm Express,MYS,BGM
+17302,Bgm Mys Express,BGM,MYS
+17307,Basava Express,MYS,BGK
+17308,Basava Express,BGK,MYS
+17309,Ypr Vsg Express,YPR,VSG
+17310,Vsg Ypr Express,VSG,YPR
+17311,Mas Ubl Sf Express,MAS,UBL
+17312,Vsg Chennai Express,UBL,MAS
+17313,Ubl Mas Express,UBL,MAS
+17314,Mas Ubl Express,MAS,UBL
+17315,Velankanni Express,VSG,VLNK
+17316,Vasco Express,VLNK,VSG
+17317,Ubl Dr Express,UBL,DR
+17318,Dr Hubballi Express,DR,UBL
+17319,Hyderabad Express,UBL,HYB
+17320,Hyb Ubl Express,HYB,UBL
+17321,Vsg Jsme Express,VSG,JSME
+17322,Jsme Vsg Express,JSME,VSG
+17323,Ubl Bsbs Express,UBL,BSBS
+17324,Bsbs Ubl Express,BSBS,UBL
+17325,Vishwamanav Express,BGM,MYS
+17326,Vishwamanav Express,MYS,BGM
+17329,Ubl Bza Express,UBL,BZA
+17330,Bza Ubl Express,BZA,UBL
+17391,Sbc Ubl Express,SBC,UBL
+17392,Ubl Sbc Express,UBL,SBC
+17405,Krishna Express,TPTY,ADB
+17406,Krishna Express,ADB,TPTY
+17407,Pamani Express,TPTY,MQ
+17408,Pamani Express,MQ,TPTY
+17409,Adb-ned Express,ADB,NED
+17410,Ned-adb Express,NED,ADB
+17411,Mahalaxmi Express,CSMT,KOP
+17412,Mahalaxmi Express,KOP,CSMT
+17415,Haripriya Express,TPTY,KOP
+17416,Haripriya Express,KOP,TPTY
+17417,Tpty Snsi Express,TPTY,SNSI
+17418,Snsi Tpty Express,SNSI,TPTY
+17419,Tpty Vsg  Express,TPTY,VSG
+17420,Vsg Tpty Express,VSG,TPTY
+17421,Tpty Qln Express,TPTY,QLN
+17422,Qln Tpty Express,QLN,TPTY
+17479,Puri Tpty Express,PURI,TPTY
+17480,Tpty Puri Express,TPTY,PURI
+17481,Bsp Tpty Express,BSP,TPTY
+17482,Tpty Bsp Express,TPTY,BSP
+17487,Tirumala Express,HX,VSKP
+17488,Tirumala Express,VSKP,HX
+17603,Kcg Ynk Express,KCG,YNK
+17604,Ynk Kcg Express,YNK,KCG
+17609,Pnbe Pau Express,PNBE,PAU
+17610,Pau Pnbe Express,PAU,PNBE
+17611,Rajyarani Express,NED,CSMT
+17612,Rajya Rani Express,CSMT,NED
+17613,Pnvl Ned Express,PNVL,NED
+17614,Ned Pnvl Express,NED,PNVL
+17617,Tapovan Express,CSMT,NED
+17618,Tapovan Express,NED,CSMT
+17619,Awb Ned Express,AWB,NED
+17620,Ned Awb Express,NED,AWB
+17621,Awb Tpty Express,AWB,TPTY
+17625,Kcg Ral Express,KCG,RAL
+17626,Ral Vkb Express,RAL,VKB
+17629,Pune Nanded Express,PUNE,NED
+17630,Ned Pune Express,NED,PUNE
+17639,Kcg Ak Express,KCG,AK
+17640,Ak Kcg Express,AK,KCG
+17641,Kcg Nrkr Express,KCG,NRKR
+17642,Nrkr Kcg Express,NRKR,KCG
+17643,Circar Express,CGL,COA
+17644,Circar Express,COA,CGL
+17645,Sc Ral Express,SC,RAL
+17646,Ral Sc Express,RAL,SC
+17647,Hyb Pau Express,HYB,PAU
+17648,Pau Hyb Express,PAU,HYB
+17651,Kacheguda Express,CGL,KCG
+17652,Kcg Cgl Express,KCG,CGL
+17653,Kcg Pdy Express,KCG,PDY
+17654,Pdy Kcg Express,PDY,KCG
+17655,Coa Pdy Express,COA,PDY
+17656,Pdy Coa Express,PDY,COA
+17659,Sc Bdcr Express,SC,BDCR
+17660,Bdcr Sc Express,BDCR,SC
+17663,Rc Pbn Express,RC,PBN
+17664,Ned Rc Express,NED,RC
+17687,Marathwada Express,MMR,DAB
+17688,Marathwada Express,DAB,MMR
+18003,Hwh Adra Shiromani Express,HWH,ADRA
+18004,Adra Hwh Shiromani Express,ADRA,HWH
+18005,Sambaleswari Express,HWH,JDB
+18006,Jdb Hwh Express,JDB,HWH
+18008,Vzr-shm Simlipal Express,VZR,SHM
+18009,Src Aii Express,SRC,AII
+18010,Santragachi Express,AII,SRC
+18011,Hwh Ckp Express,HWH,CKP
+18012,Ckp Hwh Express,CKP,HWH
+18013,Hwh Bksc Express,ADRA,BKSC
+18014,Bksc Hwh Express,BKSC,ADRA
+18021,Kgp Kur Express,KGP,KUR
+18022,Kur Kgp Express,KUR,KGP
+18023,Kgp-gomo Express,KGP,GMO
+18029,Ltt Shalimar Express,LTT,SHM
+18030,Shm Ltt Express,SHM,LTT
+18037,Kgp Jjkr Express,KGP,JJKR
+18038,Jjkr  Kgp  Express,JJKR,KGP
+18045,East Coast Express,SHM,HYB
+18046,East Coast Express,HYB,SHM
+18047,Amaravati Express,SHM,VSG
+18048,Vsg Shm Express,VSG,SHM
+18049,Shm Bmpr Express,SHM,BMPR
+18050,Bmpr Shm Express,BMPR,SHM
+18051,Bmpr Rou Express,BMPR,ROU
+18052,Rou Bmpr Express,ROU,BMPR
+18101,Tata Jat Express,TATA,JAT
+18102,Jat-tata Express,JAT,TATA
+18103,Jalianwalabag Express,TATA,ASR
+18104,Asr Tata Express,ASR,TATA
+18105,Rou Jyg Express,ROU,JYG
+18106,Jyg Rou Express,JYG,ROU
+18107,Intercity Express,ROU,JDB
+18108,Jdb Rou Express,JDB,ROU
+18109,Tata  Itr Express,TATA,NITR
+18110,Nitr Tata Express,NITR,TATA
+18111,Tata Ypr Express,TATA,YPR
+18112,Ypr Tata Express,YPR,TATA
+18113,Tata Bsp Express,TATA,BSP
+18114,Bsp Tata Express,BSP,TATA
+18117,Rajyarani Express,ROU,GNPR
+18118,Rajyarani Expre,GNPR,ROU
+18119,Tata Jyg Express,TATA,JYG
+18120,Jyg Tata Express,JYG,TATA
+18125,Rou-puri Express,ROU,PURI
+18126,Puri-rou Express,PURI,ROU
+18181,Tata The Express,TATA,THE
+18182,The Tata Express,THE,TATA
+18183,Tata Bxr Express,TATA,BXR
+18184,Bxr Tata Express,BXR,TATA
+18185,Tata Godda Express,TATA,GODA
+18186,Godda Tata  Express,GODA,TATA
+18189,Tata Ers Express,TATA,ERS
+18190,Ers Tata Express,ERS,TATA
+18201,Durg Ntv Express,DURG,NTV
+18202,Ntv Durg Express,NTV,DURG
+18203,Betwa Express,DURG,CNB
+18204,Betwa Express,CNB,DURG
+18205,Durg Ntv Express,DURG,NTV
+18206,Ntv Durg Express,NTV,DURG
+18207,Durg Aii Express,DURG,AII
+18208,Aii Durg Express,AII,DURG
+18213,Durg Aii Express,DURG,AII
+18214,Aii Durg Express,AII,DURG
+18233,Indb Bsp Express,INDB,BSP
+18234,Narmada Express,BSP,INDB
+18235,Passenger,BPL,BSP
+18236,Bsp Bpl Pas Express,BSP,BPL
+18237,Krba-asr Express,KRBA,ASR
+18238,Chhatisgarh Express,ASR,BSP
+18239,Shivnath Express,GAD,NITR
+18240,Shivnath Express,NITR,KRBA
+18241,Durg Abkp Express,DURG,ABKP
+18242,Abkp Durg Express,ABKP,DURG
+18247,Bsp Rewa Express,BSP,REWA
+18248,Rewa Bsp Express,REWA,BSP
+18249,Hasdeo Express,R,KRBA
+18250,Hasdeo Express,KRBA,R
+18251,Hasdeo Express,R,KRBA
+18252,Hasdeo Express,KRBA,R
+18257,Bsp Chrm Express,BSP,CHRM
+18258,Chrm Bsp Express,CHRM,BSP
+18301,Sbp Rgda Express,SBP,RGDA
+18302,Rgda Sbp Express,RGDA,SBP
+18303,Sbp Puri Int Express,SBP,PURI
+18304,Puri Sbp Int Express,PURI,SBP
+18309,Sbp -jat Express Special,SBP,JAT
+18310,Jat-sbp Express,JAT,SBP
+18311,Vskp Bsbs Express,VSKP,BSBS
+18312,Bsbs Vskp Express,BSBS,VSKP
+18409,Jagannath Express,SHM,PURI
+18410,Sri Jagannath Express,PURI,SHM
+18414,Puri-prdp Express,PURI,PRDP
+18415,Barbil Puri Express,BBN,PURI
+18416,Puri Bbn Express,PURI,BBN
+18417,Puri Gnpr Expre,PURI,GNPR
+18418,Gnpr Puri Special,GNPR,PURI
+18419,Puri Jyg Express,PURI,JYG
+18420,Jyg Puri Express,JYG,PURI
+18421,Puri Sonepur Express,PURI,SNPU
+18422,Sonepur Puri Express,SNPU,PURI
+18425,Puri Durg Express,PURI,DURG
+18426,Durg Puri Express,DURG,PURI
+18427,Puri Anvt Express,PURI,ANVT
+18428,Anvt Puri Express,ANVT,PURI
+18447,Hirakhand Express,BBS,JDB
+18448,Hirakhand Express,JDB,BBS
+18449,Baidyanath Dham,PURI,PNBE
+18450,B Nath Dham Express,PNBE,PURI
+18451,Tapaswini Express,HTE,PURI
+18452,Tapaswini Expre,PURI,HTE
+18463,Prashanthi Expr,BBS,SBC
+18464,Prashanthi Express,SBC,BBS
+18477,Utkal Express,PURI,YNRK
+18478,Kalingautkal Express,YNRK,PURI
+18503,Vskp Snsi Express,VSKP,SNSI
+18504,Snsi Vskp Express,SNSI,VSKP
+18511,Intercity Express,KRPU,VSKP
+18512,Intercity Express,VSKP,KRPU
+18513,Krdl Vskp Express,KRDL,VSKP
+18514,Vskp Krdl Express,VSKP,KRDL
+18517,Krba Vskp Express,KRBA,VSKP
+18518,Vskp Krba Express,VSKP,KRBA
+18519,Vskp Ltt Express,VSKP,LTT
+18520,Ltt Vskp Express,LTT,VSKP
+18525,Bam Vskp Express,BAM,VSKP
+18526,Vskp Bam Express,VSKP,BAM
+18529,Durg Vskp Express,DURG,VSKP
+18530,Vskp Durg Express,VSKP,DURG
+18567,Vskp Qln Express,VSKP,QLN
+18568,Qln Vskp Express,QLN,VSKP
+18573,Vskp Bgkt Express,VSKP,BGKT
+18574,Bgkt Vskp Express,BGKT,VSKP
+18601,Tata-hte Express,TATA,HTE
+18603,Rnc Goda Express,RNC,GODA
+18604,Goda Rnc Express,GODA,RNC
+18609,Rnc Ltt Express,RNC,LTT
+18610,Ltt Ranchi Express,LTT,RNC
+18611,Rnc Bsbs Express,RNC,BSBS
+18612,Bsbs Rnc Express,BSBS,RNC
+18615,Kriya Yoga Express,HWH,HTE
+18616,Kriya Yoga Express,HTE,HWH
+18619,Intercity Express,RNC,GODA
+18620,Intercity Express,GODA,RNC
+18621,Patliputra Express,PNBE,HTE
+18622,Pataliputra Express,HTE,PNBE
+18623,Ipr Hatia Express,PNBE,HTE
+18624,Hte Ipr Express,HTE,PNBE
+18625,Prnc Hte Express,PRNC,HTE
+18626,Hte Prnc Express,HTE,PRNC
+18627,Intercity Express,HWH,RNC
+18628,Intercity Express,RNC,HWH
+18631,Rnc Cpu Express,RNC,CPU
+18632,Cpu Rnc Express,CPU,RNC
+18635,Rnc Ssm Express,RNC,SSM
+18636,Ranchi Express,SSM,RNC
+18637,Hte Smvb Express,HTE,SMVB
+18638,Smvb Hte Express,SMVB,HTE
+18639,Ara Rnc Express,ARA,RNC
+18640,Rnc Ara Express,RNC,ARA
+18755,Sdl Abkp Express,SDL,ABKP
+18756,Abkp Sdl Express,ABKP,SDL
+19003,Khandesh Express,DDR,BSL
+19004,Khandesh Express,BSL,DDR
+19005,Surat Bsl Express,ST,BSL
+19006,Bsl Surat Express,BSL,ST
+19007,Surat Bsl Express,ST,BSL
+19008,Bsl Surat Express,BSL,ST
+19009,Barmer Humsafar,BDTS,BME
+19010,Bdts Humsafar,BME,BDTS
+19013,Bsl Katni Express,BSL,KTE
+19014,Kte Bsl Express,KTE,BSL
+19015,Saurashtra Express,DDR,PBR
+19016,Saurashtra Express,PBR,DDR
+19019,Bdts Hw Express,BDTS,HW
+19020,Hw Bdts Express,HW,BDTS
+19027,Jat Vivek Express,BDTS,JAT
+19028,Jat Bdts Express,JAT,BDTS
+19031,Yoga Express,ADI,YNRK
+19032,Yoga Express,YNRK,ADI
+19033,Gujarat Queen,BL,ADI
+19034,Gujarat Queen,ADI,BL
+19035,Brc Adi Intercity Express,BRC,ADI
+19036,Adi Brc Intercity Express,ADI,BRC
+19037,Avadh Express,BDTS,BJU
+19038,Avadh Express,BJU,BDTS
+19045,Tapti Ganga Express,ST,CPR
+19046,Tapti Ganga Express,CPR,ST
+19051,Mfp Shramik Express,BL,MFP
+19052,Bl Shramik Express,MFP,BL
+19053,St Mfp Express,ST,MFP
+19054,Mfp St Express,MFP,ST
+19055,Bl Bgkt Express,BL,BGKT
+19056,Ju Bl Express,BGKT,BL
+19091,Gkp Humsafar Express,BDTS,GKP
+19092,Bdts Humsafar,GKP,BDTS
+19107,Janmabhoomi Express,BVC,MCTM
+19108,Bhavnagar Express,MCTM,BVC
+19119,Gnc Smnh Ic Express,GNC,VRL
+19120,Smnh Adi Ic Express,VRL,GNC
+19165,Sabarmati Express,ADI,DBG
+19166,Sabarmati Express,DBG,ADI
+19167,Sabarmati Express,ADI,BCY
+19168,Sabarmati Express,BCY,ADI
+19203,Bdts Vrl Express,BDTS,VRL
+19204,Vrl Bdts Express,VRL,BDTS
+19209,Bvc Okha Express,BVC,OKHA
+19210,Okha Bvc Express,OKHA,BVC
+19217,Saurashtra Janta,BDTS,VRL
+19218,Saurashtra Janta,VRL,BDTS
+19223,Gnc Jat Express,GNC,JAT
+19224,Jat Gnc Express,JAT,GNC
+19225,Ju Jat Express,BGKT,JAT
+19226,Jat Ju Express,JAT,BGKT
+19251,Smnh Okha Express,VRL,OKHA
+19252,Okha Smnh Express,OKHA,VRL
+19255,Surat Mahuva Express,ST,MHV
+19256,Mahuva Surat Express,MHV,ST
+19259,Kcvl Bvc Express,KCVL,BVC
+19260,Bvc Kcvl Express,BVC,KCVL
+19269,Pbr Mfp Express,PBR,MFP
+19270,Pbr Express,MFP,PBR
+19271,Bvc Hw Express,BVC,HW
+19272,Hw Bvc Express,HW,BVC
+19301,Dadn Ypr Express,DADN,YPR
+19302,Ypr Dadn Express,YPR,DADN
+19303,Indb Bhopal  Express,INDB,BPL
+19304,Bpl Indb Express,BPL,INDB
+19305,Dadn Kyq Express,DADN,KYQ
+19306,Kyq Dadn Express,KYQ,DADN
+19307,Indb Uhl Express,INDB,UHL
+19308,Uhl Indb Express,UHL,INDB
+19309,Shanti Express,GNC,INDB
+19310,Shanti Express,INDB,GNC
+19313,Indb Pnbe Express,INDB,PNBE
+19314,Pnbe - Indb Express,PNBE,INDB
+19315,Virbhumi Express,INDB,ASV
+19316,Virbhumi Express,ASV,INDB
+19319,Vrl Indb Mahmana,VRL,INDB
+19320,Indb Vrl Mahmana,INDB,VRL
+19321,Indb Pnbe Express,INDB,PNBE
+19322,Pnbe Indb Express,PNBE,INDB
+19323,Bpl Intercity,DADN,BPL
+19324,Dadn Intercity,BPL,DADN
+19325,Indb Amritsar Express,INDB,ASR
+19326,Asr Indb Express,ASR,INDB
+19327,Rtm-udz Express,RTM,UDZ
+19333,Bkn Mahamana Express,INDB,BKN
+19334,Indb Mahmna Express,BKN,INDB
+19337,Indb Dee Express,INDB,DEE
+19338,Dee Indb Express,DEE,INDB
+19339,Dhd Bpl Express,DHD,BPL
+19340,Bhopal Dahod Express,BPL,DHD
+19343,Panchvalley Express,INDB,SEY
+19344,Panchvalley  Express,CWA,INDB
+19401,Adi Lucknow Express,SBIB,LKO
+19402,Lko Adi Express,LKO,SBIB
+19405,Pnu Gimb Express,PNU,GIMB
+19406,Gimb Pnu Express,GIMB,PNU
+19407,Adi Varanasi Express,SBIB,BSB
+19408,Bsb Sbib Express,BSB,SBIB
+19409,Adi Gkp Express,SBIB,GKP
+19410,Gkp Adi Express,GKP,SBIB
+19411,Sbib Dlpc Express,SBIB,DLPC
+19412,Dlpc Sbib Express,DLPC,SBIB
+19413,Adi Kolkata Express,ADI,KOAA
+19414,Koaa Adi Express,KOAA,ADI
+19415,Adi Svdk Express,SBIB,SVDK
+19416,Svdk Sbib Express,SVDK,SBIB
+19417,Mmct Adi Express,BVI,ADI
+19418,Adi Mmct Express,ADI,BVI
+19421,Adi Pnbe Express,ADI,PNBE
+19422,Pnbe Adi Express,PNBE,ADI
+19425,Mmct Ndb Express,BVI,NDB
+19426,Ndb Mmct Express,NDB,BVI
+19435,Adi Asn Express,ADI,ASN
+19436,Asn Adi Express,ASN,ADI
+19483,Adi Bju Express,ADI,BJU
+19484,Bju Adi Express,BJU,ADI
+19489,Adi Gkp Express,ADI,GKP
+19490,Gkp Adi Express,GKP,ADI
+19565,Okha Ddn Express,OKHA,DDN
+19566,Uttaranchal Express,DDN,OKHA
+19567,Vivek Express,TN,OKHA
+19568,Vivek Express,OKHA,TN
+19575,Okha  Ndt Express,OKHA,NDT
+19576,Ndt Okha Express,NDT,OKHA
+19577,Ten Jam Express,TEN,JAM
+19578,Jam Ten Express,JAM,TEN
+19601,Udz Njp Express,UDZ,NJP
+19602,Njp Udz Express,NJP,UDZ
+19607,Koaa Mdjn Express,KOAA,MDJN
+19608,Mdjn Koaa Express,MDJN,KOAA
+19609,Udz Ynrk Express,UDZ,YNRK
+19610,Udaipur Express,YNRK,UDZ
+19611,Aii Asr Express,AII,ASR
+19612,Asr Aii Express,ASR,AII
+19613,Aii Asr Express,AII,ASR
+19614,Asr Aii Express,ASR,AII
+19615,Kavi Guru Express,UDZ,KYQ
+19616,Kavi Guru Express,KYQ,UDZ
+19665,Kurj Udz Express,KURJ,UDZ
+19666,Udz Kurj Express,UDZ,KURJ
+19667,Mys Humsafar Express,UDZ,MYS
+19668,Udz Humsafar Express,MYS,UDZ
+19669,Ppta Humsafar,UDZ,PPTA
+19670,Humsafar Express,PPTA,UDZ
+19701,Sainik Express,JP,DEC
+19702,Sainik Express,DEC,JP
+19703,Udz Asv Express,UDZ,ASV
+19704,Asv Udz Express,ASV,UDZ
+19711,Jp Bpl Express,JP,BPL
+19712,Bpl Jp Express,BPL,JP
+19713,Jp Krnt Express,JP,KRNT
+19714,Krnt Jp Express,KRNT,JP
+19715,Jp Gtnr Express,JP,GTNR
+19716,Gtnr Jp Express,GTNR,JP
+19721,Jp Bxn Express,JP,BXN
+19722,Bxn Jp Express,BXN,JP
+19736,Mj-jp Express,MJ,JP
+19803,Kota Svdk Express,KOTA,SVDK
+19804,Kota Express,SVDK,KOTA
+19807,Kota Sirsa Express,KOTA,SSA
+19808,Ssa Kota Express,SSA,KOTA
+19811,Kota Etw Express,KOTA,ETW
+19812,Etw Kota Express,ETW,KOTA
+19813,Kota Sirsa Express,KOTA,SSA
+19814,Ssa Kota Express,SSA,KOTA
+19815,Mds Kota Express,MDS,KOTA
+19816,Kota Mds Express,KOTA,MDS
+19817,Rtm Af Express,RTM,AF
+19818,Jab Rtm Express,JAB,RTM
+19821,Asv Kota Express,ASV,KOTA
+19822,Kota Asv Express,KOTA,ASV
+20101,Sc Vande Bharat,NGP,SC
+20102,Ngp Vande Bharat,SC,NGP
+20103,Ltt Gkp Sf Express,LTT,GKP
+20104,Gkp Ltt Sf Express,GKP,LTT
+20111,Konkan Kanya Express,CSMT,MAO
+20112,Konkan Kanya Express,MAO,CSMT
+20171,Vande Bharat Express,RKMP,NZM
+20172,Vande Bharat Express,NZM,RKMP
+20173,Vande Bharat Express,RKMP,REWA
+20174,Vande Bharat Express,REWA,RKMP
+20175,Vande Bharat Express,BSBS,AGC
+20176,Vande Bharat Express,AGC,BSBS
+20401,Bsb Lko Sf Express,BSB,LKO
+20402,Lko Bsb Sf Express,LKO,BSB
+20403,Pryj Bkn Sf Express,PRYJ,LGH
+20404,Bkn Pryj Sf Express,LGH,PRYJ
+20407,Rnc Ndls Raj Express,RNC,NDLS
+20408,Rnc Rajdhani,NDLS,RNC
+20409,Dec Bti Sf Express,DEC,BTI
+20410,Bti Dec Sf Express,BTI,DEC
+20413,Mahakal Express,BSB,INDB
+20414,Mahakal Express,INDB,BSB
+20415,Mahakal Express,BSB,INDB
+20416,Mahakal Sup Express,INDB,BSB
+20451,Sgac Ndls Sf Express,SGAC,NDLS
+20452,Ndls Sgac Sf Express,NDLS,SGAC
+20471,Bkn Puri Express,LGH,PURI
+20472,Puri Bkn S F,PURI,LGH
+20473,Chetak Express,DEE,UDZ
+20474,Chetak Express,UDZ,DEE
+20475,Bkn Mrj Sf,BKN,MRJ
+20476,Mrj Bkn Sf Express,MRJ,BKN
+20481,Tpj Sf Humsafar,JU,TPJ
+20482,Bgkt Humsafar,TPJ,JU
+20483,Bgkt Ddr Sf Express,BGKT,DDR
+20484,Ddr Bgkt Sf Express,DDR,BGKT
+20485,Ju Sbib Sf Express,JU,SBIB
+20486,Sbib Ju Express,SBIB,JU
+20487,Malani Express,BME,DLI
+20488,Malani Express,DLI,BME
+20489,Bme Mtj Sup Fast,BME,MTJ
+20490,Mtj  Bme Sf,MTJ,BME
+20491,Jsm Sbib Sf Express,JSM,SBIB
+20492,Sbib Jsm Sup Express,SBIB,JSM
+20493,Mdu Cdg Sf Express,MDU,CDG
+20494,Cdg Mdu Sf Express,CDG,MDU
+20497,Fzr Humsafar,RMM,FZR
+20498,Rmm Humsafar Sf,FZR,RMM
+20501,Tejas Express,AGTL,ANVT
+20502,Agtl Tejas Raj,ANVT,AGTL
+20503,Rajdhani Express,DBRG,NDLS
+20504,Dbrg Rajdhani,NDLS,DBRG
+20505,Rajdhani Express,DBRG,NDLS
+20506,Dbrg Rajdhani,NDLS,DBRG
+20601,Mas Bdnk Sf Express,MAS,BDNK
+20602,Bdnk Mas Sf Express,BDNK,MAS
+20605,Ms Tcn Sf Express,MS,TCN
+20606,Tcn Ms Sf Express,TCN,MS
+20607,Mys Vandebharat,MAS,MYS
+20608,Mas Vandebharat,MYS,MAS
+20623,Malgudi Express,MYS,SBC
+20624,Malgudi Express,SBC,MYS
+20627,Ms Ncj Vb Express,MS,NCJ
+20628,Ncj Ms Vb Express,NCJ,MS
+20631,Maq Tvc Vb Express,MAQ,TVC
+20632,Tvc Maq Vb Express,TVC,MAQ
+20633,Tvc Vandebharat,KGQ,TVC
+20634,Kgq Vandebharat,TVC,KGQ
+20635,Anantapuri Express,MS,QLN
+20636,Anantapuri Express,QLN,MS
+20641,Cbe Vande Bharat,BNC,CBE
+20642,Bnc Vandebharat,CBE,BNC
+20643,Cbe Vandebharat,MAS,CBE
+20644,Mas Vandebharat,CBE,MAS
+20645,Maq Vandebharat,MAO,MAQ
+20646,Mao Vandebharat,MAQ,MAO
+20651,Sbc Tlgp Express,SBC,TLGP
+20652,Tlgp Sbc Express,TLGP,SBC
+20653,Sbc Bgm Express,SBC,BGM
+20654,Bgm Sbc Express,BGM,SBC
+20655,Ypr Ubl Express,YPR,UBL
+20656,Ubl Ypr Express,UBL,YPR
+20657,Ubl Nzm Express,UBL,NZM
+20658,Nzm Ubl Sf Express,NZM,UBL
+20659,Rajya Rani Express,MYS,SBC
+20660,Rajya Rani Express,SBC,MYS
+20661,Dwr Vande Bharat,SBC,DWR
+20662,Sbc Vande Bharat,DWR,SBC
+20663,Mas Vande Bharat,MYS,MAS
+20664,Mys Vandebharat,MAS,MYS
+20665,Ten Vandebharat,MS,TEN
+20666,Ms Vande Bharat,TEN,MS
+20669,Ubl Pune Vb Express,UBL,PUNE
+20670,Ubl Vandebharat,PUNE,UBL
+20671,Mdu Bnc Vb Express,MDU,BNC
+20672,Mdu Vande Bharat,BNC,MDU
+20673,Pune Vandebharat,KOP,PUNE
+20674,Kop Vandebharat,PUNE,KOP
+20677,Bza Vandebharat,MAS,BZA
+20678,Mas Vandebharat,BZA,MAS
+20681,Silambu Sf Express,TBM,SCT
+20682,Silambu Sf Express,SCT,TBM
+20683,Tbm Sct Sf Express,TBM,SCT
+20684,Sct Tbm Sf Express,SCT,TBM
+20701,Tpty Vandebharat,SC,TPTY
+20702,Sc Vande Bharat,TPTY,SC
+20703,Ypr Vandebharat,KCG,YPR
+20704,Kcg Vande Bharat,YPR,KCG
+20705,Csmt Vandebharat,J,CSMT
+20706,J Vande Bharat,CSMT,J
+20707,Vskp Vandebharat,SC,VSKP
+20708,Vande Bharat Express,VSKP,SC
+20801,Magadh Express,IPR,NDLS
+20802,Magadh Express,NDLS,IPR
+20803,Vskp Gimb Sf Express,VSKP,GIMB
+20804,Gimb Vskp Sf Express,GIMB,VSKP
+20805,Ap Express,VSKP,NDLS
+20806,Ap Express,NDLS,VSKP
+20807,Hirakud Express,VSKP,ASR
+20808,Hirakund Express,ASR,VSKP
+20809,Sbp Ned S F,SBP,NED
+20810,Ned Sbp Sf Express,NED,SBP
+20811,Vskp Ned Sf,VSKP,NED
+20812,Ned Vskp Express,NED,VSKP
+20813,Puri Ju S F,PURI,JU
+20814,Ju Puri Sf Express,JU,PURI
+20815,Tata Vskp Sf Express,TATA,VSKP
+20816,Vskp Tata Sf,VSKP,TATA
+20817,Tejas Raj Express,BBS,NDLS
+20818,Bbs Tejas Raj,NDLS,BBS
+20819,Puri Okha Sf,PURI,OKHA
+20820,Okha Puri Express,OKHA,PURI
+20821,Pune Src Humsafr,PUNE,SRC
+20822,Pune Humsafar,SRC,PUNE
+20823,Puri Aii S F,PURI,AII
+20824,Aii Puri Sf Express,AII,PURI
+20825,Vande Bharat Express,BSP,NGP
+20826,Bsp Vande Bharat,NGP,BSP
+20829,Vande Bharat,DURG,VSKP
+20830,Vande Bharat Express,VSKP,DURG
+20831,Mahimagosain Express,SHM,SBP
+20832,Mahimagosain Express,SBP,SHM
+20833,Vande Bharat Express,VSKP,SC
+20834,Vande Bharat Express,SC,VSKP
+20835,Vande Bharat Express,ROU,PURI
+20836,Vande Bharat Express,PURI,ROU
+20837,Bbs Jnrd S F,BBS,JNRD
+20838,Jnrd Bbs S F,JNRD,BBS
+20839,Rnc Ndls Raj Express,RNC,NDLS
+20840,Ndls Rnc Raj Express,NDLS,RNC
+20841,Vande Bharat Express,BBS,VSKP
+20842,Vande Bharat Express,VSKP,BBS
+20843,Bsp Bgkt Sf Express,BSP,BGKT
+20844,Bgkt Bsp Sf Express,BGKT,BSP
+20845,Bsp Bkn Sf Express,BSP,BKN
+20846,Bkn Bsp Sf Express,BKN,BSP
+20847,Durg Mctm Sf,DURG,MCTM
+20848,Durg Sf Express,MCTM,DURG
+20857,Puri Snsi Sf Express,PURI,SNSI
+20858,Snsi Puri Express,SNSI,PURI
+20861,Puri Adi Sf,PURI,ADI
+20862,Adi Puri Express,ADI,PURI
+20871,Vande Bharat Express,HWH,ROU
+20872,Vande Bharat Express,ROU,HWH
+20887,Rnc-bsb Vande Bharat Special,RNC,BSB
+20888,Vande Bharat Express,BSB,RNC
+20889,Tpty Humsafr Express,HWH,TPTY
+20890,Hwh Humsafar Sf,TPTY,HWH
+20891,Vande Bharat Express,TATA,BAM
+20892,Vande Bharat Express,BAM,TATA
+20893,Vande Bharat Express,TATA,PNBE
+20894,Vande Bharat Express,PNBE,TATA
+20895,Rmm Bbs Sf Express,RMM,BBS
+20896,Bbs Rmm Sf,BBS,RMM
+20897,Vande Bharat Express,HWH,RNC
+20898,Vande Bharat Express,RNC,HWH
+20901,Vande Bharat Express,MMCT,GNC
+20902,Vande Bharat Express,GNC,MMCT
+20903,Bsb Mahamana,EKNR,BSB
+20904,Eknr Mahamana,BSB,EKNR
+20905,Rewa Mahamana,EKNR,REWA
+20906,Eknr Mahamana,REWA,EKNR
+20907,Sayajinagri Express,DDR,BHUJ
+20908,Sayajinagri Express,BHUJ,DDR
+20909,Kcvl Pbr Sf Express,KCVL,PBR
+20910,Pbr Kcvl Express,PBR,KCVL
+20911,Ngp Vandebharat,INDB,NGP
+20912,Indb Vandebharat,NGP,INDB
+20913,Rjt Dee Express,RJT,DEE
+20914,Rajkot Express,DEE,RJT
+20915,Lpi Indb Humsafr,LPI,INDB
+20916,Indb Lpi Humsafr,INDB,LPI
+20917,Puri Humsafar,INDB,PURI
+20918,Puri Indore Express,PURI,INDB
+20919,Mas Eknr Sf Express,MAS,EKNR
+20920,Eknr Mas Sf Express,EKNR,MAS
+20921,Bdts Ljn Sf Express,BDTS,LJN
+20922,Ljn Bdts Sf Express,LJN,BDTS
+20923,Gimb Humsafar,TEN,GIMB
+20924,Ten Humsafar,GIMB,TEN
+20925,Surat Ami Sf Express,ST,AMI
+20926,Ami Surat Sf Express,AMI,ST
+20930,Bsbs Udhana Express,BSBS,UDN
+20931,Kcvl Indb Sf Express,KCVL,INDB
+20932,Indb Kcvl Express,INDB,KCVL
+20933,Udn Danapur Express,UDN,DNR
+20934,Dnr Udhna Sf Express,DNR,UDN
+20935,Gimb Indb Sfast,GIMB,INDB
+20936,Indb Gimb Sfast,INDB,GIMB
+20937,Pbr Dee Express,PBR,DEE
+20938,Dee Pbr Express,DEE,PBR
+20939,Adi Sln Sf Express,SBIB,SLN
+20940,Sln Sbib Sf Express,SLN,SBIB
+20941,Bdts Gct Sf Express,BDTS,GCT
+20942,Gct Bdts Sf Express,GCT,BDTS
+20943,Bgkt Hamsafar,BDTS,BGKT
+20944,Bgkt Bdts Hmsfr,BGKT,BDTS
+20945,Eknr Nzm Sf Express,EKNR,NZM
+20946,Nzm Eknr Sf Express,NZM,EKNR
+20947,Jan Shatabdi Express,ADI,EKNR
+20950,Jan Shatabdi Express,EKNR,ADI
+20951,Okha Jaipur Sup,OKHA,JP
+20952,Jp Okha Sf Express,JP,OKHA
+20953,Mas Adi Sf Express,MAS,ADI
+20954,Adi Mas Sfast,ADI,MAS
+20957,Indb Ndls Sup,INDB,NDLS
+20958,Indore Express,NDLS,INDB
+20959,Bl Vadnagar Sup,BL,VDG
+20960,Vdg Valsad Sup,VDG,BL
+20961,Udn Bsbs Sfast,UDN,BSBS
+20962,Bsbs Udn Sf Express,BSBS,UDN
+20965,Bvc Intercity,SBIB,BVC
+20966,Sabarmati Incity,BVC,SBIB
+20967,Sc Pbr Sf Express,SC,PBR
+20968,Pbr Sc Sf Express,PBR,SC
+20971,Udz Shm Express,UDZ,SHM
+20972,Shm Udz Suf Express,SHM,UDZ
+20975,Hwh Agc Express,HWH,AGC
+20976,Chambal Express,AGC,HWH
+20977,Cdg Vandebharat,AII,CDG
+20978,Aii Vandebharat,CDG,AII
+20979,Vande Bharat Express,UDZ,JP
+20980,Vande Bharat Express,JP,UDZ
+20981,Agc Vande Bharat,UDZ,AGC
+20982,Udz Vande Bharat,AGC,UDZ
+20983,Bhuj Dee Sf Express,BHUJ,DEE
+20984,Dee Bhuj Sf Express,DEE,BHUJ
+20985,Kota Mctm Express,KOTA,MCTM
+20986,Mctm Kota Express,MCTM,KOTA
+21125,Rtm Bhind Express,RTM,BIX
+21126,Bix Rtm Express,BIX,RTM
+21893,Vande Bharat Express,TATA,PNBE
+21894,Vande Bharat Express,PNBE,TATA
+21895,Vande Bharat Express,TATA,PNBE
+21896,Vande Bharat Express,PNBE,TATA
+22101,Ltt Madurai Express,LTT,MDU
+22102,Mdu Ltt Sf Express,MDU,LTT
+22103,Ltt Ayodhya Express,LTT,AYC
+22104,Ltt Express,AYC,LTT
+22105,Indrayani Express,CSMT,PUNE
+22106,Indrayani Express,PUNE,CSMT
+22107,Csmt Latur Express,CSMT,LUR
+22108,Latur Csmt Express,LUR,CSMT
+22109,Ltt Bpq Express,LTT,BPQ
+22110,Bpq Ltt Express,BPQ,LTT
+22113,Ltt Kcvl Sf Express,LTT,KCVL
+22114,Kcvl Ltt Sf Express,KCVL,LTT
+22115,Ltt Krmi Express,LTT,KRMI
+22116,Krmi Ltt Ac Express,KRMI,LTT
+22117,Pune Ami Ac Express,PUNE,AMI
+22118,Ami Pune Ac Express,AMI,PUNE
+22119,Mao Tejas Express,CSMT,MAO
+22120,Csmt Tejas Express,MAO,CSMT
+22121,Ltt Lko Ac Express,LTT,LKO
+22122,Lko Ltt Ac Express,LKO,LTT
+22123,Pune Ngp Ac Express,PUNE,NGP
+22124,Ngp Pune Ac Express,NGP,PUNE
+22125,Ngp Asr Ac Express,NGP,ASR
+22126,Nagpur Ac Express,ASR,NGP
+22129,Tulsi Express,LTT,AYC
+22130,Tulsi Express,AYC,LTT
+22131,Pune Banaras Express,PUNE,BSBS
+22132,Gyan Ganga Express,BSBS,PUNE
+22135,Mys Ru Express,MYS,RU
+22137,Prerana Express,NGP,ADI
+22138,Prerana Express,ADI,NGP
+22139,Ngp Humsafar,PUNE,NGP
+22140,Pune Humsafar,NGP,PUNE
+22141,Ngp Humsafar,PUNE,NGP
+22142,Pune Humsafar,NGP,PUNE
+22143,Csmt Bidar Express,CSMT,BIDR
+22144,Bidr Csmt Express,BIDR,CSMT
+22145,Bpl Rewa Sf Express,BPL,REWA
+22146,Rewa Bpl Sf Express,REWA,BPL
+22147,Dr Snsi Sf Express,DR,SNSI
+22148,Snsi Dr Sf Express,SNSI,DR
+22149,Ers Pune Sf Express,ERS,PUNE
+22150,Pune Ers Sf Express,PUNE,ERS
+22151,Pune Kazipet Express,PUNE,KZJ
+22152,Kzj Pune Sf Express,KZJ,PUNE
+22153,Ms Salem Sf Express,MS,SA
+22154,Sa Chennai Express,SA,MS
+22155,Klbg Kop Sup Express,KLBG,KOP
+22156,Kop Klbg Sup Express,KOP,KLBG
+22157,Csmt Ms Sf Mail,CSMT,MS
+22158,Ms Csmt Sf Express,MS,CSMT
+22159,Csmt Chennai Express,CSMT,MAS
+22160,Mas Csmt Sf Express,MAS,CSMT
+22161,Rajyarani Express,BPL,DMO
+22162,Rajyarani Express,DMO,BPL
+22163,Kurj Mahmana Express,BPL,KURJ
+22164,Mahamana Express,KURJ,BPL
+22165,Urjadhani Express,BPL,SGRL
+22166,Sgrl Bpl Sf Express,SGRL,BPL
+22167,Sgrl Nzm Sf Express,SGRL,NZM
+22168,Urjadhani Express,NZM,SGRL
+22169,Src Humsafar,RKMP,SRC
+22170,Rkmp Humsafar,SRC,RKMP
+22171,Rkmp Humsafar,PUNE,RKMP
+22172,Pune Humsafar,RKMP,PUNE
+22173,Caf Jbp Sf Express,CAF,JBP
+22174,Jbp Caf Suf Express,JBP,CAF
+22175,Ngp Jp Sup Express,NGP,KWP
+22176,Jp Ngp Sf Express,KWP,NGP
+22177,Mahanagari Express,CSMT,BSB
+22178,Mahanagari Express,BSB,CSMT
+22179,Ltt Chennai Express,LTT,MAS
+22180,Mas Ltt Sf Express,MAS,LTT
+22181,Jbp Nzm Sf Express,JBP,NZM
+22182,Nzm Jbp Sf Express,NZM,JBP
+22183,Saket Express,LTT,AYC
+22184,Saket Express,AYC,LTT
+22185,Adi Pune Sf,ADI,PUNE
+22186,Pune Adi Sf Express,PUNE,ADI
+22187,Intercity Express,RKMP,ADTL
+22188,Intercity Express,ADTL,RKMP
+22189,Rewa Intercity,JBP,REWA
+22190,Jbp Intercity,REWA,JBP
+22191,Indb Jbp Sf Express,INDB,JBP
+22192,Jbp Indb Sf Express,JBP,INDB
+22193,Dd Gwl Sf Express,DD,GWL
+22194,Gwl Dd Sf Express,GWL,DD
+22195,Vglb Bdts Sf Express,VGLJ,BDTS
+22196,Bdts Vglj Sfast,BDTS,VGLJ
+22197,Koaa Vglj Sf Express,KOAA,VGLJ
+22198,Vglj Koaa Sf Express,VGLJ,KOAA
+22199,Sushasan Express,GWL,BLP
+22200,Sushasan Sf Express,BLP,GWL
+22201,Duronto Express,SDAH,PURI
+22202,Duronto Express,PURI,SDAH
+22203,Duronto Express,VSKP,SC
+22204,Vskp Duronto,SC,VSKP
+22207,Tvc Ac Sf Express,MAS,TVC
+22208,Mas Sf Ac Express,TVC,MAS
+22209,Ndls Duronto,MMCT,NDLS
+22210,Mmct Duronto,NDLS,MMCT
+22213,Pnbe Duronto Express,SHM,PNBE
+22214,Duronto Express,PNBE,SHM
+22221,Nzm Rajdhani,CSMT,NZM
+22222,Csmt Rajdhani,NZM,CSMT
+22223,Snsi Vandebharat,CSMT,SNSI
+22224,Csmt Vandebharat,SNSI,CSMT
+22225,Sur Vande Bharat,CSMT,SUR
+22226,Csmt Vandebharat,SUR,CSMT
+22227,Vande Bharat Express,NJP,GHY
+22228,Vande Bharat Express,GHY,NJP
+22229,Mao Vande Bharat,CSMT,MAO
+22230,Csmt Vandebharat,MAO,CSMT
+22231,Smvb Vandebharat,KLBG,SMVB
+22232,Klbg Vandebharat,SMVB,KLBG
+22233,Vande Bharat Express,NJP,PNBE
+22234,Vande Bharat Express,PNBE,NJP
+22301,Vande Bharat Express,HWH,NJP
+22302,Vande Bharat Express,NJP,HWH
+22303,Hwh Gaya Vb Express,HWH,GAYA
+22304,Vande Bharat Express,GAYA,HWH
+22305,Smvb Jsme Express,SMVB,JSME
+22306,Jsme Smvt Express,JSME,SMVB
+22307,Hwh Bkn Express,HWH,BKN
+22308,Bkn Hwh Sf Express,BKN,HWH
+22309,Vande Bharat Express,HWH,BGP
+22310,Vande Bharat Express,BGP,HWH
+22311,Goda  Ltt  Express,GODA,LTT
+22312,Ltt Godda Express,LTT,GODA
+22317,Humsafar Express,SDAH,JAT
+22318,Sdah Humsafar,JAT,SDAH
+22321,Hool Express,HWH,SURI
+22322,Hool Express,SURI,HWH
+22323,Shabd Bhedi Express,KOAA,GCT
+22324,Shabd Bhedi Sf,GCT,KOAA
+22329,Hlz-asn Sf Express,HLZ,ASN
+22330,Asn Hlz Sf Express,ASN,HLZ
+22345,Vande Bharat Express,PNBE,GTNR
+22346,Vande Bharat Express,GTNR,PNBE
+22347,Vande Bharat Express,HWH,PNBE
+22348,Vande Bharat Express,PNBE,HWH
+22349,Vande Bharat Express,PNBE,RNC
+22350,Vande Bharat Express,RNC,PNBE
+22351,Ppta Smvb Express,PPTA,SMVB
+22352,Patliputra Express,SMVB,PPTA
+22353,Humsafar Express,PNBE,SMVB
+22354,Humsafar Express,SMVB,PNBE
+22355,Ppta Cdg Express,PPTA,CDG
+22356,Cdg Ppta Express,CDG,PPTA
+22387,Blackdiamond Express,HWH,DHN
+22388,Blackdiamond Express,DHN,HWH
+22401,Dee Mctm Ac Sf,DEE,MCTM
+22402,Mctm Dee Ac Sf,MCTM,DEE
+22403,Pdy Ndls Sf Express,PDY,NDLS
+22404,Ndls Pdy Sf Express,NDLS,PDY
+22405,Anvt Garib Rath,BGP,ANVT
+22406,Bgp Garib Rath,ANVT,BGP
+22407,Abkp Nzm Sf Express,ABKP,NZM
+22408,Nzm Abkp Sf Express,NZM,ABKP
+22409,Anvt Garib Rath,GAYA,ANVT
+22410,Gaya Garib Rath,ANVT,GAYA
+22411,Arunachal Express,NHLN,ANVT
+22412,Arunachal Express,ANVT,NHLN
+22413,Mao Nzm Rajdhani,MAO,NZM
+22414,Nzm Mao Rajdani,NZM,MAO
+22415,Vande Bharat Express,BSB,NDLS
+22416,Vande Bharat Express,NDLS,BSB
+22417,Mahamana Express,BSB,NDLS
+22418,Mahamana Express,NDLS,BSB
+22419,Suhaildev Sfast,GCT,ANVT
+22420,Suhaldev Express,ANVT,GCT
+22421,Dee Ju Sf Express,DEE,JU
+22422,Ju Dee Express,JU,DEE
+22425,Vande Bharat Express,AYC,ANVT
+22426,Vande Bharat Express,ANVT,AYC
+22427,Bhrigu  Sup Express,BUI,ANVT
+22428,Bhrigu Sf Express,ANVT,BUI
+22429,Dli Ptk Express,DLI,PTK
+22430,Ptk Dli Express,PTK,DLI
+22431,Sfg Uhp Express,SFG,MCTM
+22432,Sfg Mctm Sf Express,MCTM,SFG
+22433,Gct Anvt Sf Express,GCT,ANVT
+22434,Suhaldev Express,ANVT,GCT
+22435,Vande Bharat Express,BSB,NDLS
+22436,Vande Bharat Express,NDLS,BSB
+22437,Anvt Humsafar,PRYJ,ANVT
+22438,Pryj Humsafar,ANVT,PRYJ
+22439,Vande Bharat Express,NDLS,SVDK
+22440,Vande Bharat Express,SVDK,NDLS
+22441,Cktd-cnb-intercity,CKTD,CNB
+22442,Cnb-cktd-intercity,CNB,CKTD
+22443,Cnb Bdts Express,CNB,BDTS
+22444,Bdts Kanpur Sup,BDTS,CNB
+22445,Cnb Asr Sup,CNB,ASR
+22446,Asr Cnb Sf Express,ASR,CNB
+22447,Vande Bharat Express,NDLS,AADR
+22448,Vande Bharat Express,AADR,NDLS
+22449,Porvotr S Krnti,GHY,NDLS
+22450,Porvotr S Krnti,NDLS,GHY
+22451,Bdts Cdg Sf Express,BDTS,CDG
+22452,Cdg Bdts Express,CDG,BDTS
+22453,Rajya Rani Express,LJN,MTC
+22454,Mtc Ljn Sf Express,MTC,LJN
+22455,Snsi Kalka Express,SNSI,KLK
+22456,S Ngr Shirdi Express,KLK,SNSI
+22457,Vande Bharat Express,ANVT,DDN
+22458,Vande Bharat Express,DDN,ANVT
+22459,Anvt Humsafar,MDP,ANVT
+22460,Bv Dham Humsafr,ANVT,MDP
+22461,Shri Shakti Express,NDLS,SVDK
+22462,Shri Shakti Express,SVDK,NDLS
+22463,Rjsthn S Kranti,DEE,BKN
+22464,Rjsthn S Kranti,BKN,DEE
+22465,Baba B Dham Express,MDP,ANVT
+22466,Baba V Dham Express,ANVT,MDP
+22467,Bsb Gnc Express,BSB,GNC
+22468,Gnc Bsb Express,GNC,BSB
+22469,Vande Bharat Express,KURJ,NZM
+22470,Vande Bharat Express,NZM,KURJ
+22471,Bkn Dee Express,BKN,DEE
+22472,Intercity Express,DEE,BKN
+22473,Bkn Bdts Sf Express,BKN,BDTS
+22474,Bdts Bkn Sf Express,BDTS,BKN
+22475,Hsr Cbe Ac Express,HSR,CBE
+22476,Cbe Hsr Ac Express,CBE,HSR
+22477,Vande Bharat Express,NDLS,SVDK
+22478,Vande Bharat Express,SVDK,NDLS
+22479,Sarbat Da Bhala,NDLS,LNK
+22480,Sarbat Da Bhala,LNK,NDLS
+22481,Ju Dee Sf Express,JU,DEE
+22482,Dee Ju Sf Express,DEE,JU
+22483,Ju Gimb Express,JU,GIMB
+22484,Jodhpur Express,GIMB,JU
+22485,Moga Intercity,NDLS,MOGA
+22486,Moga Intercity,MOGA,NDLS
+22487,Vande Bharat Express,DLI,ASR
+22488,Vande Bharat Express,ASR,DLI
+22489,Vande Bharat Express,LKO,MTC
+22490,Vande Bharat Express,MTC,LKO
+22497,Sgnr Tpj Humsfar,SGNR,TPJ
+22498,Sgnr Humsafar,TPJ,SGNR
+22499,Vande Bharat Express,DGHR,BSB
+22500,Vande Bharat Express,BSB,DGHR
+22501,Newtinsukia Express,SMVB,NTSK
+22502,Ntsk Smvb Express,NTSK,SMVB
+22503,Dbrg Vivek Express,CAPE,DBRG
+22504,Vivek Express,DBRG,CAPE
+22511,Karmabhoomi Express,LTT,KYQ
+22512,Karmabhoomi Express,KYQ,LTT
+22531,Cpr Mtj Sf Express,CPR,MTJ
+22532,Mtj Cpr Sf Express,MTJ,CPR
+22533,Gkp Ypr Sup,GKP,YPR
+22534,Ypr Gorakpur Express,YPR,GKP
+22535,Rmm-bsbs Super Fast Express,RMM,BSBS
+22536,Bsbs Rmm Express,BSBS,RMM
+22537,Kushinagar Express,GKP,LTT
+22538,Kushinagar Express,LTT,GKP
+22539,Mau-anvt Suf Express,MAU,ANVT
+22540,Anvt-mau Suf Express,ANVT,MAU
+22541,Anvt Garib Rath,BSBS,ANVT
+22542,Bsbs Garib Rath,ANVT,BSBS
+22545,Vande Bharat Express,LJN,DDN
+22546,Vande Bharat Express,DDN,LJN
+22547,Gwl Sbib Sf Express,GWL,SBIB
+22548,Sbib Gwl Sf Express,SBIB,GWL
+22549,Vande Bharat Express,GKP,PRYJ
+22550,Vande Bharat Express,PRYJ,GKP
+22551,Dbg-juc Antyoday Express,DBG,JUC
+22581,Bui Ndls Sf Express,BUI,NDLS
+22582,Ndls Bui Sf Express,NDLS,BUI
+22601,Mas Snsi Sf Express,MAS,SNSI
+22602,Snsi Mas Sf Express,SNSI,MAS
+22603,Kgp Vm Sf Express,KGP,VM
+22604,Vm Kgp Sf Express,VM,KGP
+22605,Prr Ten Sf Express,PRR,TEN
+22606,Ten Prr Sf Express,TEN,PRR
+22609,Intercity Sf Express,MAQ,CBE
+22610,Intercity Sf Express,CBE,MAQ
+22611,Mas Njp Sf Express,MAS,NJP
+22612,Njp Mas Express,NJP,MAS
+22613,Rmm Ayc Sf Express,RMM,AYC
+22614,Ayc Rmm Express,AYC,RMM
+22615,Tpty Cbe Sf Express,TPTY,CBE
+22616,Tirupati Sf Express,CBE,TPTY
+22617,Tpty Smvb Sf Express,TPTY,SMVB
+22618,Tirupathi Express,SMVB,TPTY
+22619,Bsp Ten Sf Express,BSP,TEN
+22620,Ten Bsp Sf Express,TEN,BSP
+22621,Rmm Cape Sf Express,RMM,CAPE
+22622,Cape Rmm Sf Express,CAPE,RMM
+22623,Ms Mdu Sf Express,MS,MDU
+22624,Mdu Ms Sf Express,MDU,MS
+22625,Sbc Dbldeck Express,MAS,SBC
+22626,Mas Double Deck,SBC,MAS
+22627,Tpj Tvc Sf Express,TPJ,TVC
+22628,Tvc Tpj Sf Express,TVC,TPJ
+22629,Dadar Ten Express,DR,TEN
+22630,Ten Dr Sf Express,TEN,DR
+22631,Anuvrat Sf Express,MDU,BKN
+22632,Bkn Mdu Sf Express,BKN,MDU
+22633,Tvc Nzm Sf Express,TVC,NZM
+22634,Nzm Tvc Express,NZM,TVC
+22637,West Coast Express,MAS,MAQ
+22638,West Coast Express,MAQ,MAS
+22639,Alleppey Sf Express,MAS,ALLP
+22640,Chennai Sf Express,ALLP,MAS
+22641,Shalimar Sf Express,TVC,SHM
+22642,Shm Tvc Suf Express,SHM,TVC
+22643,Patna Sf Express,ERS,PNBE
+22644,Pnbe Ers Express,PNBE,ERS
+22645,Indb Kcvl Sf Express,INDB,KCVL
+22646,Ahilyanagari Express,KCVL,INDB
+22647,Krba Kcvl Express,KRBA,KCVL
+22648,Kcvl Krba Sf Express,KCVL,KRBA
+22649,Yercaud Sf Express,MAS,ED
+22650,Yercaud Sf Express,ED,MAS
+22651,Mas Pgt Express,MAS,PGT
+22652,Pgt Mas Express,PGT,MAS
+22653,Tvc Nzm Sf Express,TVC,NZM
+22654,Nzm Tvc Sf Express,NZM,TVC
+22655,Ers Nzm Sf Express,ERS,NZM
+22656,Nzm Ers Sf Express,NZM,ERS
+22657,Tbm Ncj Sf Express,TBM,NCJ
+22658,Ncj Tbm Sf Express,NCJ,TBM
+22659,Kcvl Ynrk Sf Express,KCVL,YNRK
+22660,Ynrk Kcvl Express,YNRK,KCVL
+22661,Rmm Sf Express,MS,RMM
+22662,Rmm Chennai Express,RMM,MS
+22663,Ms Jodhpur Express,TBM,JU
+22664,Ju Ms Sf Express,JU,TBM
+22665,Sbc Cbe Uday Express,SBC,CBE
+22666,Cbe Sbc Uday Express,CBE,SBC
+22667,Ncj Cbe Sf Express,NCJ,CBE
+22668,Cbe Ncj Sf Express,CBE,NCJ
+22669,Ers Pnbe Sf Express,ERS,PNBE
+22670,Pnbe Ers Express,PNBE,ERS
+22671,Tejas Express,MS,MDU
+22672,Tejas Express,MDU,MS
+22673,Bgkt Mq Sf Express,JU,MQ
+22674,Mq Bgkt Sf Express,MQ,JU
+22675,Chozhan Sf Express,MS,TPJ
+22676,Chozhan Sf Express,TPJ,MS
+22677,Ypr Kcvl Ac Express,YPR,KCVL
+22678,Kcvl Ypr Ac Express,KCVL,YPR
+22679,Intercity Express,YPR,HAS
+22680,Intercity Express,HAS,YPR
+22681,Chennai Express,MYS,MAS
+22682,Mas Mys Sf Express,MAS,MYS
+22683,Ypr Lko Express,YPR,LKO
+22684,Lko Ypr Sf Express,LKO,YPR
+22685,Cdg Skranti Express,YPR,CDG
+22686,Karntk S Kranti,CDG,YPR
+22687,Mys Bsb Express,MYS,BSB
+22688,Bsb Mys Express,BSB,MYS
+22689,Adi Ypr Sup Fast,ADI,YPR
+22690,Ahmedabad Express,YPR,ADI
+22691,Rajdhani Express,SBC,NZM
+22692,Sbc Rajdhani,NZM,SBC
+22697,Ubl Mas Sf Express,UBL,MAS
+22698,Mas Ubl Sf Express,MAS,UBL
+22701,Uday Express,VSKP,GNT
+22702,Vskp Uday Dd Express,GNT,VSKP
+22705,Jat Humsafar,TPTY,JAT
+22706,Tpty Hamsafar,JAT,TPTY
+22707,Double Decker,VSKP,TPTY
+22708,Tpty Vskp Dd Express,TPTY,VSKP
+22709,Ned Aadr Sf Express,NED,AADR
+22710,Aadr Ned Sf Express,AADR,NED
+22715,Kcg Mdu Sf Express,KCG,MDU
+22716,Mdu Kcg Sf Express,MDU,KCG
+22717,Rjt Sc Sup Express,RJT,SC
+22718,Rajkot Sf Express,SC,RJT
+22723,Ned Sgnr Sf Express,NED,SGNR
+22724,Sgnr Ned Sf Express,SGNR,NED
+22731,Mumbai Express,HYB,CSMT
+22732,Hyderabad Express,CSMT,HYB
+22737,Sc Hsr Sf Express,SC,HSR
+22738,Hsr Sc Sf Express,HSR,SC
+22801,Vskp Mas S F,VSKP,MAS
+22802,Mas Vskp Sf Express,MAS,VSKP
+22804,Sbp Hwh Sf,SBP,SHM
+22805,Bbs Anvt S F,BBS,ANVT
+22806,Anvt Bbs Sf Express,ANVT,BBS
+22807,Mas Suf Ac Express,SRC,MAS
+22808,Mas Src Ac Express,MAS,SRC
+22809,Vskp Sf Express,PRDP,VSKP
+22810,Prdp Sf Express,VSKP,PRDP
+22811,Tejas Raj Express,BBS,NDLS
+22812,Bbs Tejas Raj,NDLS,BBS
+22815,Bsp Ers Sf Express,BSP,ERS
+22816,Ers Bsp Sf Express,ERS,BSP
+22817,Hwh Mys Express,HWH,MYS
+22818,Mys Howrah Express,MYS,HWH
+22819,Intercity Sf Express,BBS,VSKP
+22820,Intercity Sf Express,VSKP,BBS
+22823,Tejas Raj Express,BBS,NDLS
+22824,Bbs Tejas Raj,NDLS,BBS
+22825,Shm Mas Sf Express,SHM,MAS
+22826,Mas Shm Sf Express,MAS,SHM
+22827,Puri St S F,PURI,ST
+22828,Surat Puri Express,ST,PURI
+22829,Bhuj Shm Express,BHUJ,SHM
+22830,Shm Bhuj  Sf Express,SHM,BHUJ
+22831,Hwh Ypr Sf Express,HWH,YPR
+22832,Ypr Hwh Sf Express,YPR,HWH
+22833,Humsafar Express,BBS,SMVB
+22834,Bbs Humsafar,SMVB,BBS
+22835,Shm Puri Sf Express,SHM,PURI
+22836,Puri Shm Sf,PURI,SHM
+22837,Dharti Abba Express,HTE,ERS
+22838,Dharti Aaba Express,ERS,HTE
+22839,Intercity Express,ROU,BBS
+22840,Intercity Sf Express,BBS,ROU
+22843,Bsp Pnbe Sf Express,BSP,PNBE
+22844,Pnbe Bsp Express,PNBE,BSP
+22845,Pune Hatia Express,PUNE,HTE
+22846,Hte Pune Sf Express,HTE,PUNE
+22847,Vskp Ltt S F,VSKP,LTT
+22848,Ltt Vskp Express,LTT,VSKP
+22849,Shm Sc Suf Express,SHM,SC
+22850,Sc Shm Wkly Sf,SC,SHM
+22851,Maq Vivek Sf Express,SRC,MAQ
+22852,Src Vivek Sf Express,MAQ,SRC
+22853,Shm Vskp Sf Express,SHM,VSKP
+22854,Vskp Shm S F,VSKP,SHM
+22855,Src Tpty Sf Express,SRC,TPTY
+22856,Tpty Src Sf Express,TPTY,SRC
+22857,Src Anvt Sf Express,SRC,ANVT
+22858,Anvt Src Sf Express,ANVT,SRC
+22859,Puri Mas S F,PURI,MAS
+22860,Mas Puri Sf Express,MAS,PURI
+22861,Kbj Ispat Express,HWH,KBJ
+22862,Kbj Ispat Express,KBJ,HWH
+22863,Smvb Sf Ac Express,HWH,SMVB
+22864,Smvb Hwh Ac Express,SMVB,HWH
+22865,Ltt Puri Express,LTT,PURI
+22866,Puri Ltt S F,PURI,LTT
+22867,Nzm Humsafar Express,DURG,NZM
+22868,Durg Humsfar,NZM,DURG
+22869,Vskp Mas S F,VSKP,MAS
+22870,Mas Vskp Sf Express,MAS,VSKP
+22871,Bbs Tpty S F,BBS,TPTY
+22872,Tpty Bbs Sf Express,TPTY,BBS
+22873,Dgha Vskp Sf Express,DGHA,VSKP
+22874,Vskp Dgha Sf,VSKP,DGHA
+22877,Hwh-ers Antyodaya Express,HWH,ERS
+22879,Bbs Tpty Sf,BBS,TPTY
+22880,Tpty Bbs Sf Express,TPTY,BBS
+22881,Pune Bbs Sf Express,PUNE,BBS
+22882,Bbs Pune Sf Express,BBS,PUNE
+22883,Garib Rath,PURI,YPR
+22884,Garibrath Express,YPR,PURI
+22887,Smvb Humsafar,HWH,SMVB
+22888,Hwh Humsafar,SMVB,HWH
+22889,Dgha Puri Express,DGHA,PURI
+22890,Puri Dgha Sup Express,PURI,DGHA
+22891,Hwh Rnc Suf Express,HWH,RNC
+22892,Rnc Hwh Suf Express,RNC,HWH
+22893,Snsi Howrah Express,SNSI,HWH
+22894,Hwh Snsi Sf Express,HWH,SNSI
+22895,Vande Bharat Express,HWH,PURI
+22896,Vande Bharat Express,PURI,HWH
+22897,Kandari Express,HWH,DGHA
+22898,Kandari Express,DGHA,HWH
+22901,Bdts Udz Sf Express,BDTS,UDZ
+22902,Udz Bdts Sf Express,UDZ,BDTS
+22903,Bhuj Ac Sf Express,BDTS,BHUJ
+22904,Bdts Sf Ac Express,BHUJ,BDTS
+22905,Okha Shm Sf Express,OKHA,SHM
+22906,Shm Okha Sf Express,SHM,OKHA
+22907,Mao Hapa Sf Express,MAO,HAPA
+22908,Hapa Mao Sf Express,HAPA,MAO
+22909,Bl Puri Sf Express,BL,PURI
+22910,Puri Bl Sf,PURI,BL
+22911,Hwh Shipra Express,INDB,HWH
+22912,Shipra Express,HWH,INDB
+22913,Shc Hamsafar Express,BDTS,SHC
+22914,Bdts Humsafar Express,SHC,BDTS
+22915,Bdts Hsr Sf Express,BDTS,HSR
+22916,Hsr Bdts Sf Express,HSR,BDTS
+22917,Bdts Hw Sf Express,BDTS,HW
+22918,Hw Bdts Sf Express,HW,BDTS
+22919,Adi Humsafar,MAS,ADI
+22920,Adi Mas Humsafar,ADI,MAS
+22923,Jam Humsafar,BDTS,JAM
+22924,Bdts Humsafar,JAM,BDTS
+22925,Okha Vande B,ADI,OKHA
+22926,Adi Vande Bharat,OKHA,ADI
+22927,Lokshakti Express,BDTS,ADI
+22928,Lokshakti Express,ADI,BDTS
+22929,Drd Brc Sfast,DRD,BRC
+22930,Brc Drd Sfast,BRC,DRD
+22931,Bdts Jsm Sfast,BDTS,JSM
+22932,Jsm Bdts Sf Express,JSM,BDTS
+22933,Bdts Jp Sfast,BDTS,JP
+22934,Jp Bdts Sf Express,JP,BDTS
+22935,Bdts Pit Sfast,BDTS,PIT
+22936,Pit Bdts Sfast,PIT,BDTS
+22937,Rajkot Rewa Sf,RJT,REWA
+22938,Rewa Rjt Sup Express,REWA,RJT
+22939,Okha Bsp Sf Express,OKHA,BSP
+22940,Bsp Okha Sf Express,BSP,OKHA
+22941,Indb Uhp Express,INDB,MCTM
+22942,Indb Sf Express,MCTM,INDB
+22943,Daund Indore Express,DD,INDB
+22944,Indb Daund Express,INDB,DD
+22945,Saurashtra Mail,MMCT,OKHA
+22946,Saurashtra Mail,OKHA,MMCT
+22947,St Bgp Sfast,ST,BGP
+22948,Bgp Surat Express,BGP,ST
+22949,Bdts Dee Sfast,BDTS,DEE
+22950,Dee Bdts Sf Express,DEE,BDTS
+22951,Bdts Gimb Sfast,BDTS,GIMB
+22952,Gimb Bdts Sfast,GIMB,BDTS
+22953,Gujrat Sf Express,MMCT,ADI
+22954,Gujarat Sf Express,ADI,MMCT
+22955,Kutch Express,BDTS,BHUJ
+22956,Kutch Express,BHUJ,BDTS
+22957,Somnath Express,GNC,VRL
+22958,Somnath Express,VRL,GNC
+22959,Intercity Express,BRC,JAM
+22960,Intercity Express,JAM,BRC
+22961,Vande Bharat Express,MMCT,ADI
+22962,Vande Bharat Express,ADI,MMCT
+22963,Bdts Bvc Sfast,BDTS,BVC
+22964,Bvc Bdts Sfast,BVC,BDTS
+22965,Bdts Bgkt Express,BDTS,BGKT
+22966,Bgkt Bdts Express,BGKT,BDTS
+22967,Adi Pryj Sfast,ADI,PRYJ
+22968,Pryj Adi Sf Express,PRYJ,ADI
+22969,Okha Bsbs Sf Express,OKHA,BSBS
+22970,Bsbs Okha Sf Express,BSBS,OKHA
+22971,Bdts Patna Sfast,BDTS,PNBE
+22972,Pnbe Bdts Sf Express,PNBE,BDTS
+22973,Gimb Puri Sup,GIMB,PURI
+22974,Puri Gimb S F,PURI,GIMB
+22975,Bdts Rmr Sfast,BDTS,RMR
+22976,Rmr Bdts Express,RMR,BDTS
+22977,Jp Ju Express,KWP,JU
+22978,Ju Jp Express,JU,JP
+22981,Kota Sgnr Express,KOTA,SGNR
+22982,Sgnr Kota Sf,SGNR,KOTA
+22983,Kota Indb Sf Express,KOTA,INDB
+22984,Indb Kota Sf Express,INDB,KOTA
+22985,Raj Humsafar Express,UDZ,DEE
+22986,Raj Hamsafar Express,DEE,UDZ
+22987,Aii Af Express,AII,AF
+22988,Af Aii Sf Express,AF,AII
+22989,Bdts Mhv Express,BDTS,MHV
+22990,Mhv Bdts Express,MHV,BDTS
+22995,Mandore Express,DLI,JU
+22996,Mandore Express,JU,DLI
+22997,Jlwc Sgnr Express,JLWC,SGNR
+22998,Sgnr Jlwc Express,SGNR,JLWC
+25014,Corbet Prk Link,RMR,MB
+25036,Rmr Dli Link Express,RMR,MB
+28181,Tata Kir Express,TATA,KIR
+28182,Kir Tata Special,KIR,TATA
+50104,Passenger,RN,DIVA
+50107,Swv Madgaon Express,SWV,MAO
+50108,Madgaon Swv Express,MAO,SWV
+52451,Shivalk Dlx Express,KLK,SML
+52452,Shivalk Dlx Express,SML,KLK
+52453,Klk Sml Express,KLK,SML
+52454,Sml Klk Express,SML,KLK
+52455,Himalyan Queen,KLK,SML
+52456,Himalyan Queen,SML,KLK
+52457,Klk Sml Express,KLK,SML
+52458,Sml Klk Express,SML,KLK
+52459,Klk Sml Express,KLK,SML
+52460,Sml Klk Express,SML,KLK
+52966,Passenger,KKD,PTP
+82355,Pnbe Csmt Sf Express,PNBE,CSMT
+82356,Csmt Pnbe Sf Express,CSMT,PNBE
+82501,Irctc Tejas Express,LJN,NDLS
+82502,Irctc Tejas Express,NDLS,LJN
+82653,Ypr Jp Express,YPR,JP
+82654,Jp Ypr Sf Express,JP,YPR
+82901,Irctc Tejas Express,MMCT,ADI
+82902,Irctc Tejas Express,ADI,MMCT
